@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: Consulting
+    url: /inhalt
+  - title: Training
+    url: /training
+  - title: Bücher
+    url: /buecher/
+  - title: Artikel
+    url: /artikel/
+  - title: "Über mich"
+    url: /about
