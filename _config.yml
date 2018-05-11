@@ -2,7 +2,7 @@
 #
 
 remote_theme: "mmistakes/minimal-mistakes"
-search                   : true
+search                   : false
 
 # Site Settings
 locale                   : "de"
