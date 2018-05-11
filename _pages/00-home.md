@@ -3,15 +3,15 @@ title: Dr. Gernot Starke
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/gernotstarke-site-header.png
-excerpt: "**Software-Engineering und -architektur**"
+  overlay_image: /images/header/site-header.png
+excerpt: "**Softwarearchitektur und -engineering**"
 
 
 feature_row:
   - title: "architecting..."
     excerpt: "Praktische Unterstützung bei Konstruktion, Entwicklung und Dokumentation Ihrer Systeme.<br>
     (Mit-)Gründer von arc42 - dem Framework für effektive Architekturkommunikation."
-    url: /inhalt
+    url: /architektur
     btn_label: "Architektur"
 
   - title: "improving"
@@ -29,7 +29,10 @@ feature_row:
 
 ---
 
-[innoQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
+![](/images/about/gernot-400px.jpg){: .align-right}
+
+
+[INNOQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
 Coach und Consultant für Softwareprojekte, berät Organisationen
 aus unterschiedlichen Branchen, mit Fokus _Informationssysteme_.
 

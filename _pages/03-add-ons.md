@@ -3,12 +3,11 @@ title: Add-Ons
 layout: single
 permalink: /addons/
 header:
-  overlay_image: /images/esa-banner.png
-
-excerpt: "zusätzliche Infos"
+  overlay_image: /images/header/site-header.png
+  excerpt: "zusätzliche Infos"
 ---
 
-{% include toc icon="sort-amount-asc" title="Themen" %}
+{% include toc title="Themen" %}
 
 {% for addon in site.addons %}
 

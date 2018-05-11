@@ -3,7 +3,7 @@ title: Dr. Gernot Starke
 layout: splash
 permalink: /about/
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/header/site-header.png
 
 
 gernot:
@@ -94,7 +94,8 @@ lebenslauf:
 
     Verheiratet mit _Traumfrau Uli_, zwei (große) Kinder.
 
-    Überzeugter Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs, IntelliJ statt Fernsehen."
+    Notorisch neugierig. Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs,
+    Outdoor statt Museum."
 
 ---
 

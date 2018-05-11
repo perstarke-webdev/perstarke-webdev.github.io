@@ -1,11 +1,11 @@
 # main links
 main:
   - title: Consulting
-    url: /inhalt
+    url: /consulting
   - title: Training
     url: /training
   - title: Bücher
-    url: /buecher/
+    url: /buecher
   - title: Artikel
     url: /artikel/
   - title: "Über mich"
