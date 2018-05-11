@@ -3,8 +3,4 @@
 
 source "https://rubygems.org"
 
-gem "minimal-mistakes-jekyll"
-
-group :jekyll_plugins do
- gem 'jekyll-asciidoc'
-end
+gem "github-pages", group: :jekyll_plugins
