@@ -11,10 +11,10 @@ title                    : "Dr. Gernot Starke, INNOQ Fellow"
 title_separator          : "-"
 name                     : ""
 description              : "Softwarearchitektur - aber richtig."
-url                      : "http://gernotstarke.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gernotstarke.github.io/gernotstarke.de-site/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "gernotstarke/gernotstarke.de-site" # GitHub username/repo-name
-teaser                   : /images/esa-banner.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 permalink                : none
@@ -43,8 +43,8 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Gernot Starke"
-  avatar           : /images/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              :
   location         : "Köln"
   email            : gs@gernotstarke.de
   uri              : https://gernotstarke.de
@@ -120,9 +120,6 @@ sass:
 
 # Outputting
 collections:
-  addons:
-   output: true
-   permalink: /:collection/:path.html
 
 # Plugins
 plugins:
