@@ -1,22 +1,25 @@
 # Jekyll technical configuration!
 #
 
-remote_theme: "mmistakes/minimal-mistakes"
-search                   : false
+theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes"
+
+search             : false
+search_full_content: false
 
 # Site Settings
-locale                   : "de"
-title                    : "Dr. Gernot Starke, INNOQ Fellow"
-title_separator          : "-"
-name                     : ""
-description              : "Softwarearchitektur - aber richtig."
-url                      : "https://gernotstarke.github.io/gernotstarke.de-site/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""  # the subpath of your site, e.g. "/blog"
-repository               : "gernotstarke/gernotstarke.de-site" # GitHub username/repo-name
-teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 200
-permalink                : none
+locale          : "de"
+title           : "Dr. Gernot Starke, INNOQ Fellow"
+title_separator : "-"
+name            : ""
+description     : "Softwarearchitektur - aber richtig."
+url             : "https://gernotstarke-de-site-42.netlify.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl         : ""  # the subpath of your site, e.g. "/blog"
+repository      : "gernotstarke/gernotstarke.de-site" # GitHub username/repo-name
+teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs     : false # true, false (default)
+words_per_minute : 200
+permalink       : none
 
 # SEO Related
 google_site_verification :
@@ -42,7 +45,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Gernot Starke"
-  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  /images/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         : "Köln"
   email            : gs@gernotstarke.de
@@ -90,6 +93,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Liquid
+strict_front_matter: true
+liquid:
+  error_mode: strict
 
 # Conversion
 markdown: kramdown
@@ -118,7 +125,11 @@ sass:
 
 
 # Outputting
-collections:
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
@@ -163,7 +174,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
       share: true
       related: true

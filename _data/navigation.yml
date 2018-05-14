@@ -6,7 +6,7 @@ main:
     url: /training
   - title: Bücher
     url: /buecher
-  - title: Artikel
-    url: /artikel/
+#  - title: Artikel
+#    url: /artikel/
   - title: "Über mich"
     url: /about
