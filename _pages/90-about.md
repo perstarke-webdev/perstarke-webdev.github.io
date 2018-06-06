@@ -94,8 +94,13 @@ lebenslauf:
 
     Verheiratet mit _Traumfrau Uli_, zwei (große) Kinder.
 
-    Notorisch neugierig. Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs,
+    Notorisch neugierig. Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs, Kopfstand statt Kreuzworträtsel,
     Outdoor statt Museum."
+
+privat:
+  - image_path: /images/about/ochsenkopf-grat.jpg
+    alt: outdoor
+    excerpt: ''
 
 ---
 
@@ -114,3 +119,5 @@ lebenslauf:
 {% include feature_row id="training" type="left" %}
 
 {% include feature_row id="lebenslauf" type="center" %}
+
+{% include feature_row id="privat" type= "center" %}

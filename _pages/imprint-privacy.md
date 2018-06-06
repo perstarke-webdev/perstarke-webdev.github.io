@@ -1,27 +1,23 @@
 ---
 layout: single
 title: Imprint & Privacy
-permalink: /imprint/
+permalink: /imprint
 share: false
 ---
 
 
 ## Impressum
 
-#### Anbieter
+#### Anbieter und verantwortlich nach § 6 Abs.2 MDStV
 
 Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 
 
 #### Kontakt
 
-Telefon: +49 177 <br>728 2570
+Telefon: +49 177 728 2570<br>
 e-Mail: <a href="xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxex" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse wird nach Klick sichtbar)</a>
 <br>
-
-#### Verantwortlich nach § 6 Abs.2 MDStV
-
-Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 
 
 ## Datenschutzerklärung
@@ -29,7 +25,7 @@ Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 #### Geltungsbereich
 Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Dr. Gernot Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
 <br />
-Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
+Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
 <br />
 
 #### Zugriffsdaten/ Server-Logfiles
@@ -43,7 +39,7 @@ Der Anbieter verwendet die Protokolldaten nur für statistische Auswertungen zum
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
 
 #### Kommentare und Beiträge
-Wenn Nutzer Kommentare im Blog oder sonstige Beiträge hinterlassen, werden ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit des Anbieters, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte schreibt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall kann der Anbieter selbst für den Kommentar oder Beitrag belangt werden und ist daher an der Identität des Verfassers interessiert.
+Diese Site enthält keine Kommentarfunktion, Nutzer können daher keine Beiträge hinterlassen.
 
 #### Analyse, Tracking und Cookies
 Dieses Angebot benutzt KEINE Tracking Werkzeuge (wie beispielsweise

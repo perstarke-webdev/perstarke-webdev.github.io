@@ -34,4 +34,7 @@ aus unterschiedlichen Branchen, mit Fokus _Informationssysteme_.
 Reviews, Audits, Analysen, Architektur- und Systembewertungen.
 Unterstützt bei Modernisierung, Migration, Renovierung bestehender Systeme.
 
+(Mit-)gründer von [arc42](https://arc42.org), Gründer von [aim42](https://aim42.org), Gründungsmitglied des [iSAQB e.V.](https://isaqb.org).
+
+
 {% include feature_row %}
