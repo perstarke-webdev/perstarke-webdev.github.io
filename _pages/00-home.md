@@ -11,16 +11,17 @@ feature_row:
   - title: "architecting..."
     excerpt: "Praktische Unterstützung bei Konstruktion, Entwicklung und Dokumentation Ihrer Systeme.<br>
     (Mit-)Gründer von arc42 - dem Framework für effektive Architekturkommunikation."
-    url: /architektur
+    #url: /architektur
 
-  - title: "improving"
+  - title: "improving..."
     excerpt: "Verbesserung, Modernisierung und Evolution bestehender Systeme"
-    url: "/improve"
+    #url: "/improve"
 
-  - title: "training"
+  - title: "training..."
     excerpt: "Mehr als 15 Jahre Erfahrung mit praxisnahen Schulungen: von Softwarearchitektur (foundation, advanced), Software-Engineering über Agilität bis zu Zeitmanagement.
     <br>Erfahrung in Konzeption spezifischer IT-Curriculae für Unternehmen, strategische Weiterbildung von IT-Personal sowie IT-Themen für Management.<br><br>
     Praxisrelevante Schulungen, direkt umsetzbare Inhalte, konkrete Tipps."
+    url: "/training"
 
 ---
 

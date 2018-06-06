@@ -4,8 +4,8 @@ main:
 #    url: /consulting
   - title: Training
     url: /training
-  - title: Bücher
-    url: /buecher
+#  - title: Bücher
+#    url: /buecher
 #  - title: Artikel
 #    url: /artikel/
   - title: "Über mich"
