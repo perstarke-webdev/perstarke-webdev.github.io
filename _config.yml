@@ -13,7 +13,7 @@ title           : "Dr. Gernot Starke, INNOQ Fellow"
 title_separator : "-"
 name            : ""
 description     : "Softwarearchitektur - aber richtig."
-url             : "https://gernotstarke-de-site.netlify.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url             : "https://www.gernotstarke.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
 repository      : "gernotstarke/gernotstarke.de-site" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
