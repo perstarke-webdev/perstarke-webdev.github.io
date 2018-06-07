@@ -1,14 +1,11 @@
 ---
 layout: single
-title: Imprint & Privacy
+title: Impressum und Datenschutz
 permalink: /imprint
 share: false
 ---
 
-
-## Impressum
-
-#### Anbieter und verantwortlich nach § 6 Abs.2 MDStV
+#### Anbieter und Verantwortliche Person
 
 Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 
@@ -16,7 +13,7 @@ Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 #### Kontakt
 
 Telefon: +49 177 728 2570<br>
-e-Mail: <a href="xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxex" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse wird nach Klick sichtbar)</a>
+e-Mail: gs_at_gernotstarke.de
 <br>
 
 
@@ -29,14 +26,17 @@ Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrund
 <br />
 
 #### Zugriffsdaten/ Server-Logfiles
-Der Anbieter (beziehungsweise sein Webspace-Provider) erhebt Daten über jeden Zugriff auf das Angebot (so genannte Serverlogfiles). Zu den Zugriffsdaten gehören:<br />
+Der Webspace-Provider des Anbieters erhebt Daten über jeden Zugriff auf das Angebot (so genannte Serverlogfiles). Zu diesen Zugriffsdaten gehören:<br />
 <br />
 Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br/>
 <br/>
-Der Anbieter verwendet die Protokolldaten nur für statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der Anbieterbehält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
+Der Anbieter verwendet diese Protokolldaten *nicht*!
+
+Der Anbieter behält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
 
 #### Kontaktaufnahme
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+
 
 #### Kommentare und Beiträge
 Diese Site enthält keine Kommentarfunktion, Nutzer können daher keine Beiträge hinterlassen.
