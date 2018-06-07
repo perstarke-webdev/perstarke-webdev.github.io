@@ -14,19 +14,22 @@ toc_icon: "cog"
 
 ### (geplant September 2018) Patterns-kompakt, 5.A
 
-### 2018, Februar: Knigge, 3. Auflage
+### 2018: Knigge, 3. Auflage
 
 ![](/images/books/knigge3.jpg){: .align-right}
 
 Schon wieder ist ein Jahr der Knigge-Kolumne vorrüber - und wir haben
 die besten der neuen Teile in die dritte Auflage des Knigge-Buches übernommen.
+Dazu gehören unsere (sehr kritische) Einordnung von _bimodaler IT_,
+eine Warnung vor oft vergessenen Aspekten der Industrie 4.0 sowie einer deutlichen
+Motivation des Themas _Qualität_ mit diversen praktischen Ratschlägen zu deren Verbesserung.
 
 Und nach knallig-grün und leuchtend-rot bot sich jetzt das Sonnengelb
 als Farbe an.
 
 <hr>
 
-### 2017, September: ESA, 8. Auflage
+### 2017: ESA, 8. Auflage
 
 ![](/images/books/esa8-cover.png){: .align-left}
 8., überarbeitete Auflage. 11/2017
@@ -36,7 +39,7 @@ Die 8. Auflage von "Effektive Softwarearchitekturen" - wieder mit vielen
 Verbesserungen und Neuerungen (beispielsweise Microservices) - dafür habe
 ich das Kapitel über "SOA" in den Ruhestand geschickt.
 
-Für diese Auflage habe ich die [Website zum Buch](http://esabuch.de)
+Für diese Auflage habe ich die [Website zum Buch](https://esabuch.de)
 komplett erneuert - und deren Entwicklung und Pflege auf [Jekyll](https://jekyllrb.com) (und Docker) umgestellt. Ausserdem ist
 das Repository der Website mittweile [bei Github öffentlich](https://github.com/gernotstarke/esabuch.de-site). Anregungen und Fehler
 können Sie seither auch als [Github-Issue](https://github.com/gernotstarke/esabuch.de-site/issues) einstellen.
@@ -44,6 +47,40 @@ können Sie seither auch als [Github-Issue](https://github.com/gernotstarke/esab
 <hr>
 
 ### 2016: arc42 by Example
+![](/images/books/arc42-by-example.png){: .align-right}
+
+200 Seiten, eBook (auf Englisch), veröffentlicht bei [Leanpub](https://leanpub.com/arc42byexample).
+Verfügbar in verschiedenen Formaten (u.a. pdf, epub, kindle).
+
+Wir (Michael Simons, Stefan Zörner und ich) haben sechs reale Softwaresysteme
+mit Hilfe des [arc42 Templates](https://leanpub.com/arc42byexample) dokumentiert,
+damit Sie anhand praktischer Beispiele sehen können, wie arc42 sich denn so
+_anfühlen_ könnte.
+
+Dazu gehören:
+* Eine Online-App zur Verwaltung von Fahrrad-Touren (die Michael Simons seit einigen Jahren betreibt)
+* Eine Schach-Engine von Stefan Zörner
+* Ein CRM-System
+* Ein Open-Source System zur technischen und semantischen Prüfung von HTML
+
+Gerne genutzt, um die Einführung von arc42 in Teams oder Projekten zu unterstützen.
+
+### 2016: arc42 in Aktion
+![](/images/books/arc42-in-aktion.jpg){: .align-left}
+
+Praktische Tipps zur Architekturdokumentation, von Gernot Starke und Peter Hruschka. Carl-Hanser Verlag, 2016. 190 Seiten, flexibler Einband.
+
+Das _missing manual_ zu arc42, was wir schon vor Jahren hätten schreiben sollen: pragmatische Tipps, angefangen bei allgemeinen Grundlagen technischer Doku bis hin
+zu Ratschlägen für alle Teile von arc42.
+
+Unser Fokus hier liegt auf _Sparsamkeit_ und _Pragmatismus_: Wir zeigen, wie Sie
+mit moderatem bis kleinem Aufwand nützliche Dokumentation erstellen und pflegen können.
+
+### 2016: Communicating Software Architectures
+![](/images/books/arc42-in-practice.jpg){: .align-right}
+
+
+This practical guide shows how you can effectively apply the practical and well-proven arc42 template to design, develop and document your software architecture. It contains more than 200 practical tips how to improve your architecture communication and documentation.
 
 
 ### 2015: ESA, 7. Auflage
