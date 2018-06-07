@@ -59,8 +59,17 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 Auf unseren Seiten wird auf Funktionen des Dienstes Twitter weitergeleitet. Diese Funktionen werden angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter http://twitter.com/privacy.
 
-Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter: http://twitter.com/account/settings ändern.
+Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter http://twitter.com/account/settings ändern.
 
+#### Datenschutzerklärung für die Nutzung von FontAwesome
+
+Auf unseren Seiten verwenden wir grafische Symbole von FontAwesome,
+einem Visualisierungsdienst der Firma Font Awesome, Inc. Dieser Dienst
+erlaubt die Darstellung diverser Icon-Symbole auf unseren Seiten.
+
+FontAwesome nutzt anonyme Zugriffsdaten, die in deren
+[privacy policy](https://fontawesome.com/privacy) spezifiziert sind.
+<br/>
 
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />

@@ -14,6 +14,16 @@ toc_icon: "cog"
 
 ### (geplant September 2018) Patterns-kompakt, 5.A
 
+Karl Eilebrecht, Gernot Starke: Entwurfsmuster für effektive Softwareentwicklung.
+Springer-Vieweg Verlag, 5. überarbeitete und erweiterte Auflage, 2018.
+
+Wir haben das Buch für die fünfte Auflage ordentlich überarbeitet, um nach inzwischen
+fast 6 Jahren einige Altersspuren wie ausgestorbene Technologien und Verfahren weg zu polieren. Die weiterführenden Hinweise in Kapitel 11 haben wir runderneuert - und
+beispielsweise um Tipps zu Microservices ergänzt. Unsere Einführung zur _Schablonendokumentation_ (wie etwa arc42 oder Volere) haben wir gründlich aktualisiert.
+
+Daneben gibt es natürlich auch Neues, etwa die Patterns _Hashwertschlüssel_ oder _Inbetriebnahme_.
+
+<hr/>
 ### 2018: Knigge, 3. Auflage
 
 ![](/images/books/knigge3.jpg){: .align-right}
@@ -65,6 +75,8 @@ Dazu gehören:
 
 Gerne genutzt, um die Einführung von arc42 in Teams oder Projekten zu unterstützen.
 
+<hr/>
+
 ### 2016: arc42 in Aktion
 ![](/images/books/arc42-in-aktion.jpg){: .align-left}
 
@@ -76,11 +88,34 @@ zu Ratschlägen für alle Teile von arc42.
 Unser Fokus hier liegt auf _Sparsamkeit_ und _Pragmatismus_: Wir zeigen, wie Sie
 mit moderatem bis kleinem Aufwand nützliche Dokumentation erstellen und pflegen können.
 
+<hr/>
+
 ### 2016: Communicating Software Architectures
 ![](/images/books/arc42-in-practice.jpg){: .align-right}
 
-
+250 Seiten, eBook (auf Englisch)
 This practical guide shows how you can effectively apply the practical and well-proven arc42 template to design, develop and document your software architecture. It contains more than 200 practical tips how to improve your architecture communication and documentation.
+
+<hr/>
+
+### 2016: Glossary of Software Architecture Terminology
+
+![](/images/books/isaqb-glossary-2016.jpg){: .align-left}
+
+Seit 2015 pflege ich (unterstützt von mehreren anderen Personen) ein frei verfügbares
+Glossar von Begriffen rund um Softwarearchitektur - insbesondere aus dem Kontext
+des [iSAQB e.V.](https://isaqb.org).
+
+Enthalten sind bidirektionale Übersetzungen wichtiger Begriffe (aktuell DE-EN und EN-DE).
+
+Das Buch wird aus Markdown-Sources von einem
+[Github-Repository](https://github.com/isaqb-org/glossary) generiert.
+
+Den gesamte Erlös aus dem Verkauf dieses Buches spenden die Autoren der
+[Electronic Frontier Foundation](https://www.eff.org/), der "_leading nonprofit organization defending digital privacy, free speech, and innovation_".
+
+<hr/>
+
 
 
 ### 2015: ESA, 7. Auflage

@@ -10,7 +10,7 @@ gernot:
   - image_path: /images/about/gernot-portrait.jpg
     alt: Gernot Starke
     title: Softwarearchitekt.
-    excerpt: '[innoQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
+    excerpt: '[INNOQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
     Coach und Consultant für Softwareprojekte, berät Organisationen
     aus unterschiedlichen Branchen, mit Fokus _Informationssysteme_.
 
