@@ -8,13 +8,13 @@ header:
 
 ---
 
-###1. (geplant September 2018) Patterns-kompakt, 5.A
+### (geplant September 2018) Patterns-kompakt, 5.A
 
 Karl Eilebrecht, Gernot Starke: Entwurfsmuster für effektive Softwareentwicklung.
 Springer-Vieweg Verlag, 5. überarbeitete und erweiterte Auflage, 2018.
 
 Wir haben das Buch für die fünfte Auflage ordentlich überarbeitet, um nach inzwischen
-fast 6 Jahren einige Altersspuren wie ausgestorbene Technologien und Verfahren weg zu polieren. Die weiterführenden Hinweise in Kapitel 11 haben wir runderneuert - und
+fast 6 Jahren einige Altersspuren wie ausgestorbene Technologien und Verfahren weg zu polieren. Die weiterführenden Hinweise haben wir runderneuert - und
 beispielsweise um Tipps zu Microservices ergänzt. Unsere Einführung zur _Schablonendokumentation_ (wie etwa arc42 oder Volere) haben wir gründlich aktualisiert.
 
 Daneben gibt es natürlich auch Neues, etwa die Patterns _Hashwertschlüssel_ oder _Inbetriebnahme_.
@@ -222,6 +222,7 @@ aufgenommen.
 
 ### 2013: Patterns kompakt, 4. A
 
+<hr/>
 
 ### 2012: Knigge für Softwarearchitekten, 1.A
 
@@ -229,14 +230,17 @@ aufgenommen.
 Über 20 Folge der Kolumne "Knigge für Softwarearchitekten" haben Peter Hruschka
 und ich für's JavaMagazin geschrieben - bevor wir die Highlights nochmal überarbeitet
 und in Buchform zusammengefasst haben.
+<hr/>
 
 ### 2012: Basiswissen für Softwarearchitekten, 1. Auflage
 
+<hr/>
 
 ### 2011: SWA-kompakt, 2.A
 
 Software-Architektur kompakt
 
+<hr/>
 
 ### 2010: ESA, 5. Auflage
 
@@ -247,6 +251,8 @@ beispielsweise _Persistenz_ und _(Grafische) Benutzerschnittstellen_.
 
 Infos zu arc42 sind jetzt an arc42 V 5.0 angepasst.
 
+<hr/>
+
 ### 2009: ESA, 4. Auflage
 
 ![](/images/books/esa4-cover.png){: .align-right}
@@ -254,6 +260,7 @@ In der vierten Auflage fand zum ersten Mal der Lehrplan des iSAQB Einzug in
 das Buch. Weiterhin zwei konkrete Beispiele von Softwarearchitekturen, beide
 beschrieben mit Hilfe des [arc42 ](http://arc42.de) Templates.
 
+<hr/>
 
 ### 2008: ESA, 3. Auflage
 
@@ -264,6 +271,13 @@ _Ausnahme- und Fehlerbehandlung_.
 
 Der Verlag hat auf ein neues Seitenformat sowie einen neuen Typ der Bindung
 umgestellt, die aufgeklappt auf dem Tisch liegenbleibt. Mittlerweile ist der Umfang auf 400 Seiten gewachsen.
+<hr/>
+
+### 2007: SOA Expertenwissen
+
+Stefan Tilkov, Gernot Starke (Hrsg): SOA Expertenwissen, dpunkt Verlag.
+
+<hr/>
 
 ### 2005: ESA, 2. Auflage
 
@@ -271,12 +285,23 @@ umgestellt, die aufgeklappt auf dem Tisch liegenbleibt. Mittlerweile ist der Umf
 In der zweiten Auflage kamen die Teile über MDA und UML2 neu hinzu,
 diverse Kapitel erlebten teilweise kräftige Umbauten.
 
+<hr/>
+
 ### 2002: ESA, 1. Auflage
 
 ![image-left](/images/books/esa1-cover.jpg){: .align-left}
 Effektive Softwarearchitekturen, ein praktischer Leitfaden:
+
 Die erste Auflage dieses Buches erschien 2002, mit 224 Seiten noch ziemlich schlank.
 Direkt nach Erscheinen gewann es die Auszeichnung "Bestes Buch" der OOP-Konferenz.
 
 ![](/images/books/bestbookaward_oop2003.jpg){: .align-right}
 Auf dem Foto sehen Sie mich zusammen mit Dr. Erich Gamma, der als treibende Kraft hinter "Eclipse" den Preis für die beste Entwicklungsumgebung erhielt.
+
+<hr/>
+
+### 1994: Sprachen zur Software-Prozessmodellierung
+
+Shaker-Verlag (Aachen), 210 Seiten.
+Meine Dissertation, erstellt an der J.Kepler Universität in Linz, unter der
+Ägide des großartigen Prof. Dr. Gerhard Chroust.
