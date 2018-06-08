@@ -6,13 +6,9 @@ permalink: /buecher
 header:
   overlay_image: /images/header/site-header.png
 
-toc: true
-toc_label: "Bücher"
-toc_icon: "cog"  
 ---
 
-
-### (geplant September 2018) Patterns-kompakt, 5.A
+###1. (geplant September 2018) Patterns-kompakt, 5.A
 
 Karl Eilebrecht, Gernot Starke: Entwurfsmuster für effektive Softwareentwicklung.
 Springer-Vieweg Verlag, 5. überarbeitete und erweiterte Auflage, 2018.
@@ -26,7 +22,7 @@ Daneben gibt es natürlich auch Neues, etwa die Patterns _Hashwertschlüssel_ od
 <hr/>
 ### 2018: Knigge, 3. Auflage
 
-![](/images/books/knigge3.jpg){: .align-right}
+![](/images/books/knigge3.jpg){: .align-left}
 
 Schon wieder ist ein Jahr der Knigge-Kolumne vorrüber - und wir haben
 die besten der neuen Teile in die dritte Auflage des Knigge-Buches übernommen.
@@ -37,11 +33,11 @@ Motivation des Themas _Qualität_ mit diversen praktischen Ratschlägen zu deren
 Und nach knallig-grün und leuchtend-rot bot sich jetzt das Sonnengelb
 als Farbe an.
 
-<hr>
+<hr/>
 
 ### 2017: ESA, 8. Auflage
 
-![](/images/books/esa8-cover.png){: .align-left}
+![](/images/books/esa8-cover.png){: .align-right}
 8., überarbeitete Auflage. 11/2017
 453 Seiten.	Flexibler Einband.
 
@@ -54,7 +50,23 @@ komplett erneuert - und deren Entwicklung und Pflege auf [Jekyll](https://jekyll
 das Repository der Website mittweile [bei Github öffentlich](https://github.com/gernotstarke/esabuch.de-site). Anregungen und Fehler
 können Sie seither auch als [Github-Issue](https://github.com/gernotstarke/esabuch.de-site/issues) einstellen.
 
-<hr>
+<hr/>
+
+### 2017: Basiswissen Softwarearchitektur - 3. Auflage
+![](/images/books/basiswissen-3.png){: .align-left}
+
+M.Gharbi, A.Koschel, A.Rausch, G.Starke: Basiswissen für Softwarearchitekten: Aus- und Weiterbildung nach iSAQB-Standard zum Certified Professional for Software Architecture - Foundation Level. 230 Seiten, dpunkt Verlag, Oktober 2017.
+
+Die 3. Auflage haben wir auf die Standards ISO/IEC 25010 bzw. ISO/IEC/IEEE 42010 aktualisiert, etwas Domain Driven Design zugefügt und ein paar neue Architekturmuster
+zugefügt.
+
+Das Buch orientiert sich am Lehrplan zum »Certified Professional for Software Architecture – Foundation Level« (CPSA-F) des International Software Architecture Qualification Board (iSAQB) – Version 4.2 (Juli 2017).
+
+Leider haben wir es auch in dieser Auflage nicht geschafft, ein wirkliches Praxisbuch
+daraus zu schaffen - sondern es ist weiterhin auf die Vorbereitung zur
+Zertifizierungsprüfung optimiert.
+
+<hr/>
 
 ### 2016: arc42 by Example
 ![](/images/books/arc42-by-example.png){: .align-right}
@@ -93,8 +105,13 @@ mit moderatem bis kleinem Aufwand nützliche Dokumentation erstellen und pflegen
 ### 2016: Communicating Software Architectures
 ![](/images/books/arc42-in-practice.jpg){: .align-right}
 
-250 Seiten, eBook (auf Englisch)
+250 Seiten, eBook (auf Englisch), Gernot Starke unter Mitwirkung von Peter Hruschka. Veröffentlicht bei [Leanpub](https://leanpub.com/arc42inpractice).
+Verfügbar in verschiedenen Formaten (u.a. pdf, epub, kindle).
+
+
 This practical guide shows how you can effectively apply the practical and well-proven arc42 template to design, develop and document your software architecture. It contains more than 200 practical tips how to improve your architecture communication and documentation.
+
+Das Buch ist "ongoing work" und bekommt ab-und-zu Updates.
 
 <hr/>
 
@@ -106,6 +123,9 @@ Seit 2015 pflege ich (unterstützt von mehreren anderen Personen) ein frei verf�
 Glossar von Begriffen rund um Softwarearchitektur - insbesondere aus dem Kontext
 des [iSAQB e.V.](https://isaqb.org).
 
+Das Buch ist bei [Leanpub](https://leanpub.com/isaqbglossary) erschienen,
+dort kostenfrei erhältlich.
+
 Enthalten sind bidirektionale Übersetzungen wichtiger Begriffe (aktuell DE-EN und EN-DE).
 
 Das Buch wird aus Markdown-Sources von einem
@@ -116,7 +136,22 @@ Den gesamte Erlös aus dem Verkauf dieses Buches spenden die Autoren der
 
 <hr/>
 
+### 2016: Effective Software Architectures: iSAQB CPSA-Foundation Study Guide
+![](/images/books/esa-EN-study-guide.png){: .align-right}
 
+90 pages, published on [Leanpub](https://leanpub.com/esa42), available in various
+formats (pdf, kindle, epub).
+
+This book helps you prepare for the iSAQB examination for the Certified Professional for Software Architecture - Foundation Level.
+
+It is **no extensive textbook** on software architecture!
+
+Contents include an overview and explanation of the iSAQB foundation level curriculum,
+explains important terms and the organization and _mechanics_ of the
+(multiple-choice) examination.
+
+
+<hr/>
 
 ### 2015: ESA, 7. Auflage
 
@@ -139,25 +174,40 @@ um einen besseren Lesefluss zu ermöglichen.
 Endlich hat auch die _konzeptionelle Integrität_ (einfacher gesprochen:
   _Homogenität_) ihren verdienten Platz bekommen.
 
+<hr/>
+
 ### 2014: Basiswissen, 2.A
+![](/images/books/basiswissen-2.jpg){: .align-right}
+
+M.Gharbi, A.Koschel, A.Rausch, G.Starke: Basiswissen für Softwarearchitekten: Aus- und Weiterbildung nach iSAQB-Standard zum Certified Professional for Software Architecture - Foundation Level. 220 Seiten, dpunkt Verlag, 2014.
 
 Im eher theoretischen Werk (zwei Professoren und die langjährige Vorsitzende
-  des iSAQB haben maßgebliche Teile geschrieben - ich habe mich nur an geringen
-  Teilen dieses Buches engagiert) haben wir diverse Kleinigkeiten behoben,
-  und auch einige Neuerungen des iSAQB-Lehrplans Version 3 berücksichtigt.
+des iSAQB haben maßgebliche Teile geschrieben - ich habe mich nur an geringen
+Teilen dieses Buches engagiert) haben wir diverse Kleinigkeiten behoben,
+und auch einige Neuerungen des iSAQB-Lehrplans Version 3 berücksichtigt.
 
 Vorsicht: Von der Praxisrelevanz her bietet dieses Buch weder die Breite noch
 die Tiefe meines "Effektive Softwarearchitekturen" (dafür ist es auch viel kürzer).
 
+<hr/>
 
 ### 2014: Knigge, reloaded
 ![](/images/books/knigge-reloaded.jpg){: .align-left}
 
+Gernot Starke und Peter Hruschka: Knigge für Softwarearchitekten - reloaded.
+
+In diesem Buch zeigen wir Ihnen unterhaltsame und praxisgerechte Wege zu besseren Softwarearchitekturen – wirkungsvoll, zeitlos und technologieneutral!
+Sie finden typische Verhaltensmuster von Softwarearchitekten, gute und schlechte. Aus Erfolgsmuster lernen Sie, bessere Systeme zu konstruieren und effektiver zu arbeiten. Aus den „Anti-Patterns“ leiten Sie Abhilfen gegen schlechte Architekturmanieren ab. Ein besonderes Augenmerk liegt auf der Evolution und der Änderung von Systemen.
+
+
+<hr/>
 
 ### 2014: Zertifizierung (2)
 
 Zertifizierung für Softwarearchitekten
 Diesmal inklusive Ausblick auf die Advanced-Level Zertifizierung des iSAQB.
+
+<hr/>
 
 ### 2014: ESA, 6.A
 
@@ -167,6 +217,8 @@ von von "Effektive Softwarearchitekturen" gründlich überarbeitet,
 da ist praktisch kein Stein auf dem anderen geblieben. CQRS kam als Architekturmuster
 (endlich) neu hinzu, weiterhin habe ich das Thema DDD (_domain-driven design_)
 aufgenommen.
+
+<hr/>
 
 ### 2013: Patterns kompakt, 4. A
 
