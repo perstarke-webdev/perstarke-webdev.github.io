@@ -275,8 +275,19 @@ umgestellt, die aufgeklappt auf dem Tisch liegenbleibt. Mittlerweile ist der Umf
 
 ### 2007: SOA Expertenwissen
 
-Stefan Tilkov, Gernot Starke (Hrsg): SOA Expertenwissen, dpunkt Verlag.
+Stefan Tilkov, Gernot Starke (Hrsg): SOA Expertenwissen, dpunkt Verlag ( Seiten).
 
+![image-left](/images/books/soax-cover.jpg){: .align-right}
+
+In diesem (mit XXX Seiten ziemlich monumentalen) Buch haben Stefan Tilkov und ich
+eine breite Übersicht zum Thema "Serviceorientierte Architekturen" herausgebracht,
+zu einer Zeit, als die SOA-Welle noch in den Kinderschuhen steckte.
+
+Wir hatten bei diesem Unterfangen die einmalige Chance, eine Vielzahl von
+Software-/Technologie-/Enterprise- und anderen IT-Experten kennen und schätzen zu lernen,
+und aus deren Erfahrungen dieses umfangreiche Werk zusammenstellen zu können.
+
+Ein persönliches Fazit dieses Projektes: Ich möchte zukünftig lieber dünnere Bücher schreiben...
 <hr/>
 
 ### 2005: ESA, 2. Auflage
@@ -293,15 +304,25 @@ diverse Kapitel erlebten teilweise kräftige Umbauten.
 Effektive Softwarearchitekturen, ein praktischer Leitfaden:
 
 Die erste Auflage dieses Buches erschien 2002, mit 224 Seiten noch ziemlich schlank.
-Direkt nach Erscheinen gewann es die Auszeichnung "Bestes Buch" der OOP-Konferenz.
 
+Bei der ersten Auflage haben mir zahlreiche Damen und Herren tatkräftig unterstützt,
+und teilweise auch signifikant inhaltliche Beiträge geleistet (danke, Kerstin Dittert, Wolfgang Korn, André Karalus und Martin Bartonitz). Ein großes Dankeschön geht auch an das (damalige) Führungsteam der blueCarat AG, insbesondere Fritz Weichbrodt - der mir für
+die vielen Wochen Schreibarbeit den Rücken freigehalten hat.
+
+Danke auch an Peter Hruschka für seine Motivation zu diesem Thema sowie dem schönen Vorwort.
+
+Direkt nach Erscheinen gewann das Buch die Auszeichnung "Bestes Buch" der OOP-Konferenz.
 ![](/images/books/bestbookaward_oop2003.jpg){: .align-right}
 Auf dem Foto sehen Sie mich zusammen mit Dr. Erich Gamma, der als treibende Kraft hinter "Eclipse" den Preis für die beste Entwicklungsumgebung erhielt.
 
+Ach ja - zu guter Letzt: Danke an Margarete Metzger - die erste Lektorin meines Autorenlebens, und die gute Seele dieses Buches: Deine feinfühlige Art, dich sowohl mit
+Form wie Inhalt auseinanderzusetzen hat viel Positives bewirkt!
 <hr/>
 
 ### 1994: Sprachen zur Software-Prozessmodellierung
 
+![image-left](/images/books/cover-dissertation.jpg){: .align-left}
+
 Shaker-Verlag (Aachen), 210 Seiten.
-Meine Dissertation, erstellt an der J.Kepler Universität in Linz, unter der
-Ägide des großartigen Prof. Dr. Gerhard Chroust.
+Meine Dissertation, erstellt an der [J.Kepler Universität in Linz](https://www.jku.at),
+unter der Ägide des großartigen [Prof. Dr. Gerhard Chroust](https://de.wikipedia.org/wiki/Gerhard_Chroust).
