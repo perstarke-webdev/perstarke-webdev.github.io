@@ -7,9 +7,18 @@ header:
   overlay_image: /images/header/site-header.png
 
 ---
+### 2019: arc42-by-Example, 2. Auflage
 
-### (geplant September 2018) Patterns-kompakt, 5.A
+![](/images/books/arc42-by-example-2nd.png){: .align-left}
+Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: arc42-by-Example, 2nd Edition, Leanpub 200 Seiten, eBook (auf Englisch), veröffentlicht bei [Leanpub](https://leanpub.com/arc42byexample). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
 
+Wir konnten Ralf Müller als vierten Autor dazu gewinnen, von ihm stammt die Architekturdokumentation seines "docToolchain" Systems. Die übrigen Beispiele haben wir an die Version 7 von arc42 angepasst, diverse Schönheitsfehler beseitigt und (um es mit den Youtube-Entwickler zu formulieren) _den Müll rausgebracht_.
+
+Für alle bisherigen Käufer und LeserInnen des Buches übrigens ein kostenfreies Update!
+
+### 2018: Patterns-kompakt, 5. Auflage
+
+![](/images/books/pk5-cover.png){: .align-right}
 Karl Eilebrecht, Gernot Starke: Entwurfsmuster für effektive Softwareentwicklung.
 Springer-Vieweg Verlag, 5. überarbeitete und erweiterte Auflage, 2018.
 
@@ -47,7 +56,7 @@ ich das Kapitel über "SOA" in den Ruhestand geschickt.
 
 Für diese Auflage habe ich die [Website zum Buch](https://esabuch.de)
 komplett erneuert - und deren Entwicklung und Pflege auf [Jekyll](https://jekyllrb.com) (und Docker) umgestellt. Ausserdem ist
-das Repository der Website mittweile [bei Github öffentlich](https://github.com/gernotstarke/esabuch.de-site). Anregungen und Fehler
+das Repository der Website mittlerweile [bei Github öffentlich](https://github.com/gernotstarke/esabuch.de-site). Anregungen und Fehler
 können Sie seither auch als [Github-Issue](https://github.com/gernotstarke/esabuch.de-site/issues) einstellen.
 
 <hr/>
