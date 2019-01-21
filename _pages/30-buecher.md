@@ -7,15 +7,26 @@ header:
   overlay_image: /images/header/site-header.png
 
 ---
+### 2019: arc42-Primer
+
+![](/images/books/arc42-primer.png){: .align-right}
+Ben Wolf, Gernot Starke: arc42-Primer, eBook, veröffentlicht bei [Leanpub](https://leanpub.com/arc42-primer). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
+
+Wir haben einen kompakten Einstieg in arc42 geschrieben, der mit einigen Vorurteilen gegen Dokumentation und arc42 aufräumt.
+Der Primer ist so kompakt, dass Sie selbst unter Zeitdruck angemessene (und leicht wartbare!) Dokumentation erstellen können. Inklusive eines Beispiels, bei dem wir auf Doppelseiten jeweils links echte Dokumentation zeigen, und auf der gegenüberliegenden Seite erklären, was und warum...
+
+
+<hr/>
 ### 2019: arc42-by-Example, 2. Auflage
 
 ![](/images/books/arc42-by-example-2nd.png){: .align-left}
-Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: arc42-by-Example, 2nd Edition, Leanpub 200 Seiten, eBook (auf Englisch), veröffentlicht bei [Leanpub](https://leanpub.com/arc42byexample). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
+Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: arc42-by-Example, 2nd Edition, Leanpub 250 Seiten, eBook (auf Englisch), veröffentlicht bei [Leanpub](https://leanpub.com/arc42byexample). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
 
 Wir konnten Ralf Müller als vierten Autor dazu gewinnen, von ihm stammt die Architekturdokumentation seines "docToolchain" Systems. Die übrigen Beispiele haben wir an die Version 7 von arc42 angepasst, diverse Schönheitsfehler beseitigt und (um es mit den Youtube-Entwickler zu formulieren) _den Müll rausgebracht_.
 
 Für alle bisherigen Käufer und LeserInnen des Buches übrigens ein kostenfreies Update!
 
+<hr/>
 ### 2018: Patterns-kompakt, 5. Auflage
 
 ![](/images/books/pk5-cover.png){: .align-right}
