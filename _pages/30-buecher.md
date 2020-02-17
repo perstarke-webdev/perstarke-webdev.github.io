@@ -27,6 +27,7 @@ Gernot Starke und Peter Hruschka:
 Das „International Software Architecture Qualification Board“ (iSAQB) hat einen international anerkannten Aus- und Weiterbildungsstandard für Softwarearchitekten etabliert: den Certified Professional for Software Architecture, Foundation Level“ (CPSA-F).
 Wir haben eine leicht verständliche & verdauliche Einführung für alle geschrieben, die sich auf die CPSA-F-Prüfung vorbereiten wollen. Dieses kleine Büchlein soll kein Lehrbuch ersetzen, sondern die wesentlichen Themen des iSAQB Lehrplans in kompakter Form erläutern, sowie die Modalitäten der Foundation-Level Prüfung erklären.
 
+Aktualisiert für die aktuelle Version des Lehrplans (von September 2019).
 <hr/>
 
 
@@ -257,14 +258,20 @@ Sie finden typische Verhaltensmuster von Softwarearchitekten, gute und schlechte
 
 ### 2014: Zertifizierung (2)
 
-Zertifizierung für Softwarearchitekten
+![](/images/books/Zertifizierung-2.png){: .align-right}
+Gernot Starke und Peter Hruschka: 
+
+Das „International Software Architecture Qualification Board“ (iSAQB) hat einen international anerkannten Aus- und Weiterbildungsstandard für Softwarearchitekten etabliert: den Certified Professional for Software Architecture, Foundation Level“ (CPSA-F).
+Wir haben eine leicht verständliche & verdauliche Einführung für alle geschrieben, die sich auf die CPSA-F-Prüfung vorbereiten wollen. Dieses kleine Büchlein soll kein Lehrbuch ersetzen, sondern die wesentlichen Themen des iSAQB Lehrplans in kompakter Form erläutern, sowie die Modalitäten der Foundation-Level Prüfung erklären.
+
+Aktualisiert für die aktuelle Version des Lehrplans (von September 2019).
 Diesmal inklusive Ausblick auf die Advanced-Level Zertifizierung des iSAQB.
 
 <hr/>
 
 ### 2014: ESA, 6.A
 
-![](/images/books/esa6-cover.png){: .align-right}
+![](/images/books/esa6-cover.png){: .align-left}
 Die Abschnitte zum Thema _Strukturentwurf_ habe ich zur sechsten Auflage
 von von "Effektive Softwarearchitekturen" gründlich überarbeitet,
 da ist praktisch kein Stein auf dem anderen geblieben. CQRS kam als Architekturmuster
@@ -279,7 +286,7 @@ aufgenommen.
 
 ### 2012: Knigge für Softwarearchitekten, 1.A
 
-![](/images/books/knigge1.jpg){: .align-left}
+![](/images/books/knigge1.jpg){: .align-right}
 Über 20 Folge der Kolumne "Knigge für Softwarearchitekten" haben Peter Hruschka
 und ich für's JavaMagazin geschrieben - bevor wir die Highlights nochmal überarbeitet
 und in Buchform zusammengefasst haben.
