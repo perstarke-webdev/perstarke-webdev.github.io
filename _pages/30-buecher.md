@@ -7,9 +7,41 @@ header:
   overlay_image: /images/header/site-header.png
 
 ---
+
+### 2020: Im Stich gelassen: Requirements für Softwarearchitekten
+Peter Hruschka und Gernot Starke. Carl-Hanser Verlag.
+(noch nicht erschienen, Manuskript im Lektorat/Produktion)
+
+### 2020: Software Reviews Primer
+Gernot Starke, Christine Koppelt, Markus Harrer und Ben Wolf. eBook und Druckausgabe. Publiziert von und mit INNOQ.
+
+(noch nicht erschienen, Manuskript im Lektorat/Produktion)
+
+<hr/>
+
+### 2019: Zertifizierung für Softwarearchitekten, 3. Auflage
+
+![](/images/books/Zertifizierung-3.png){: .align-right}
+Gernot Starke und Peter Hruschka: 
+
+Das „International Software Architecture Qualification Board“ (iSAQB) hat einen international anerkannten Aus- und Weiterbildungsstandard für Softwarearchitekten etabliert: den Certified Professional for Software Architecture, Foundation Level“ (CPSA-F).
+Wir haben eine leicht verständliche & verdauliche Einführung für alle geschrieben, die sich auf die CPSA-F-Prüfung vorbereiten wollen. Dieses kleine Büchlein soll kein Lehrbuch ersetzen, sondern die wesentlichen Themen des iSAQB Lehrplans in kompakter Form erläutern, sowie die Modalitäten der Foundation-Level Prüfung erklären.
+
+<hr/>
+
+
+### 2019: arc42-by-Example
+
+![](/images/books/arc42-by-example-packt.png){: .align-left}
+Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: veröffentlicht bei [Packt](). Verfügbar in verschiedenen Formaten (Papier, eBooks).
+
+Aufgrund des Erfolgs bei Leanpub (siehe unten) hat Packt-Publishing das Buch auch ins Programm aufgenommen. Sie haben exakt die pdf-Version von Leanpub übernommen - und ein (wie wir finden schön farbenfrohes) Cover für uns entworfen. Damit sind wir jetzt auch im O'Reilly Safari online Programm sichtbar.
+
+<hr/>
+
 ### 2019: arc42-Primer
 
-![](/images/books/arc42-primer.png){: .align-right}
+![](/images/books/arc42-primer-2.png){: .align-right}
 Ben Wolf, Gernot Starke: arc42-Primer, eBook, veröffentlicht bei [Leanpub](https://leanpub.com/arc42-primer). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
 
 Wir haben einen kompakten Einstieg in arc42 geschrieben, der mit einigen Vorurteilen gegen Dokumentation und arc42 aufräumt.
@@ -17,6 +49,7 @@ Der Primer ist so kompakt, dass Sie selbst unter Zeitdruck angemessene (und leic
 
 
 <hr/>
+
 ### 2019: arc42-by-Example, 2. Auflage
 
 ![](/images/books/arc42-by-example-2nd.png){: .align-left}
@@ -299,13 +332,9 @@ Stefan Tilkov, Gernot Starke (Hrsg): SOA Expertenwissen, dpunkt Verlag ( Seiten)
 
 ![image-left](/images/books/soax-cover.jpg){: .align-right}
 
-In diesem (mit XXX Seiten ziemlich monumentalen) Buch haben Stefan Tilkov und ich
-eine breite Übersicht zum Thema "Serviceorientierte Architekturen" herausgebracht,
-zu einer Zeit, als die SOA-Welle noch in den Kinderschuhen steckte.
+In diesem (mit 800+ Seiten ziemlich monumentalen) Buch haben Stefan Tilkov und ich eine breite Übersicht zum Thema "Serviceorientierte Architekturen" herausgebracht, zu einer Zeit, als die SOA-Welle noch in den Kinderschuhen steckte.
 
-Wir hatten bei diesem Unterfangen die einmalige Chance, eine Vielzahl von
-Software-/Technologie-/Enterprise- und anderen IT-Experten kennen und schätzen zu lernen,
-und aus deren Erfahrungen dieses umfangreiche Werk zusammenstellen zu können.
+Wir hatten bei diesem Unterfangen die einmalige Chance, eine Vielzahl von Software-/Technologie-/Enterprise- und anderen IT-Experten kennen und schätzen zu lernen, und aus deren Erfahrungen dieses umfangreiche Werk zusammenstellen zu können.
 
 Ein persönliches Fazit dieses Projektes: Ich möchte zukünftig lieber dünnere Bücher schreiben...
 <hr/>
