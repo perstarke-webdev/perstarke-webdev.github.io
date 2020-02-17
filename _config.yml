@@ -54,7 +54,7 @@ author:
   google_plus      :
   stack_overflow   :
   twitter          : gernotstarke
-  xing             : gernotstarke
+  xing             : 
 
 # Reading Files
 include:
@@ -100,7 +100,7 @@ liquid:
 
 # Conversion
 markdown: kramdown
-highlighter: rouge
+highlighter: 
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
@@ -115,7 +115,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  syntax_highlighter: coderay
+  syntax_highlighter: 
 
 
 # Sass/SCSS
@@ -135,19 +135,14 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-numbered-headings
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
+  - jekyll-numbered-headings
+  
 
 
 category_archive:
