@@ -59,7 +59,7 @@ isaqb:
     AG "Advanced Level" mit.
 
     Lizenzierter Trainer für Foundation Level und die Advanced-Level Module
-    "IMPROVE" (systematisch verbessern) sowie "ADOK" (systematisch dokumentieren)'
+    "IMPROVE" (systematisch verbessern), "Req4Arc" (bessere Anforderungen) sowie "ADOK" (systematisch dokumentieren)'
 
 
 buecher:
@@ -74,7 +74,7 @@ training:
     alt: Training
     title: Trainer ...
     excerpt: 'Mehr als 15 Jahre Erfahrung mit
-    [praxisnahen Trainings](http://arc42.de/termine) und Schulungen,
+    [praxisnahen Trainings](https://arc42.de/termine) und Schulungen,
     Themenspektrum von Softwarearchitektur (foundation, advanced), Software-Engineering,
     Agilität, Zeitmanagement.<br><br>
 
@@ -89,13 +89,12 @@ lebenslauf:
     Entwickler, Berater und Projektleiter der Schumann Unternehmensberatung AG,
     technischer Leiter des Object Reality Center, einer Kooperation von Sun Microsystems,
     Berater und Softwarearchitekt für blueCarat, langjährige Selbständigkeit,
-    innoQ Fellow.
+    INNOQ Fellow.
 
 
     Verheiratet mit _Traumfrau Uli_, zwei (große) Kinder.
 
-    Notorisch neugierig. Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs, Kopfstand statt Kreuzworträtsel,
-    Outdoor statt Museum."
+    Notorisch neugierig. Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, VS-Code statt Emacs, Kopfstand statt Kreuzworträtsel, Outdoor statt Museum, VFR statt IFR."
 
 privat:
   - image_path: /images/about/ochsenkopf-grat.jpg

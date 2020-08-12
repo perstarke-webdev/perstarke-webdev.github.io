@@ -5,7 +5,7 @@ Repository for my website "gernotstarke.de"
 
 ## Credits
 
-Based upon [Jekyll](https://jekyllrb.org) and the MinimalMistakes theme. Rendered using Github pages.
+Based upon [Jekyll](https://jekyllrb.org) and the MinimalMistakes theme. Rendered using Netlify.
 
 ## License
 This work is copyrighted - no parts of it may be copied, stored or otherwise re-used without prior written consent
