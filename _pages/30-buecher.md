@@ -1,27 +1,83 @@
 ---
 title: Bücher
-excerpt: von Dr. Gernot Starke
-layout: splash
+excerpt: von (und mit) Dr. Gernot Starke
+layout: single
+toc: true
+toc_label: "Jahre"
 permalink: /buecher
 header:
   overlay_image: /images/header/site-header.png
 
 ---
 
-### 2020: Im Stich gelassen: Requirements für Softwarearchitekten
-Peter Hruschka und Gernot Starke. Carl-Hanser Verlag.
-(noch nicht erschienen, Manuskript im Lektorat/Produktion)
+## 2020
 
-### 2020: Software Reviews Primer
-Gernot Starke, Christine Koppelt, Markus Harrer und Ben Wolf. eBook und Druckausgabe. Publiziert von und mit INNOQ.
+**August 2020: Software Reviews (English version)** <br>
 
-(noch nicht erschienen, Manuskript im Lektorat/Produktion)
+![](/images/books/software-review-primer-en.jpg){: .align-left}
+
+Markus Harrer, Christine Koppelt, Gernot Starke und Ben Wolf, translated by Christine Koppelt and Martin Otten. eBook (Leanpub). Published with INNOQ.
+
+Practically all software suffers from problems: Maybe it runs too slowly, sometimes crashes, doesn't look as nice as the competitors' product or changes take too long. Apart from hello-world applications, there is always room for improvement. Here we show you how to detect such problems. 
+
+We took our German primer, squashed a few tiny bugs and translated it for an international audience.
+Currently only available as eBook on [Leanpub](https://leanpub.com/software-reviews-en).
 
 <hr/>
 
-### 2019: Zertifizierung für Softwarearchitekten, 3. Auflage
+**August 2020: Effektive Softwarearchitekturen, 9. Auflage**<br>
+9., überarbeitete Auflage. 8/2020 455 Seiten. Flexibler Einband.
 
-![](/images/books/Zertifizierung-3.png){: .align-right}
+![](/images/books/esa-cover-reihe.png)
+
+Mit der neunten Auflage ist ESA nun volljährig: 18 Jahre am (Fachbuch-)Markt.
+
+Dr. Lars Hupel hat eine Übersicht zu Blockchain beigesteuert, ich habe mehrere Dutzend Fehler(chen) behoben, Abbildungen erneuert, oftmals “Projekt” durch “System” ersetzt, mal wieder auf den aktuellen ISAQB Lehrplan aktualisiert.
+
+Insbesondere sind neue Beispielfragen für die iSAQB Prüfung hinzugekommen.
+
+<hr/>
+
+
+**Juli 2020: Basiswissen Softwarearchitektur, 4. Auflage**<br>
+![](/images/books/basiswissen-4A.jpg){: .align-right}
+
+M.Gharbi, A.Koschel, A.Rausch, G.Starke: Basiswissen für Softwarearchitekten, dpunkt, 4. Auflage 2020.
+
+
+An die aktuelle Version des iSAQB Lehrplan angepasst, und grundlegend neue Beispiel-Prüfungsfragen. Ansonsten ein eher kosmetisches Update - daher bleibt es (leider) etwas _trocken_.
+
+<hr/>
+
+
+**2020: Requirements-Skills für Softwarearchitekten**<br>
+Peter Hruschka und Gernot Starke
+(Leanpub eBook)
+
+![](/images/books/requirements-skills-v1.png){: .align-left}
+
+Fühlen Sie sich als Entwicklungsteam von Requirements-Engineers, Product-Owner oder Produktmanager bezüglich klarer Anforderungen im Stich gelassen? Hier finden Sie methodische und pragmatische Ansätze, mit denen Sie dieser Misere entkommen können.
+
+Dieses (kleine) Buch stellt in kompakter Form alle wesentlichen Methoden vor, die Sie auf dem Weg zu besseren Anforderungen benötigen. Sie bekommen zahlreiche pragmatische und praxisrelevante Tipps für Ihr konkretes Vorgehen während der Software- oder Systementwicklung. Gleichzeitig fungiert es als Begleitmaterial für das iSAQB Advanced-Modul Req4Arc.
+
+<hr/>
+
+**Januar 2020: Software Reviews**<br>
+
+![](/images/books/software-review-primer-v1.jpg){: .align-right}
+
+Markus Harrer, Christine Koppelt, Gernot Starke und Ben Wolf. eBook und Druckausgabe. Publiziert von und mit INNOQ bei [Leanpub](https://leanpub.com/software-reviews).
+
+Getreu dem Bonmot „Besser-geht-immer“ leidet praktisch alle Software an Problemen: Vielleicht läuft sie zu langsam, stürzt manchmal ab, sieht nicht so schön aus wie das Produkt der Konkurrenz oder Änderungen dauern zu lange. Mal abgesehen von hello-world-Anwendungen, lässt sich überall noch so manches besser machen. Hier zeigen wir, wie Sie solche Probleme zielsicher aufdecken.
+
+Entstanden aus der Erfahrung vieler Reviews, den wir Autorys (teilweise gemeinsam) durchgeführt haben.
+<hr/>
+
+## 2019
+
+**September 2019: Zertifizierung für Softwarearchitekten, 3. Auflage**<br>
+
+![](/images/books/Zertifizierung-3.png){: .align-left}
 Gernot Starke und Peter Hruschka: 
 
 Das „International Software Architecture Qualification Board“ (iSAQB) hat einen international anerkannten Aus- und Weiterbildungsstandard für Softwarearchitekten etabliert: den Certified Professional for Software Architecture, Foundation Level“ (CPSA-F).
@@ -31,7 +87,7 @@ Aktualisiert für die aktuelle Version des Lehrplans (von September 2019).
 <hr/>
 
 
-### 2019: arc42-by-Example
+**Oktober 2019: arc42-by-Example**
 
 ![](/images/books/arc42-by-example-packt.png){: .align-left}
 Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: veröffentlicht bei [Packt](). Verfügbar in verschiedenen Formaten (Papier, eBooks).
@@ -40,9 +96,9 @@ Aufgrund des Erfolgs bei Leanpub (siehe unten) hat Packt-Publishing das Buch auc
 
 <hr/>
 
-### 2019: arc42-Primer
+**März 2019: arc42-Primer**
 
-![](/images/books/arc42-primer-2.png){: .align-right}
+![](/images/books/arc42-primer.png){: .align-right}
 Ben Wolf, Gernot Starke: arc42-Primer, eBook, veröffentlicht bei [Leanpub](https://leanpub.com/arc42-primer). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
 
 Wir haben einen kompakten Einstieg in arc42 geschrieben, der mit einigen Vorurteilen gegen Dokumentation und arc42 aufräumt.
@@ -51,7 +107,7 @@ Der Primer ist so kompakt, dass Sie selbst unter Zeitdruck angemessene (und leic
 
 <hr/>
 
-### 2019: arc42-by-Example, 2. Auflage
+**Februar 2019: arc42-by-Example, 2. Auflage**
 
 ![](/images/books/arc42-by-example-2nd.png){: .align-left}
 Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: arc42-by-Example, 2nd Edition, Leanpub 250 Seiten, eBook (auf Englisch), veröffentlicht bei [Leanpub](https://leanpub.com/arc42byexample). Verfügbar in verschiedenen Formaten (pdf, epub, kindle).
@@ -61,7 +117,10 @@ Wir konnten Ralf Müller als vierten Autor dazu gewinnen, von ihm stammt die Arc
 Für alle bisherigen Käufer und LeserInnen des Buches übrigens ein kostenfreies Update!
 
 <hr/>
-### 2018: Patterns-kompakt, 5. Auflage
+
+## 2018
+
+**2018: Patterns-kompakt, 5. Auflage**
 
 ![](/images/books/pk5-cover.png){: .align-right}
 Karl Eilebrecht, Gernot Starke: Entwurfsmuster für effektive Softwareentwicklung.
@@ -74,7 +133,8 @@ beispielsweise um Tipps zu Microservices ergänzt. Unsere Einführung zur _Schab
 Daneben gibt es natürlich auch Neues, etwa die Patterns _Hashwertschlüssel_ oder _Inbetriebnahme_.
 
 <hr/>
-### 2018: Knigge, 3. Auflage
+
+**2018: Knigge, 3. Auflage**
 
 ![](/images/books/knigge3.jpg){: .align-left}
 
@@ -89,7 +149,9 @@ als Farbe an.
 
 <hr/>
 
-### 2017: ESA, 8. Auflage
+## 2017
+
+**2017: ESA, 8. Auflage**
 
 ![](/images/books/esa8-cover.png){: .align-right}
 8., überarbeitete Auflage. 11/2017
@@ -106,7 +168,7 @@ können Sie seither auch als [Github-Issue](https://github.com/gernotstarke/esab
 
 <hr/>
 
-### 2017: Basiswissen Softwarearchitektur - 3. Auflage
+**2017: Basiswissen Softwarearchitektur - 3. Auflage**
 ![](/images/books/basiswissen-3.png){: .align-left}
 
 M.Gharbi, A.Koschel, A.Rausch, G.Starke: Basiswissen für Softwarearchitekten: Aus- und Weiterbildung nach iSAQB-Standard zum Certified Professional for Software Architecture - Foundation Level. 230 Seiten, dpunkt Verlag, Oktober 2017.
@@ -122,7 +184,9 @@ Zertifizierungsprüfung optimiert.
 
 <hr/>
 
-### 2016: arc42 by Example
+## 2016
+
+**2016: arc42 by Example**
 ![](/images/books/arc42-by-example.png){: .align-right}
 
 200 Seiten, eBook (auf Englisch), veröffentlicht bei [Leanpub](https://leanpub.com/arc42byexample).
@@ -143,20 +207,19 @@ Gerne genutzt, um die Einführung von arc42 in Teams oder Projekten zu unterstü
 
 <hr/>
 
-### 2016: arc42 in Aktion
+**2016: arc42 in Aktion**
 ![](/images/books/arc42-in-aktion.jpg){: .align-left}
 
 Praktische Tipps zur Architekturdokumentation, von Gernot Starke und Peter Hruschka. Carl-Hanser Verlag, 2016. 190 Seiten, flexibler Einband.
 
-Das _missing manual_ zu arc42, was wir schon vor Jahren hätten schreiben sollen: pragmatische Tipps, angefangen bei allgemeinen Grundlagen technischer Doku bis hin
-zu Ratschlägen für alle Teile von arc42.
+Das _missing manual_ zu arc42, was wir schon vor Jahren hätten schreiben sollen: pragmatische Tipps, angefangen bei allgemeinen Grundlagen technischer Doku bis hin zu Ratschlägen für alle Teile von arc42.
 
 Unser Fokus hier liegt auf _Sparsamkeit_ und _Pragmatismus_: Wir zeigen, wie Sie
 mit moderatem bis kleinem Aufwand nützliche Dokumentation erstellen und pflegen können.
 
 <hr/>
 
-### 2016: Communicating Software Architectures
+**2016: Communicating Software Architectures**<br>
 ![](/images/books/arc42-in-practice.jpg){: .align-right}
 
 250 Seiten, eBook (auf Englisch), Gernot Starke unter Mitwirkung von Peter Hruschka. Veröffentlicht bei [Leanpub](https://leanpub.com/arc42inpractice).
@@ -165,11 +228,12 @@ Verfügbar in verschiedenen Formaten (u.a. pdf, epub, kindle).
 
 This practical guide shows how you can effectively apply the practical and well-proven arc42 template to design, develop and document your software architecture. It contains more than 200 practical tips how to improve your architecture communication and documentation.
 
-Das Buch ist "ongoing work" und bekommt ab-und-zu Updates.
+Das Buch ist "ongoing work" und bekommt ab-und-zu Updates. 
+Danke an Sven Johann für die Hilfe bei der Übersetzung.
 
 <hr/>
 
-### 2016: Glossary of Software Architecture Terminology
+**2016: Glossary of Software Architecture Terminology**<br>
 
 ![](/images/books/isaqb-glossary-2016.jpg){: .align-left}
 
@@ -190,7 +254,7 @@ Den gesamte Erlös aus dem Verkauf dieses Buches spenden die Autoren der
 
 <hr/>
 
-### 2016: Effective Software Architectures: iSAQB CPSA-Foundation Study Guide
+**2016: Effective Software Architectures: iSAQB CPSA-Foundation Study Guide**
 ![](/images/books/esa-EN-study-guide.png){: .align-right}
 
 90 pages, published on [Leanpub](https://leanpub.com/esa42), available in various
@@ -198,7 +262,7 @@ formats (pdf, kindle, epub).
 
 This book helps you prepare for the iSAQB examination for the Certified Professional for Software Architecture - Foundation Level.
 
-It is **no extensive textbook** on software architecture!
+This (preliminary) version is no longer availabe, it has been extensively reworked in newer editions.
 
 Contents include an overview and explanation of the iSAQB foundation level curriculum,
 explains important terms and the organization and _mechanics_ of the
@@ -207,7 +271,9 @@ explains important terms and the organization and _mechanics_ of the
 
 <hr/>
 
-### 2015: ESA, 7. Auflage
+## 2015
+
+**2015: ESA, 7. Auflage**<br>
 
 ![](/images/books/esa7-cover.png){: .align-left}
 7., überarbeitete Auflage. 11/2015
@@ -230,22 +296,20 @@ Endlich hat auch die _konzeptionelle Integrität_ (einfacher gesprochen:
 
 <hr/>
 
-### 2014: Basiswissen, 2.A
+## 2014
+
+**2014: Basiswissen, 2.A**<br>
 ![](/images/books/basiswissen-2.jpg){: .align-right}
 
 M.Gharbi, A.Koschel, A.Rausch, G.Starke: Basiswissen für Softwarearchitekten: Aus- und Weiterbildung nach iSAQB-Standard zum Certified Professional for Software Architecture - Foundation Level. 220 Seiten, dpunkt Verlag, 2014.
 
-Im eher theoretischen Werk (zwei Professoren und die langjährige Vorsitzende
-des iSAQB haben maßgebliche Teile geschrieben - ich habe mich nur an geringen
-Teilen dieses Buches engagiert) haben wir diverse Kleinigkeiten behoben,
-und auch einige Neuerungen des iSAQB-Lehrplans Version 3 berücksichtigt.
+Im eher theoretischen Werk haben wir diverse Kleinigkeiten behoben, und auch einige Neuerungen des iSAQB-Lehrplans Version 3 berücksichtigt.
 
-Vorsicht: Von der Praxisrelevanz her bietet dieses Buch weder die Breite noch
-die Tiefe meines "Effektive Softwarearchitekturen" (dafür ist es auch viel kürzer).
+Anmerkung: Von der Praxisrelevanz her bietet dieses Buch weder die Breite noch die Tiefe meines "Effektive Softwarearchitekturen" (dafür ist es auch viel kürzer).
 
 <hr/>
 
-### 2014: Knigge, reloaded
+**2014: Knigge, reloaded**<br>
 ![](/images/books/knigge-reloaded.jpg){: .align-left}
 
 Gernot Starke und Peter Hruschka: Knigge für Softwarearchitekten - reloaded.
@@ -256,7 +320,7 @@ Sie finden typische Verhaltensmuster von Softwarearchitekten, gute und schlechte
 
 <hr/>
 
-### 2014: Zertifizierung (2)
+**2014: Zertifizierung (2. Auflage)**
 
 ![](/images/books/Zertifizierung-2.png){: .align-right}
 Gernot Starke und Peter Hruschka: 
@@ -269,40 +333,62 @@ Diesmal inklusive Ausblick auf die Advanced-Level Zertifizierung des iSAQB.
 
 <hr/>
 
-### 2014: ESA, 6.A
+**2014: ESA, 6.A**
 
 ![](/images/books/esa6-cover.png){: .align-left}
+
 Die Abschnitte zum Thema _Strukturentwurf_ habe ich zur sechsten Auflage
 von von "Effektive Softwarearchitekturen" gründlich überarbeitet,
 da ist praktisch kein Stein auf dem anderen geblieben. CQRS kam als Architekturmuster
-(endlich) neu hinzu, weiterhin habe ich das Thema DDD (_domain-driven design_)
-aufgenommen.
+(endlich, danke an Oliver Wolf) neu hinzu. 
+
+Weiterhin habe ich das Thema DDD (_domain-driven design_) aufgenommen.
+
 
 <hr/>
 
-### 2013: Patterns kompakt, 4. A
+## 2013
 
+**2013: Patterns kompakt, 4. A**<br>
+![](/images/books/pk4-cover.png){: .align-left}
+
+Karl Eilebrecht und Gernot Starke -
+
+Das Buch fasst die wichtigsten Entwurfsmuster zusammen, die Sie für Software-Entwicklung benötigen. Softwareentwickler:innen und -Architekt:innen finden darin effektiv anwendbare Lösungen für tägliche Entwurfsprobleme. Das Buch gliedert Patterns anhand einiger typischer Aspekte des Softwareentwurfs:
+
+* Basismuster für mehr Flexibilität und Wartbarkeit.
+* Kommunikation & Verteilung
+* Integration
+* Persistenz
 <hr/>
 
-### 2012: Knigge für Softwarearchitekten, 1.A
+## 2012
+
+**2012: Knigge für Softwarearchitekten, 1.A**
 
 ![](/images/books/knigge1.jpg){: .align-right}
 Über 20 Folge der Kolumne "Knigge für Softwarearchitekten" haben Peter Hruschka
 und ich für's JavaMagazin geschrieben - bevor wir die Highlights nochmal überarbeitet
 und in Buchform zusammengefasst haben.
-<hr/>
 
-### 2012: Basiswissen für Softwarearchitekten, 1. Auflage
 
 <hr/>
 
-### 2011: SWA-kompakt, 2.A
+**2012: Basiswissen für Softwarearchitekten, 1. Auflage**
+
+<hr/>
+
+## 2011
+
+**2011: SWA-kompakt, 2.A**
 
 Software-Architektur kompakt
 
 <hr/>
 
-### 2010: ESA, 5. Auflage
+## 2010
+
+**2010: ESA, 5. Auflage**
 
 ![](/images/books/esa5-cover.jpg){: .align-left}
 Für die fünfte Auflage von Effektive Softwarearchitekturen habe ich
@@ -313,7 +399,9 @@ Infos zu arc42 sind jetzt an arc42 V 5.0 angepasst.
 
 <hr/>
 
-### 2009: ESA, 4. Auflage
+## 2009
+
+**2009: ESA, 4. Auflage**
 
 ![](/images/books/esa4-cover.png){: .align-right}
 In der vierten Auflage fand zum ersten Mal der Lehrplan des iSAQB Einzug in
@@ -322,7 +410,9 @@ beschrieben mit Hilfe des [arc42 ](http://arc42.de) Templates.
 
 <hr/>
 
-### 2008: ESA, 3. Auflage
+## 2008
+
+**2008: ESA, 3. Auflage**
 
 ![](/images/books/esa3-cover.jpg){: .align-left}
 In der "dritten" kamen die Kapitel über _SOA_ und _Enterprise-Architekturen_ neu dazu,
@@ -333,9 +423,12 @@ Der Verlag hat auf ein neues Seitenformat sowie einen neuen Typ der Bindung
 umgestellt, die aufgeklappt auf dem Tisch liegenbleibt. Mittlerweile ist der Umfang auf 400 Seiten gewachsen.
 <hr/>
 
-### 2007: SOA Expertenwissen
 
-Stefan Tilkov, Gernot Starke (Hrsg): SOA Expertenwissen, dpunkt Verlag ( Seiten).
+## 2007
+
+**2007: SOA Expertenwissen**
+
+Stefan Tilkov, Gernot Starke (Hrsg): SOA Expertenwissen, dpunkt Verlag (750 Seiten).
 
 ![image-left](/images/books/soax-cover.jpg){: .align-right}
 
@@ -346,39 +439,56 @@ Wir hatten bei diesem Unterfangen die einmalige Chance, eine Vielzahl von Softwa
 Ein persönliches Fazit dieses Projektes: Ich möchte zukünftig lieber dünnere Bücher schreiben...
 <hr/>
 
-### 2005: ESA, 2. Auflage
+## 2005
+
+**2005: ESA, 2. Auflage**
 
 ![image-left](/images/books/esa2-cover.jpg){: .align-right}
-In der zweiten Auflage kamen die Teile über MDA und UML2 neu hinzu,
-diverse Kapitel erlebten teilweise kräftige Umbauten.
+Immerhin - mein Architekturbuch hat sich drei Jahre lang (tapfer) am Markt gehalten.
+
+In der zweiten Auflage kamen die Teile über MDA und UML2 neu hinzu, diverse Kapitel erlebten teilweise kräftige Umbauten.
 
 <hr/>
 
-### 2002: ESA, 1. Auflage
+## 2003
+
+**2003: Patterns-kompakt, 1. Auflage**
+![image-left](/images/books/pk1-cover.jpg){: .align-left}
+
+Karl Eilebrecht, Gernot Starke
+
+Patterns kompakt richtet sich an Praktiker: Softwareentwickler:innen und -Architekt:innen sowie alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
+
+## 2002
+
+**Effektive Softwarearchitekturen (ESA) 1. Auflage**
 
 ![image-left](/images/books/esa1-cover.jpg){: .align-left}
 Effektive Softwarearchitekturen, ein praktischer Leitfaden:
 
 Die erste Auflage dieses Buches erschien 2002, mit 224 Seiten noch ziemlich schlank.
 
-Bei der ersten Auflage haben mir zahlreiche Damen und Herren tatkräftig unterstützt,
-und teilweise auch signifikant inhaltliche Beiträge geleistet (danke, Kerstin Dittert, Wolfgang Korn, André Karalus und Martin Bartonitz). Ein großes Dankeschön geht auch an das (damalige) Führungsteam der blueCarat AG, insbesondere Fritz Weichbrodt - der mir für
-die vielen Wochen Schreibarbeit den Rücken freigehalten hat.
+Bei der ersten Auflage haben mich viele Menschen tatkräftig unterstützt,
+und teilweise auch signifikant inhaltliche Beiträge geleistet (danke, Kerstin Dittert, Wolfgang Korn, André Karalus und Martin Bartonitz). 
 
-Danke auch an Peter Hruschka für seine Motivation zu diesem Thema sowie dem schönen Vorwort.
+Ein großes Dankeschön geht auch an das (damalige) Führungsteam der blueCarat AG, insbesondere Fritz Weichbrodt - der mir für die vielen Wochen Schreibarbeit den Rücken freigehalten hat.
+
+Danke auch an Peter Hruschka für seine Motivation zu diesem Thema sowie für das schöne Vorwort.
 
 Direkt nach Erscheinen gewann das Buch die Auszeichnung "Bestes Buch" der OOP-Konferenz.
 ![](/images/books/bestbookaward_oop2003.jpg){: .align-right}
 Auf dem Foto sehen Sie mich zusammen mit Dr. Erich Gamma, der als treibende Kraft hinter "Eclipse" den Preis für die beste Entwicklungsumgebung erhielt.
 
-Ach ja - zu guter Letzt: Danke an Margarete Metzger - die erste Lektorin meines Autorenlebens, und die gute Seele dieses Buches: Deine feinfühlige Art, dich sowohl mit
-Form wie Inhalt auseinanderzusetzen hat viel Positives bewirkt!
+Ach ja - zu guter Letzt: Danke an Margarete Metzger - die erste Lektorin meines Autorenlebens, und die gute Seele dieses Buches: Deine feinfühlige Art, dich sowohl mit Form wie Inhalt auseinanderzusetzen hat viel Positives bewirkt!
 <hr/>
 
-### 1994: Sprachen zur Software-Prozessmodellierung
+## 1994
+
+**Sprachen zur Software-Prozessmodellierung**
 
 ![image-left](/images/books/cover-dissertation.jpg){: .align-left}
 
 Shaker-Verlag (Aachen), 210 Seiten.
 Meine Dissertation, erstellt an der [J.Kepler Universität in Linz](https://www.jku.at),
 unter der Ägide des großartigen [Prof. Dr. Gerhard Chroust](https://de.wikipedia.org/wiki/Gerhard_Chroust).
+
