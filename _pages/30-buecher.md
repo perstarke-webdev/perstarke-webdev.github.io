@@ -122,7 +122,8 @@ Für alle bisherigen Käufer und LeserInnen des Buches übrigens ein kostenfreie
 
 **2018: Patterns-kompakt, 5. Auflage**
 
-![](/images/books/pk5-cover.png){: .align-right}
+![](/images/books/pk-cover-reihe.png)
+
 Karl Eilebrecht, Gernot Starke: Entwurfsmuster für effektive Softwareentwicklung.
 Springer-Vieweg Verlag, 5. überarbeitete und erweiterte Auflage, 2018.
 
@@ -131,6 +132,8 @@ fast 6 Jahren einige Altersspuren wie ausgestorbene Technologien und Verfahren w
 beispielsweise um Tipps zu Microservices ergänzt. Unsere Einführung zur _Schablonendokumentation_ (wie etwa arc42 oder Volere) haben wir gründlich aktualisiert.
 
 Daneben gibt es natürlich auch Neues, etwa die Patterns _Hashwertschlüssel_ oder _Inbetriebnahme_.
+
+Mehr Details gibt's auf der [Website zum Buch](http://www.patterns-kompakt.de/).
 
 <hr/>
 
@@ -367,22 +370,41 @@ Das Buch fasst die wichtigsten Entwurfsmuster zusammen, die Sie für Software-En
 **2012: Knigge für Softwarearchitekten, 1.A**
 
 ![](/images/books/knigge1.jpg){: .align-right}
+
+Peter Hruschka und Gernot Starke, Software-und-Support Verlag.
+
 Über 20 Folge der Kolumne "Knigge für Softwarearchitekten" haben Peter Hruschka
 und ich für's JavaMagazin geschrieben - bevor wir die Highlights nochmal überarbeitet
 und in Buchform zusammengefasst haben.
+
+Viele der Kolumnen sind immer noch [online zu lesen](https://jaxenter.de/?s=Knigge),
+und das Buch hat eine [eigene Website, softwareknigge.de](https://softwareknigge.de).
 
 
 <hr/>
 
 **2012: Basiswissen für Softwarearchitekten, 1. Auflage**
+![](/images/books/basiswissen-1.jpg){: .align-left}
 
+M.Gharbi, A.Koschel, A.Rausch, G.Starke: Basiswissen für Softwarearchitekten: Aus- und Weiterbildung nach iSAQB-Standard zum Certified Professional for Software Architecture - Foundation Level. 220 Seiten, dpunkt Verlag, 2012.
+
+Da haben sich einige Mitwirkende des iSAQB e.V. zusammengeschlossen, um die Grundlagen (das "Basiswissen") von Softwarearchitektur in einem Buch zusammenzufassen.
+
+Mein Einwand "gibt es schon" (siehe "Effektive Softwarearchitekturen") flugs in den Wind geschlagen und eben ein neues Buch geschrieben (bei dem Autor:innen an vielen Stellen unterschiedlicher Meinung sind). Der Einfluss von Hochschulen und Enterprise-Architekur schlägt sich in Terminologie und Methodik nieder - aber die Inhalte des iSAQB Lehrplans deckt das Buch ab. 
 <hr/>
 
 ## 2011
 
-**2011: SWA-kompakt, 2.A**
+**2011: SWA-kompakt, 2.Auflage**<br>
 
-Software-Architektur kompakt
+Software-Architektur kompakt, 2. Auflage
+
+![](/images/books/SWA-kompakt-1.jpg){: .align-right}
+
+Kritiken haben uns (berechtigt) darauf hingewiesen, dass wir im Buch sehr stark auf das arc42-Template eingehen, und die methodischen Grundlagen von Softwarearchitektur zu wenig oder gar nicht behandeln.
+
+Tzja - das stimmt wohl, und im Nachhinein hätten wir dieses Buch besser "arc42 und Softwarearchitektur" genannt, oder so ähnlich. Das passte dann allerdings dem Verlag nicht, und wir Autoren haben nicht genügend darauf hin gedrängt.
+
 
 <hr/>
 
@@ -403,12 +425,21 @@ Infos zu arc42 sind jetzt an arc42 V 5.0 angepasst.
 
 **2009: ESA, 4. Auflage**
 
-![](/images/books/esa4-cover.png){: .align-right}
+![](/images/books/esa4-cover.png){: .align-left}
 In der vierten Auflage fand zum ersten Mal der Lehrplan des iSAQB Einzug in
 das Buch. Weiterhin zwei konkrete Beispiele von Softwarearchitekturen, beide
 beschrieben mit Hilfe des [arc42 ](http://arc42.de) Templates.
 
 <hr/>
+
+**2009: Softwarearchitektur kompakt, 1. Auflage**
+![](/images/books/SWA-kompakt-1.jpg){: .align-right}
+
+Gernot Starke und Peter Hruschka, Spektrum Akademischer Verlag
+
+Software Architektur kompakt gibt Ihnen alles, was Sie zu einem reibungslosen und schnellen Start in das Thema benötigen. Lernen Sie Systeme zukunftssicher, flexibel und transparent zu konstruieren. Sie finden hier sofort einsetzbare und erprobte Muster und Vorlagen zur Erstellung praxistauglicher IT-Architekturen.
+
+Software-Architektur kompakt hilft Ihnen, das Berufsbild und die Verantwortung von Software-Architekten besser zu verstehen und in Ihren Projekten zu etablieren. Sie finden auch passende Antworten auf verbreitete Einwände wie „zu viel Aufwand“, „keine Zeit“ oder „zu teuer“.
 
 ## 2008
 
@@ -453,17 +484,19 @@ In der zweiten Auflage kamen die Teile über MDA und UML2 neu hinzu, diverse Kap
 ## 2003
 
 **2003: Patterns-kompakt, 1. Auflage**
-![image-left](/images/books/pk1-cover.jpg){: .align-left}
+![Patterns-kompakt, erste Auflage](/images/books/pk1-cover.jpg){: .align-left}
 
 Karl Eilebrecht, Gernot Starke
 
 Patterns kompakt richtet sich an Praktiker: Softwareentwickler:innen und -Architekt:innen sowie alle, die einen praxisorientierten Überblick zu Entwurfsmustern benötigen.
 
+Karl und ich haben einige Jahre zusammen für ein großes Entwicklungsprojekt gearbeitet, mögen systematische Entwicklung und fanden die (damals) existierenden Pattern-Bücher zu umfangreich und teils schwer zugänglich.
+
 ## 2002
 
 **Effektive Softwarearchitekturen (ESA) 1. Auflage**
 
-![image-left](/images/books/esa1-cover.jpg){: .align-left}
+![ESA, erste Auflage](/images/books/esa1-cover.jpg){: .align-right}
 Effektive Softwarearchitekturen, ein praktischer Leitfaden:
 
 Die erste Auflage dieses Buches erschien 2002, mit 224 Seiten noch ziemlich schlank.

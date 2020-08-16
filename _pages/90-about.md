@@ -66,7 +66,7 @@ buecher:
    - image_path: /images/about/buch-cover-grid.png
      alt: Buecher
      title: Schreibt Bücher...
-     excerpt: '..zu Architektur, arc42, Software-Engineering, Patterns, Zertifizierung, agilem Vorgehen.'
+     excerpt: '..zu Architektur, arc42, Software-Engineering, Patterns, Zertifizierung, agilem Vorgehen. Eine chronologische Übersicht gibts [hier](/buecher).'
 
 
 training:
