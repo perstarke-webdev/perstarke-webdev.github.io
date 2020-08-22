@@ -50,7 +50,7 @@ An die aktuelle Version des iSAQB Lehrplan angepasst, und grundlegend neue Beisp
 <hr/>
 
 
-**2020: Requirements-Skills für Softwarearchitekten**<br>
+**2020: Requirements-Skills erfolgreicher Softwareteams**<br>
 Peter Hruschka und Gernot Starke
 (Leanpub eBook)
 
@@ -90,7 +90,7 @@ Aktualisiert für die aktuelle Version des Lehrplans (von September 2019).
 **Oktober 2019: arc42-by-Example**
 
 ![](/images/books/arc42-by-example-packt.png){: .align-left}
-Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: veröffentlicht bei [Packt](). Verfügbar in verschiedenen Formaten (Papier, eBooks).
+Gernot Starke, Ralf D. Müller, Michael Simons, Stefan Zörner: veröffentlicht bei [Packt](https://www.packtpub.com/product/arc42-by-example/9781839214356). Verfügbar in verschiedenen Formaten (Papier, eBooks).
 
 Aufgrund des Erfolgs bei Leanpub (siehe unten) hat Packt-Publishing das Buch auch ins Programm aufgenommen. Sie haben exakt die pdf-Version von Leanpub übernommen - und ein (wie wir finden schön farbenfrohes) Cover für uns entworfen. Damit sind wir jetzt auch im O'Reilly Safari online Programm sichtbar.
 
