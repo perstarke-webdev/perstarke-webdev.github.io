@@ -11,7 +11,7 @@ header:
 
 * [<i class="fa fa-fw fa-twitter"></i>@gernotstarke](https://twitter.com/gernotstarke)
 
-* [<i class="fa fa-fw fa-xing"></i>Xing](https://www.xing.com/profile/Gernot_Starke)
+* [<i class="fas fa-globe"></i>Website](https://gernotstarke.de)
 
 * [<i class="fa fa-fw fa-rss-square"></i>Blog](https://it-and-more.blogspot.com)
 

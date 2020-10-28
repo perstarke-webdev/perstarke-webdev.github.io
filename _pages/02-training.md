@@ -24,7 +24,7 @@ training:
     excerpt: "Grundlagen von Softwarearchitektur. Ich bin [iSAQB](https://isaqb.org) lizenzierter Trainer, und habe in den letzten Jahren mehr als 1000 Personen erfolgreich auf die iSAQB Zertifizierung vorbereitet."
 
   - title: "Advanced"
-    excerpt: "Praxisnahe Weiterbildung für Menschen mit IT-Erfahrung. iSAQB Lizenz für verschiedene Module im Rahmen von CPSA-Advanced (IMPROVE, ADOK)"
+    excerpt: "Praxisnahe Weiterbildung für Menschen mit IT-Erfahrung. iSAQB Lizenz für verschiedene Module im Rahmen von CPSA-Advanced (IMPROVE, ADOK, Req4Arc)"
 
 
   - title: "Individuell"
@@ -37,7 +37,7 @@ training:
 
 Gerne begrüße ich Sie in einem meiner praxisorientierten
   und kurzweiligen Trainings, die ich gemeinsam
-  mit [**arc42**](http://arc42.de/termine) und [**INNOQ**](https://innoq.com) veranstalte.
+  mit [**arc42**](https://arc42.de/termine) und [**INNOQ**](https://innoq.com) veranstalte.
 {: .text-center}
 
 
