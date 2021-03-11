@@ -1,12 +1,13 @@
 ---
 title: Artikel
-layout: archive
+layout: single
 permalink: /artikel/
+toc: true
+toc_label: "Jahre"
 header:
   overlay_image: /images/header/site-header-flat.png
 ---
 
-Hier finden Sie eine Übersicht nach Themen ("tags"),
-falls Sie lieber eine chronologische Übersicht möchten, schauen Sie dort.
+Hier finden Sie eine Übersicht nach Jahren.
 
 <!-- Idee: Posts-by-Tag Page verwenden, Artikel nach Tags ordnen... -->
