@@ -173,3 +173,7 @@ defaults:
       comments: false
       share: true
       related: true
+
+# Collections (for articles)
+collections:
+  - staff_members
