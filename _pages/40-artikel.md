@@ -8,6 +8,6 @@ header:
   overlay_image: /images/header/site-header-flat.png
 ---
 
-Hier finden Sie eine Übersicht nach Jahren. TEST2
+Hier finden Sie eine Übersicht nach Jahren. TEST
 
 <!-- Idee: Posts-by-Tag Page verwenden, Artikel nach Tags ordnen... -->
