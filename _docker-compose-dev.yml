@@ -1,6 +1,6 @@
 # docker-compose definition for developing the site.
 #
-version: '2'
+version: '3'
 
 services:
   gernotstarke-jekyll:
