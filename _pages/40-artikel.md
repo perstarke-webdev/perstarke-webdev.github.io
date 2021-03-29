@@ -1,19 +1,14 @@
 ---
 title: Artikel
-layout: single
+layout: collection
 permalink: /artikel/
-toc: true
-toc_label: "Jahre"
 header:
   overlay_image: /images/header/site-header-flat.png
+collection: articles
+sort_by: year
+sort_oder: reverse
+toc: true
+toc_label: Jahre
 ---
-
-```
-{% for article in site.articles %}
-    {{article.name}}
-    {{article.content}}
-{% endfor %}
-
-```
 
 <!-- Idee: Posts-by-Tag Page verwenden, Artikel nach Tags ordnen... -->

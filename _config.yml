@@ -178,4 +178,5 @@ defaults:
 
 # Collections, for articles
 collections:
-  - articles
+  articles:
+    output: true
