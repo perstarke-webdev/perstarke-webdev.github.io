@@ -1,0 +1,21 @@
+---
+title: Artikel
+layout: single
+permalink: /artikel/
+header:
+  overlay_image: /images/header/site-header-flat.png
+toc: true
+toc_label: Jahre
+---
+
+{% for article in site.articles %}
+  <h2>
+    <a href="{{ article.url }}">
+      {{ article.name }}
+    </a>
+  </h2>
+  <h3> {{article.author}}</h3>
+  <p>{{ article.content | markdownify }}</p>
+{% endfor %}
+
+<!-- Idee: Posts-by-Tag Page verwenden, Artikel nach Tags ordnen... -->
