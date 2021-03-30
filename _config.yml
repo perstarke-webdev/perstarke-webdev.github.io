@@ -173,6 +173,11 @@ defaults:
       comments: false
       share: true
       related: true
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
 
 
 
