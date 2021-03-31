@@ -3,6 +3,7 @@ name: "Die VENOM Story: Strategische Anwendungsmodernisierung mit Split+Extract-
 year: 2020
 tag: VENOM
 author: Dr. Gernot Starke
+paper: Objektspektrum
 ---
 Sie erfahren anhand eines (komplett anonymisierten) realen Beispiels, wie die inkrementelle Modernisierung
 eines historisch gewachsenen Systems funktionieren kann. Das riesige, gewucherte System VENOM mit mehr als
