@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Req4Arcs - Das Dilemma"
-year: 2019
+date: 2019-02-01
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

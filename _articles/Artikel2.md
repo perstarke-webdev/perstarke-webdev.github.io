@@ -1,6 +1,6 @@
 ---
 name: "The Art of Software Reviews - Probleme und Risiken zielsicher identifizieren"
-year: 2020
+date: 2020-05-01
 tag: Review
 author: Dr. Gernot Starke
 paper: "iX Developer 2020 - moderne Softwarearchitekturen"

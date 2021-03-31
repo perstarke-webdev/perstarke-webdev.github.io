@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Rec4Arcs - Qualität fällt nicht vom Himmel"
-year: 2019
+date: 2019-08-01
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Rec4Arcs - Clean Start"
-year: 2019
+date: 2019-03-01
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

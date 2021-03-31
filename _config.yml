@@ -185,4 +185,3 @@ defaults:
 collections:
   articles:
     output: true
-    sort_by: year

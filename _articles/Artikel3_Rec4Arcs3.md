@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Rec4Arcs - Scope ist nicht gleich Scope"
-year: 2019
+date: 2019-04-01
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

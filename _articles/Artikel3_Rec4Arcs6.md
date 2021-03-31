@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Rec4Arcs - Gute Beispiele statt schlechter Abstraktionen"
-year: 2019
+date: 2019-07-01
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
