@@ -7,5 +7,10 @@ layout: default
 <h6> Tag: {{page.tag}} </h6>
 <h6> Autor(en): {{page.author}} </h6>
 <h6> Magazin: {{page.paper}} </h6>
+{% unless page.link == false %}
+    <h6> <a href="{{ page.link }}">
+      > Hier online lesen <
+    </a> </h6>
+{% endunless %}
 
 {{ content }}
