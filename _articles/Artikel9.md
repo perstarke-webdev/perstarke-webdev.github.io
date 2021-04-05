@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Hitchiker's Guide to Docs as Code - <PDF-Output>"
 date: 2018-07-01
+date2: 2018-07
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin

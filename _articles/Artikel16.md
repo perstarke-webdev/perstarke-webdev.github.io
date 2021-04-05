@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die Qualitätsverbesserer"
 date: 2017-03-01
+date2: 2017-03
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

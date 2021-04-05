@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Hitchiker's Guide to Docs as Code - Modulare Dokumentationen erstellen"
 date: 2017-11-01
+date2: 2017-11
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin

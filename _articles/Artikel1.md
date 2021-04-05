@@ -1,6 +1,7 @@
 ---
 name: "Die VENOM Story: Strategische Anwendungsmodernisierung mit Split+Extract-Strategien"
 date: 2020-05-01
+date2: 2020-05
 tag: VENOM
 author: Dr. Gernot Starke
 paper: Objektspektrum

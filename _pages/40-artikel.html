@@ -8,10 +8,9 @@ toc: true
 toc_label: Jahre
 ---
 
-
-{% for article in site.articles %}
-  <h1 style="width: 7ch; text-overflow: clip; white-space: nowrap;
-overflow: hidden;">{{ article.date }}</h1>
+{% assign articles = site.articles | sort: 'date2' | reverse %}
+{% for article in articles %}
+  <h1>{{ article.date2 }}</h1>
   <h2>
     <a href="{{ article.url }}">
       {{ article.name }}

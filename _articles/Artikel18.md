@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Fortschritt oder Verschlimmbesserung?"
 date: 2017-01-01
+date2: 2017-01
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

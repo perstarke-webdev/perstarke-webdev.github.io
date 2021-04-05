@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Rec4Arcs - Qualitätsanforderungen konkret formulieren"
 date: 2019-09-01
+date2: 2019-09
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

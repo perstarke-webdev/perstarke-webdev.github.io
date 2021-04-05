@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Hitchiker's Guide to Docs as Code - Diagramme, jetzt wird modelliert"
 date: 2018-03-01
+date2: 2018-03
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin

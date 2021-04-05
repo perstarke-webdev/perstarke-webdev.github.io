@@ -1,6 +1,7 @@
 ---
 name: "Kolumne: Hitchiker's Guide to Docs as Code - Nenn' mich einfach Doktor"
 date: 2017-10-01
+date2: 2017-10
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin

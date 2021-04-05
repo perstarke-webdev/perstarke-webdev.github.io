@@ -1,6 +1,7 @@
 ---
 name: "Die Antwort auf alle Fragen: arc42 - die Siebte"
 date: 2017-02-01
+date2: 2017-02
 tag: arc42
 author: Dr. Gernot Starke
 paper: Javaspektrum
