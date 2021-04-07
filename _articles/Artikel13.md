@@ -1,10 +1,10 @@
 ---
-name: "Kolumne: Hitchiker's Guide to Docs as Code - Nenn' mich einfach Doktor"
-date: 2017-10-01
+name: "Kolumne: Hitchhiker's Guide to Docs as Code - Nenn' mich einfach Doktor"
 date2: 2017-10
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/docs-as-code-asciidoctor-62432
 ---
 Wir kennen das alle, diese gewisse Abscheu des Entwicklungsteams in puncto Dokumentation.
 Der Horror von ungeeigneten Werkzeugen, fehlender Versionierung und binären Datenformaten. 

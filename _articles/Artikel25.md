@@ -4,6 +4,7 @@ date2: 2015-04
 tag: Meteor
 author: Dr. Gernot Starke
 paper: Javaspektrum
+link: 
 ---
 Vollständige Webanwendungen in JavaScript - sowohl auf dem Client als auch auf dem Server.
 Mit diesem vollmundigen Versprechen tritt Meteor an - und hat damit von namhaften Investoren einen großen

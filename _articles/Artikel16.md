@@ -1,10 +1,10 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die Qualitätsverbesserer"
-date: 2017-03-01
 date2: 2017-03
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/knigge-softwarearchitekten-qualitaetsverbesserer-53107
 ---
 Systematische Architekturbewertung, etwa gemäß der gekannten Methode ATAM, gehört zu den Aufgaben
 verantwortungsbewusster Softwarearchitekten und -architektinnen. Leider sind ATAM und Co. relativ formal und aufwendig,

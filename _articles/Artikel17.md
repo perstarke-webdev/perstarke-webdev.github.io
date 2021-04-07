@@ -1,10 +1,10 @@
 ---
 name: "Die Antwort auf alle Fragen: arc42 - die Siebte"
-date: 2017-02-01
 date2: 2017-02
 tag: arc42
 author: Dr. Gernot Starke
 paper: Javaspektrum
+link: false
 ---
 Hier finden Sie einen Überblick über alle relevanten Änderungen von arc42, Version 7 - der aktuellen Version
 des bekannten Templates zur Dokumentation und Kommunikation von Softwarearchitekturen.

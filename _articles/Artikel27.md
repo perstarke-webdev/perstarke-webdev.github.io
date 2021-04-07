@@ -4,6 +4,7 @@ date2: 2015-03
 tag: Architekturbewertung
 author: Stefan Toth, Phillip Ghadir, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/softwarearchitektur-bewerten-aber-wie-16288
 ---
 Bei einer Architekturbewertung geht es darum herauszufinden, ob Ihre Architektur für Ihren Kontext
 gut genug ist. Rahmenbedingungen und Anforderungen sind der Schlüssel für jede Bewertungstätigkeit.

@@ -4,6 +4,7 @@ date2: 2016-10
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/knigge-bimodale-it-48295
 ---
 Seit 2014 hören wir in IT-Diskussionen immer wieder das Stichwort "Bimodale IT", oder auch "IT der zwei
 Geschwindigkeiten". Ein wenig Englisch möchten wir Ihnen diesmal zumuten, damit Sie die volle Schönheit der Erklärung 

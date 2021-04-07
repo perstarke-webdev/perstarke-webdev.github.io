@@ -5,6 +5,7 @@ date2: 2017-01
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/knigge-softwarearchitekten-fortschritt-verschlimmbesserung-51954
 ---
 Ändern und erweitern unter Zeitdruck - das ist traurigerweise Normalität für viele Softwerker.
 Ständig zwingen und widrige Umstände under dunkle Mächte dazu, mit zu wenigen Informationen 

@@ -4,6 +4,7 @@ date2: 2016-07
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/knigge-fuer-softwarearchitekten-software-is-eating-the-world-43104
 ---
 Wilkommen zu einer neuen Staffel unseres "Knigge für Softwarearchitekten".
 In den bisherigen Staffeln, die zwischen 2012 und 2014 im Java Magazin erschienen sind und inzwischen auch

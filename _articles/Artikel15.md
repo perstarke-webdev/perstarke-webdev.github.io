@@ -1,10 +1,10 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die API-tektin"
-date: 2017-04-01
 date2: 2017-04
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
+link: https://jaxenter.de/knigge-softwarearchitekten-api-55316
 ---
 Unserer Einschätzung nach werden Schnittstellen oft als Dinge dritter Klasse behandelt.
 Technologie auswählen, Features bauen und Bugs fixen geht vor. Sogar Dokumentation schreiben scheint uns in
