@@ -13,4 +13,27 @@ layout: default
     </a> </h6>
 {% endunless %}
 
+{% assign beginning = page.name | slice: 0, 15 %}
+{% if beginning == "Kolumne: Knigge" %}
+    <h6> <a href="/knigge/">
+      > Weiter Artikel dieser Kolumne <
+    </a> </h6>
+{% endif %}
+
+{% assign beginning = page.name | slice: 0, 17 %}
+{% if beginning == "Kolumne: Rec4Arcs" %}
+    <h6> <a href="/rec4arcs/">
+      > Weiter Artikel dieser Kolumne <
+    </a> </h6>
+{% endif %}
+
+{% assign beginning = page.name | slice: 0, 43 %}
+{% if beginning == "Kolumne: Hitchhiker’s Guide to Docs as Code" %}
+    <h6> <a href="/docsAsCode/">
+      > Weiter Artikel dieser Kolumne <
+    </a> </h6>
+{% endif %}
+
+
 {{ content }}
+

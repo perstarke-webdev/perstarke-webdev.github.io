@@ -1,0 +1,25 @@
+---
+title: Kolumne: Hitchhiker’s Guide to Docs as Code
+layout: single
+permalink: /docsAsCode/
+header:
+  overlay_image: /images/header/site-header-flat.png
+---
+{% assign articles = site.articles | sort: 'date2' | reverse %}
+{% assign date = 0 %}
+{% for article in articles %}
+  {% assign beginning = article.name | slice: 0, 43 %}
+  {% if beginning == "Kolumne: Hitchhiker’s Guide to Docs as Code" %}
+    {% if date != article.date2 %}
+      <h1>{{ article.date2 }}</h1>
+    {% endif %}
+    <h2>
+      <a href="{{ article.url }}">
+        {{ article.name }}
+      </a>
+    </h2>
+    <h3> {{article.author}}</h3>
+    <p>{{ article.content | markdownify }}</p>
+    {% assign date = article.date2 %}
+  {% endif %}
+{% endfor %}
