@@ -1,5 +1,5 @@
 ---
-title: Kolumne: Hitchhiker’s Guide to Docs as Code
+title: Kolumne - Hitchhiker’s Guide to Docs as Code
 layout: single
 permalink: /docsAsCode/
 header:
@@ -9,7 +9,7 @@ header:
 {% assign date = 0 %}
 {% for article in articles %}
   {% assign beginning = article.name | slice: 0, 43 %}
-  {% if beginning == "Kolumne: Hitchhiker’s Guide to Docs as Code" %}
+  {% if beginning == "Kolumne: Hitchhiker's Guide to Docs as Code" %}
     {% if date != article.date2 %}
       <h1>{{ article.date2 }}</h1>
     {% endif %}
