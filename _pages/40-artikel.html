@@ -5,19 +5,55 @@ layout: single
 permalink: /artikel/
 header:
   overlay_image: /images/header/site-header-flat.png
+sidebar:
+  nav: "articles"
 ---
 
 {% assign articles = site.articles | sort: 'date2' | reverse %}
+
 {% assign date = 0 %}
 {% assign year = 0 %}
+
 {% for article in articles %}
+
   {% assign articleYear = article.date2 | slice: 0, 4 %}
+
   {% if year != articleYear %}
-  <h1 style="text-decoration:underline;"> {{articleYear}} </h1>
+    {% if articleYear == "2020" %}
+      <a ID = "2020"> </a>
+    {% endif %}
+    {% if articleYear == "2019" %}
+      <a ID = "2019"> </a>
+    {% endif %}
+    {% if articleYear == "2018" %}
+      <a ID = "2018"> </a>
+    {% endif %}
+    {% if articleYear == "2017" %}
+      <a ID = "2017"> </a>
+    {% endif %}
+    {% if articleYear == "2016" %}
+      <a ID = "2016"> </a>
+    {% endif %}
+    {% if articleYear == "2015" %}
+      <a ID = "2015"> </a>
+    {% endif %}
+    {% if articleYear == "2014" %}
+      <a ID = "2014"> </a>
+    {% endif %}
+    {% if articleYear == "2013" %}
+      <a ID = "2013"> </a>
+    {% endif %}
+    {% if articleYear == "2012" %}
+      <a ID = "2012"> </a>
+    {% endif %}
+
+    <h1 style="text-decoration:underline;"> {{articleYear}} </h1>
   {% endif %}
+
   {% if date != article.date2 %}
     <h2>{{ article.date2 }}</h2>
   {% endif %}
+
   <h3>
     <a href="{{ article.url }}">
       {{ article.name }}
@@ -25,8 +61,8 @@ header:
   </h3>
   <h4> {{article.author}}</h4>
   <p>{{ article.content | markdownify }}</p>
+
   {% assign date = article.date2 %}
   {% assign year = articleYear%}
-{% endfor %}
 
-<!-- Idee: Posts-by-Tag Page verwenden, Artikel nach Tags ordnen... -->
+{% endfor %}
