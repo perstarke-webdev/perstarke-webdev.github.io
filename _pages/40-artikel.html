@@ -1,27 +1,32 @@
 ---
 title: Artikel
+excerpt: alle Artikel von (und mit) Dr. Gernot Starke seit 2012
 layout: single
 permalink: /artikel/
 header:
   overlay_image: /images/header/site-header-flat.png
-toc: true
-toc_label: Jahre
 ---
 
 {% assign articles = site.articles | sort: 'date2' | reverse %}
 {% assign date = 0 %}
+{% assign year = 0 %}
 {% for article in articles %}
-  {% if date != article.date2 %}
-    <h1>{{ article.date2 }}</h1>
+  {% assign articleYear = article.date2 | slice: 0, 4 %}
+  {% if year != articleYear %}
+  <h1 style="text-decoration:underline;"> {{articleYear}} </h1>
   {% endif %}
-  <h2>
+  {% if date != article.date2 %}
+    <h2>{{ article.date2 }}</h2>
+  {% endif %}
+  <h3>
     <a href="{{ article.url }}">
       {{ article.name }}
     </a>
-  </h2>
-  <h3> {{article.author}}</h3>
+  </h3>
+  <h4> {{article.author}}</h4>
   <p>{{ article.content | markdownify }}</p>
   {% assign date = article.date2 %}
+  {% assign year = articleYear%}
 {% endfor %}
 
 <!-- Idee: Posts-by-Tag Page verwenden, Artikel nach Tags ordnen... -->
