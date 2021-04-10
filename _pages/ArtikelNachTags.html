@@ -1,0 +1,71 @@
+---
+title: Artikel
+excerpt: Artikel seit 2012 von (und mit) Dr. Gernot Starke, <br/> sortiert nach Tags. <br/> [Hier klicken für Sortierung nach Jahren.](/artikel/)
+layout: single
+permalink: /artikelNachTags/
+header:
+  overlay_image: /images/header/site-header-flat.png
+sidebar:
+  nav: "tags"
+---
+
+{% assign articles = site.articles | sort: 'tag' %}
+
+{% assign tag = "TestTag" %}
+
+{% for article in articles %}
+
+  {% assign articleTag = article.tag %}
+
+  {% if tag != articleTag %}
+    {% if articleTag == "Architektur" %}
+      <a ID = "architektur"> </a>
+    {% endif %}
+    {% if articleTag == "Architekturbewertung" %}
+      <a ID = "architekturbewertung"> </a>
+    {% endif %}
+    {% if articleTag == "Docs as Code" %}
+      <a ID = "docsAsCode"> </a>
+    {% endif %}
+    {% if articleTag == "Fortbildung" %}
+      <a ID = "fortbildung"> </a>
+    {% endif %}
+    {% if articleTag == "Knigge" %}
+      <a ID = "knigge"> </a>
+    {% endif %}
+    {% if articleTag == "Meteor" %}
+      <a ID = "meteor"> </a>
+    {% endif %}
+    {% if articleTag == "Qualität" %}
+      <a ID = "qualität"> </a>
+    {% endif %}
+    {% if articleTag == "Req4Arcs" %}
+      <a ID = "req4arcs"> </a>
+    {% endif %}
+    {% if articleTag == "VENOM" %}
+      <a ID = "venom"> </a>
+    {% endif %}
+    {% if articleTag == "Legacy" %}
+      <a ID = "legacy"> </a>
+    {% endif %}
+    {% if articleTag == "aim42" %}
+      <a ID = "aim42"> </a>
+    {% endif %}
+    {% if articleTag == "arc42" %}
+      <a ID = "arc42"> </a>
+    {% endif %}
+
+    <h1 style="text-decoration:underline;"> {{articleTag}} </h1>
+  {% endif %}
+
+  <h3>
+    <a href="{{ article.url }}">
+      {{ article.name }}
+    </a>
+  </h3>
+  <h4> {{article.author}}</h4>
+  <p>{{ article.content | markdownify }}</p>
+
+  {% assign tag = article.tag%}
+
+{% endfor %}

@@ -1,6 +1,5 @@
 ---
-name: "Kolumne: Rec4Arcs - Qualität fällt nicht vom Himmel"
-date: 2019-08-01
+name: "Kolumne: Req4Arcs - Qualität fällt nicht vom Himmel"
 date2: 2019-08
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke

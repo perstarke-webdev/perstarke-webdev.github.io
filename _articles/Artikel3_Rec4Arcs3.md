@@ -1,6 +1,5 @@
 ---
-name: "Kolumne: Rec4Arcs - Scope ist nicht gleich Scope"
-date: 2019-04-01
+name: "Kolumne: Req4Arcs - Scope ist nicht gleich Scope"
 date2: 2019-04
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke

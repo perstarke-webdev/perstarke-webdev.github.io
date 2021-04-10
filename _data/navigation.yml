@@ -34,3 +34,32 @@ articles:
         url: /artikel#2013
       - title: "2012"
         url: /artikel#2012
+
+tags:
+  - title: Tags
+    children:
+      - title: "Architektur"
+        url: /artikelNachTags#architektur
+      - title: "Architekturbewertung"
+        url: /artikelNachTags#architekturbewertung
+      - title: "Docs as Code"
+        url: /artikelNachTags#docsAsCode
+      - title: "Fortbildung"
+        url: /artikelNachTags#fortbildung
+      - title: "Knigge"
+        url: /artikelNachTags#knigge
+      - title: "Legacy"
+        url: /artikelNachTags#legacy
+      - title: "Meteor"
+        url: /artikelNachTags#meteor
+      - title: "Qualität"
+        url: /artikelNachTags#qualität
+      - title: "Req4Arcs"
+        url: /artikelNachTags#req4arcs
+      - title: "Venom"
+        url: /artikelNachTags#venom
+      - title: "aim42"
+        url: /artikelNachTags#aim42
+      - title: "arc42"
+        url: /artikelNachTags#arc42
+

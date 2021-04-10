@@ -1,6 +1,5 @@
 ---
-name: "Kolumne: Rec4Arcs - Gute Beispiele statt schlechter Abstraktionen"
-date: 2019-07-01
+name: "Kolumne: Req4Arcs - Gute Beispiele statt schlechter Abstraktionen"
 date2: 2019-07
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke

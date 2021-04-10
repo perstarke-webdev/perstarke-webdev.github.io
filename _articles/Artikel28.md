@@ -1,7 +1,7 @@
 ---
 name: "Keilschrift reloaded - Softwarearchitektur besser dokumentieren"
 date2: 2014-12
-tag: Arc42
+tag: arc42
 author: Stefan Zörner, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/softwarearchitekturen-besser-dokumentieren-13617

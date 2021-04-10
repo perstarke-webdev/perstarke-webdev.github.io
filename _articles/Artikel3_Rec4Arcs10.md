@@ -1,5 +1,5 @@
 ---
-name: "Kolumne: Rec4Arcs - Miteinander statt gegeneinander"
+name: "Kolumne: Req4Arcs - Miteinander statt gegeneinander"
 date2: 2019-11
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
