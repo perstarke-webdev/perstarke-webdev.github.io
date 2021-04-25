@@ -10,6 +10,18 @@ header:
 
 ---
 
+## 2021
+
+**May 2021: Software Architecture Foundation: CPSA-F Exam Preparation** <br>
+
+![](/images/books/SWAF-vanHaren-cover.png){: .align-right}
+
+Gernot Starke and Alexander Lorz, published by van Haren International Publishing.
+
+This book serves as study guide for the CPSA-F (Certified Professional for Software Architecture - Foundation Level) examination of iSAQB. It explains every single learning goal of the comprehensive CPSA-Foundation curriculum in detail, for best-possible exam preparation.
+
+In addition it describes the examination process, together with dozens of sample examination questions.
+
 ## 2020
 
 **August 2020: Software Reviews (English version)** <br>
