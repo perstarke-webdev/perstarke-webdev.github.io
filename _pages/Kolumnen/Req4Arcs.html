@@ -1,5 +1,5 @@
 ---
-title: Kolumne - Rec4Arcs
+title: Kolumne - Req4Arcs
 layout: single
 permalink: /rec4arcs/
 header:
@@ -9,7 +9,7 @@ header:
 {% assign date = 0 %}
 {% for article in articles %}
   {% assign beginning = article.name | slice: 0, 17 %}
-  {% if beginning == "Kolumne: Rec4Arcs" %}
+  {% if beginning == "Kolumne: Req4Arcs" %}
     {% if date != article.date2 %}
       <h1>{{ article.date2 }}</h1>
     {% endif %}
