@@ -20,6 +20,18 @@ classes: wide
   {% assign articleYear = article.date2 | slice: 0, 4 %}
 
   {% if year != articleYear %}
+    {% if articleYear == "2024" %}
+      <a ID = "2024"> </a>
+    {% endif %}
+    {% if articleYear == "2023" %}
+      <a ID = "2023"> </a>
+    {% endif %}
+    {% if articleYear == "2022" %}
+      <a ID = "2022"> </a>
+    {% endif %}
+    {% if articleYear == "2021" %}
+      <a ID = "2021"> </a>
+    {% endif %}
     {% if articleYear == "2020" %}
       <a ID = "2020"> </a>
     {% endif %}
