@@ -3,7 +3,7 @@ title: Artikel
 layout: default
 ---
 
-<h2> {{ page.name }}</h2>
+<center><h2> {{ page.name }}</h2>
 
 {{ content }}
 
@@ -11,33 +11,42 @@ layout: default
 
 <p> Erschienen {{ page.date2  | slice: 5, 7 }}-{{ page.date2  | slice: 0, 4 }} im {{page.paper}} </p>
 <p> <b> Autor(en): </b> {{page.author}} </p>
+</center>
 
 <hr>
 
 {% unless page.link == false %}
+    <center>
     <p> <a href="{{ page.link }}">
       Hier online lesen
     </a> </p>
+    </center>
 {% endunless %}
 
 {% assign beginning = page.name | slice: 0, 15 %}
 {% if beginning == "Kolumne: Knigge" %}
+    <center>
     <p> <a href="/knigge/">
       Weitere Artikel dieser Kolumne
     </a> </p>
+    </center>
 {% endif %}
 
 {% assign beginning = page.name | slice: 0, 17 %}
 {% if beginning == "Kolumne: Req4Arcs" %}
+    <center>
     <p> <a href="/rec4arcs/">
       Weitere Artikel dieser Kolumne
     </a> </p>
+    </center>
 {% endif %}
 
 {% assign beginning = page.name | slice: 0, 43 %}
 {% if beginning == "Kolumne: Hitchhiker's Guide to Docs as Code" %}
+    <center>
     <p> <a href="/docsAsCode/">
       Weitere Artikel dieser Kolumne
     </a> </p>
+    </center>
 {% endif %}
 
