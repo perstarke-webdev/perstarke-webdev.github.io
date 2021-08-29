@@ -18,7 +18,6 @@ header:
         {{ article.name }}
       </a>
     </h2>
-    <h3> {{article.author}}</h3>
     <p>{{ article.content | markdownify }}</p>
     {% assign date = article.date2 %}
   {% endif %}
