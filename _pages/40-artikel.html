@@ -16,15 +16,7 @@ sidebar:
 {% assign date = 0 %}
 {% assign year = 0 %}
 
-{% assign count = 0 %}
-
-{% for article in articles %}
-
-  {% assign count = count|plus:1 %}
-
-{% endfor %}
-
-{{ count }}
+{{ articles | size }}
 
 {% for article in articles %}
 
