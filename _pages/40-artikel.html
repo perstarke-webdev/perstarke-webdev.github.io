@@ -3,7 +3,7 @@ title: Artikel
 excerpt: >
   Artikel seit 2012 von (und mit) Dr. Gernot Starke
   <br/> <font size="3"> Die Artikel sind auch mit<a href="/artikelNachTags/"> Schlüsselworten</a> markiert. </font>
-layout: single
+layout: single_with_counter
 permalink: /artikel/
 header:
   overlay_image: /images/header/site-header-flat.png
@@ -15,8 +15,6 @@ sidebar:
 
 {% assign date = 0 %}
 {% assign year = 0 %}
-
-{{ articles | size }}
 
 {% for article in articles %}
 
