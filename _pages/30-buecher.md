@@ -1,7 +1,7 @@
 ---
 title: Bücher
 excerpt: von (und mit) Dr. Gernot Starke
-layout: single
+layout: single_toc_left
 toc: true
 toc_label: "Jahre"
 permalink: /buecher
