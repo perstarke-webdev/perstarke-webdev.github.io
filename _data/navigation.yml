@@ -34,8 +34,14 @@ articles:
         url: /artikel#2013
       - title: "2012"
         url: /artikel#2012
-
-tags:
+  - title: Kolumnen
+    children:
+      - title: "Req4Arcs"
+        url: /rec4arcs
+      - title: "Knigge"
+        url: /knigge
+      - title: "Docs as Code"
+        url: /docsascode
   - title: Tags
     children:
       - title: "Architektur"
