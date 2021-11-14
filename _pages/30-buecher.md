@@ -2,12 +2,11 @@
 title: Bücher
 excerpt: von (und mit) Dr. Gernot Starke
 layout: single
-toc: true
-toc_label: "Jahre"
-permalink: /buecher
+permalink: /buecher/
 header:
   overlay_image: /images/header/site-header.png
-
+sidebar:
+  nav: "books"
 ---
 
 ## 2021

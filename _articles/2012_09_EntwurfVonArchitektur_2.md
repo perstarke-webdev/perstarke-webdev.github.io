@@ -8,4 +8,4 @@ link: https://jaxenter.de/entwurf-von-softwarearchitekturen-teil-2-4402
 ---
 In der letzten Folge haben wir Ihnen aus dem Lehrplan des iSAQB e.V. [1] den Entwurf von Softwarearchitekturen 
 vorgestellt. Der iSAQB-e.V.-Lehrplan räumt dieser wichtigen Aktivität großen Raum ein – 
-weshalb wir dieses Thema in unserer Kolumne erneut aufgreifen.
+weshal  b wir dieses Thema in unserer Kolumne erneut aufgreifen.

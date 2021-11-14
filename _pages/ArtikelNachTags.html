@@ -1,18 +1,16 @@
 ---
 title: Artikel
-excerpt: Artikel seit 2012 von (und mit) Dr. Gernot Starke, <br/> sortiert nach Tags. <br/> [Hier klicken für Sortierung nach Jahren.](/artikel/)
-layout: single
+excerpt: >
+  Artikel seit 2012 von (und mit) Dr. Gernot Starke
+layout: single_with_counter
 permalink: /artikelNachTags/
 header:
   overlay_image: /images/header/site-header-flat.png
 sidebar:
-  nav: "tags"
-classes: wide
+  nav: "articles"
 ---
 
 {% assign articles = site.articles | sort: 'tag' %}
-
-{% assign tag = "TestTag" %}
 
 {% for article in articles %}
 

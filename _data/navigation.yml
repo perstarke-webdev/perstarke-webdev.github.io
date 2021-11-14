@@ -34,8 +34,14 @@ articles:
         url: /artikel#2013
       - title: "2012"
         url: /artikel#2012
-
-tags:
+  - title: Kolumnen
+    children:
+      - title: "Req4Arcs"
+        url: /rec4arcs
+      - title: "Knigge"
+        url: /knigge
+      - title: "Docs as Code"
+        url: /docsascode
   - title: Tags
     children:
       - title: "Architektur"
@@ -62,4 +68,47 @@ tags:
         url: /artikelNachTags#aim42
       - title: "arc42"
         url: /artikelNachTags#arc42
+
+
+books:
+  - title: Jahre
+    children:
+      - title: "2021"
+        url: /buecher#2021
+      - title: "2020"
+        url: /buecher#2020
+      - title: "2019"
+        url: /buecher#2019
+      - title: "2018"
+        url: /buecher#2018
+      - title: "2017"
+        url: /buecher#2017
+      - title: "2016"
+        url: /buecher#2016
+      - title: "2015"
+        url: /buecher#2015
+      - title: "2014"
+        url: /buecher#2014
+      - title: "2013"
+        url: /buecher#2013
+      - title: "2012"
+        url: /buecher#2012
+      - title: "2011"
+        url: /buecher#2011
+      - title: "2010"
+        url: /buecher#2010
+      - title: "2009"
+        url: /buecher#2009
+      - title: "2008"
+        url: /buecher#2008
+      - title: "2007"
+        url: /buecher#2007
+      - title: "2005"
+        url: /buecher#2005
+      - title: "2003"
+        url: /buecher#2003
+      - title: "2002"
+        url: /buecher#2002
+      - title: "1994"
+        url: /buecher#1994
 

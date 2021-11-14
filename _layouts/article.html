@@ -1,40 +1,52 @@
 ---
 title: Artikel
-layout: archive
+layout: default
 ---
 
-<h2> {{ page.name }}</h2>
-<h6>Datum: {{ page.date2 }}</h6>
-<h6> Tag: {{page.tag}} </h6>
-<h6> Autor(en): {{page.author}} </h6>
-<h6> Magazin: {{page.paper}} </h6>
+<center><h2> {{ page.name }}</h2>
+
+{{ content }}
+
+<hr>
+
+<p> Erschienen {{ page.date2  | slice: 5, 7 }}-{{ page.date2  | slice: 0, 4 }} im {{page.paper}} </p>
+<p> <b> Autor(en): </b> {{page.author}} </p>
+</center>
+
+<hr>
+
 {% unless page.link == false %}
-    <h6> <a href="{{ page.link }}">
-      > Hier online lesen <
-    </a> </h6>
+    <center>
+    <p> <a href="{{ page.link }}">
+      Hier online lesen
+    </a> </p>
+    </center>
 {% endunless %}
 
 {% assign beginning = page.name | slice: 0, 15 %}
 {% if beginning == "Kolumne: Knigge" %}
-    <h6> <a href="/knigge/">
-      > Weiter Artikel dieser Kolumne <
-    </a> </h6>
+    <center>
+    <p> <a href="/knigge/">
+      Weitere Artikel dieser Kolumne
+    </a> </p>
+    </center>
 {% endif %}
 
 {% assign beginning = page.name | slice: 0, 17 %}
-{% if beginning == "Kolumne: Rec4Arcs" %}
-    <h6> <a href="/rec4arcs/">
-      > Weiter Artikel dieser Kolumne <
-    </a> </h6>
+{% if beginning == "Kolumne: Req4Arcs" %}
+    <center>
+    <p> <a href="/rec4arcs/">
+      Weitere Artikel dieser Kolumne
+    </a> </p>
+    </center>
 {% endif %}
 
 {% assign beginning = page.name | slice: 0, 43 %}
 {% if beginning == "Kolumne: Hitchhiker's Guide to Docs as Code" %}
-    <h6> <a href="/docsAsCode/">
-      > Weiter Artikel dieser Kolumne <
-    </a> </h6>
+    <center>
+    <p> <a href="/docsAsCode/">
+      Weitere Artikel dieser Kolumne
+    </a> </p>
+    </center>
 {% endif %}
-
-
-{{ content }}
 
