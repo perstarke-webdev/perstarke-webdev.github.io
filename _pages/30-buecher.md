@@ -11,6 +11,16 @@ sidebar:
 
 ## 2021
 
+**November 2021: Meta-Primer**<br>
+
+![](/images/books/meta-primer-cover.png){:align-left}
+
+Gernot Starke: Meta-Primer - So schreibst Du einen INNOQ-Primer
+
+
+Irgendwie nur für INNOQ interessant - eine detaillierte Anleitung, wie jemand einen dieser (ziemlich coolen) INNOQ-Primer schreiben kann: Dafür gibt's eine hervorragende Toolchain - aber vor diesem Meta-Primer gab's leider keinerlei Dokumentation dazu. Hab' ich dann halt gemacht - [hier ist das Resultat](https://www.dropbox.com/s/3hs76faeib425ch/metaprimer-complete.pdf?dl=0) (pdf, 11MB, kostenfreier Download). Demnächst vielleicht auch bei Leanpub.
+
+
 **May 2021: Software Architecture Foundation: CPSA-F Exam Preparation** <br>
 
 ![](/images/books/SWAF-vanHaren-cover.png){: .align-right}
