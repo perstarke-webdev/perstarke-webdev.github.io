@@ -13,7 +13,7 @@ sidebar:
 
 **November 2021: Meta-Primer**<br>
 
-![](/images/books/meta-primer-cover.png){:align-left}
+![](/images/books/meta-primer-cover.png){: .align-left}
 
 Gernot Starke: Meta-Primer - So schreibst Du einen INNOQ-Primer
 
