@@ -17,7 +17,9 @@ layout: splash
 
 {% unless page.link == false %}
     <center>
-    <p> <a href="{{ page.link }}">
+    <p> <a href="{{ page.link }}"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
       Hier online lesen
     </a> </p>
     </center>
@@ -26,7 +28,9 @@ layout: splash
 {% assign beginning = page.name | slice: 0, 15 %}
 {% if beginning == "Kolumne: Knigge" %}
     <center>
-    <p> <a href="/knigge/">
+    <p> <a href="/knigge/"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
       Weitere Artikel dieser Kolumne
     </a> </p>
     </center>
@@ -35,7 +39,9 @@ layout: splash
 {% assign beginning = page.name | slice: 0, 17 %}
 {% if beginning == "Kolumne: Req4Arcs" %}
     <center>
-    <p> <a href="/rec4arcs/">
+    <p> <a href="/rec4arcs/"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
       Weitere Artikel dieser Kolumne
     </a> </p>
     </center>
@@ -44,7 +50,9 @@ layout: splash
 {% assign beginning = page.name | slice: 0, 43 %}
 {% if beginning == "Kolumne: Hitchhiker's Guide to Docs as Code" %}
     <center>
-    <p> <a href="/docsAsCode/">
+    <p> <a href="/docsAsCode/"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
       Weitere Artikel dieser Kolumne
     </a> </p>
     </center>
