@@ -3,7 +3,7 @@ title: Training & Schulung
 layout: splash
 permalink: /training
 header:
-  overlay_image: /images/header/site-header.png
+    overlay_image: /images/header/site-header-flat.png
 excerpt: von Dr. Gernot Starke
 
 

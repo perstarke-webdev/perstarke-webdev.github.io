@@ -4,7 +4,7 @@ excerpt: von (und mit) Dr. Gernot Starke
 layout: single
 permalink: /buecher/
 header:
-  overlay_image: /images/header/site-header.png
+  overlay_image: /images/header/site-header-flat.png
 sidebar:
   nav: "books"
 ---
@@ -374,7 +374,7 @@ Weiterhin habe ich das Thema DDD (_domain-driven design_) aufgenommen.
 ## 2013
 
 **2013: Patterns kompakt, 4. A**<br>
-![](/images/books/pk4-cover.png){: .align-left}
+![](/images/books/PK4-Cover.jpg){: .align-left}
 
 Karl Eilebrecht und Gernot Starke -
 
@@ -398,7 +398,7 @@ Peter Hruschka und Gernot Starke, Software-und-Support Verlag.
 und ich für's JavaMagazin geschrieben - bevor wir die Highlights nochmal überarbeitet
 und in Buchform zusammengefasst haben.
 
-Viele der Kolumnen sind immer noch [online zu lesen](https://jaxenter.de/?s=Knigge),
+Viele der Kolumnen sind immer noch [online zu lesen](https://entwickler.de/?s=Knigge),
 und das Buch hat eine [eigene Website, softwareknigge.de](https://softwareknigge.de).
 
 
