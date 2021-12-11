@@ -65,6 +65,6 @@ Für den Bedarf internationaler Trainings habe ich schon 2016 einen zum iSAQB Cu
 passenden [_Study Guide_](https://leanpub.com/esa42) als eBook veröffentlicht - da es bis dato (leider)
 kein zum iSAQB-Lehrplan passendes (praxisorientiertes) englischsprachiges Lehrbuch zum Thema Softwarearchitektur gab.
 
-Dieser kompakte _study guide_ ersetzt kein umfangreiches Lehrbuch, sondern unterstützt lediglich bei der Vorbereitung auf die iSAQB Foundation Zertifizierungsprüfung. Er setzt Kenngnisse im Software-Engineering sowie Programmiererfahrung voraus.
+Dieser kompakte _study guide_ ersetzt kein umfangreiches Lehrbuch, sondern unterstützt lediglich bei der Vorbereitung auf die iSAQB Foundation Zertifizierungsprüfung. Er setzt Kenntnisse im Software-Engineering sowie Programmiererfahrung voraus.
 
 <hr>
