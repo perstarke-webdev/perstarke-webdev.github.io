@@ -68,3 +68,8 @@ kein zum iSAQB-Lehrplan passendes (praxisorientiertes) englischsprachiges Lehrbu
 Dieser kompakte _study guide_ ersetzt kein umfangreiches Lehrbuch, sondern unterstützt lediglich bei der Vorbereitung auf die iSAQB Foundation Zertifizierungsprüfung. Er setzt Kenntnisse im Software-Engineering sowie Programmiererfahrung voraus.
 
 <hr>
+
+
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}
