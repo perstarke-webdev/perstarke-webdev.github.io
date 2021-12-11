@@ -62,7 +62,7 @@ Schulungsanbieter und Hochschulen verwenden es als Grundlage und/oder Ergänzung
 
 ![https://leanpub.com/esa42](/images/books/esa-EN-study-guide.png){: .align-left}
 Für den Bedarf internationaler Trainings habe ich schon 2016 einen zum iSAQB Curriculum
-passenden [_Study Guide_](https://leanpub.com/esa42) als eBook veröffentlicht - da es bis dato (leider)
+passenden [_Study Guide_](https://www.vanharen.store/software-architecture-foundation) als eBook veröffentlicht - da es bis dato (leider)
 kein zum iSAQB-Lehrplan passendes (praxisorientiertes) englischsprachiges Lehrbuch zum Thema Softwarearchitektur gab.
 
 Dieser kompakte _study guide_ ersetzt kein umfangreiches Lehrbuch, sondern unterstützt lediglich bei der Vorbereitung auf die iSAQB Foundation Zertifizierungsprüfung. Er setzt Kenntnisse im Software-Engineering sowie Programmiererfahrung voraus.
