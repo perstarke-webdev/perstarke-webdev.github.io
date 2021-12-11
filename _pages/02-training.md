@@ -69,7 +69,6 @@ Dieser kompakte _study guide_ ersetzt kein umfangreiches Lehrbuch, sondern unter
 
 <hr>
 
-
-
-### Hinweis
+<br />
+# Termine
 {% include subtle-ads/subtle-ads.html %}
