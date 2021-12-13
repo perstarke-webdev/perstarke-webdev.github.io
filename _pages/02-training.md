@@ -71,4 +71,8 @@ Dieser kompakte _study guide_ ersetzt kein umfangreiches Lehrbuch, sondern unter
 
 <br />
 # Termine
-{% include subtle-ads/subtle-ads.html %}
+
+<div class="boxed">
+{% include subtle-ads/subtle-ads.html type = "left" %}
+</div>
+
