@@ -16,6 +16,8 @@ main:
 articles:
   - title: Jahre
     children:
+      - title: "2021"
+        url: /artikel#2021
       - title: "2020"
         url: /artikel#2020
       - title: "2019"
@@ -42,6 +44,8 @@ articles:
         url: /knigge
       - title: "Docs as Code"
         url: /docsascode
+      - title: "Blogpost-Reihe: What's in a name"
+        url: /whatsinaname
   - title: Tags
     children:
       - title: "Architektur"
@@ -52,6 +56,8 @@ articles:
         url: /artikelNachTags#docsAsCode
       - title: "Fortbildung"
         url: /artikelNachTags#fortbildung
+      - title: "Hybridworkshop"
+        url: /artikelNachTags#Hybridworkshop
       - title: "Knigge"
         url: /artikelNachTags#knigge
       - title: "Legacy"
@@ -68,6 +74,7 @@ articles:
         url: /artikelNachTags#aim42
       - title: "arc42"
         url: /artikelNachTags#arc42
+
 
 
 books:

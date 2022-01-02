@@ -58,3 +58,14 @@ layout: splash
     </center>
 {% endif %}
 
+{% assign beginning = page.name | slice: 0, 27 %}
+{% if beginning == "Blog-Post: What's in a name" %}
+<center>
+    <p> <a href="/whatsinaname/"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
+        Weitere Artikel dieser Reihe
+    </a> </p>
+</center>
+{% endif %}
+

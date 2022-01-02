@@ -1,0 +1,24 @@
+---
+title: "Blogpost-Reihe: What's in a name"
+layout: single
+permalink: /whatsinaname/
+header:
+    overlay_image: /images/header/site-header-flat.png
+---
+{% assign articles = site.articles | sort: 'date2' | reverse %}
+{% assign date = 0 %}
+{% for article in articles %}
+{% assign beginning = article.name | slice: 0, 27 %}
+{% if beginning == "Blog-Post: What's in a name" %}
+{% if date != article.date2 %}
+<h1>{{ article.date2 }}</h1>
+{% endif %}
+<h2>
+    <a href="{{ article.url }}">
+        {{ article.name }}
+    </a>
+</h2>
+<p>{{ article.content | markdownify }}</p>
+{% assign date = article.date2 %}
+{% endif %}
+{% endfor %}
