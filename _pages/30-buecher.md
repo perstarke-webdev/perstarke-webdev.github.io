@@ -4,7 +4,12 @@ excerpt: von (und mit) Dr. Gernot Starke
 layout: single
 permalink: /buecher/
 header:
-  overlay_image: /images/header/site-header-flat.png
+  #overlay_image: /images/header/site-header-flat.png
+  overlay_image: /images/splash/ukrainian-flag.jpg
+  actions: 
+    - label: "Help Ukraine"  
+      url: https://ukrainewar.carrd.co
+
 sidebar:
   nav: "books"
 ---

@@ -3,7 +3,12 @@ title: Dr. Gernot Starke
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/header/site-header.png
+  #overlay_image: /images/header/site-header.png
+  overlay_image: /images/splash/ukrainian-flag.jpg
+  actions: 
+    - label: "Help Ukraine"  
+      url: https://ukrainewar.carrd.co
+
 excerpt: "**Softwarearchitektur und -engineering**"
 
 
