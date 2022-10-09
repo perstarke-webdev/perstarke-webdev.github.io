@@ -19,7 +19,9 @@ For reasons only understood by some dark force, I decided to use the popular Yod
 
 In case you want to 
 - see more Yoda images, please refer to my ART-ificial Yoda gallery, showing fictional and generated Yoda portraits by different artists, sorted by painters' age.
-- read more about art styles with _real_ paintings, see the [following article](https://simplicable.com/new/art-styles). 
+- read more about art styles with _real_ paintings, see
+   - this [simplicable article](https://simplicable.com/new/art-styles) or
+   - this [artland article](https://magazine.artland.com/art-movements-and-styles/#minimalism)
   
 And now, without further ado, let's dive into art styles. As I got completely overwhelmed by the vast number of different styles I encountered when I started researching for this post, I decided to sort them alphabetically, instead of historically.
 
