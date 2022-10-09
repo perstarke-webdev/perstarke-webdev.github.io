@@ -23,6 +23,15 @@ In case you want to
   
 And now, without further ado, let's dive into art styles. As I got completely overwhelmed by the vast number of different styles I encountered when I started researching for this post, I decided to sort them alphabetically, instead of historically.
 
+## Abstract Art
+Abstract art does not attempt to represent an accurate depiction of a real entity, but instead uses shapes, colours and forms.
+
+| midjourney | DALL.E |
+|--|--|
+|![abstract yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uxnvj0qz387ckkxa25f1.png) |![Abstract Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/133mwrdzdndxbv6fkrkw.png) |
+
+
+
 ## Acacemic Art
 Academic art is a style of painting created under the influence of European academies of art, especially the French Académie des _Beaux-Arts_. It combines influences of Neoclassicism and Romanticism.
 
