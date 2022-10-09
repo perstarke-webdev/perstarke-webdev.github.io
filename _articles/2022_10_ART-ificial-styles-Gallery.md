@@ -146,6 +146,12 @@ Folk art covers visual art made in the context of folk culture. Objects shown ha
 ![Folk art](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9nefwlvygt9huo6an8y8.png)
 
 
+## Futurism
+Futurism (Italian: Futurismo) was an artistic movement from Italy in the early 20th century. It showed dynamism, speed, technology, youth, violence, and modern objects such as the car, the airplane, and other industrial products.
+
+
+![Futurism Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xau00q2yg2qzq40ds5a.png)
+
 
 ## Impressionism
 Impressionism was a 19th-century art movement using relatively small brush strokes and emphasis on accurate depiction of light.
