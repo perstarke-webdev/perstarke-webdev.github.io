@@ -140,6 +140,12 @@ Cubism is an early-20th-century art movement that revolutionized European painti
 
 ![Kubistic Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1q38ut1sah92b4idnehj.png)
 
+## Modern Art
+Modern art includes work produced during the period from the 1860s to the 1970s, and denotes the styles and philosophies of the art created during that era.
+
+
+![Modern Art Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m0912orl8t5kwkx87rpn.png)
+
 
 ## Naive Art
 Naïve art is usually defined as visual art that is created by a person who lacks formal education and training.
