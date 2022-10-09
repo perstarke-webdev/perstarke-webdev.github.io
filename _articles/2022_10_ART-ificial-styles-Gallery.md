@@ -109,6 +109,12 @@ Fauvism is the style of a group of early 20th-century artists whose works favour
 
 ![Fauvism](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m93vqiixe79bijf00vs8.png)
 
+## Folk art
+Folk art covers visual art made in the context of folk culture. Objects shown have practical utility, rather than being only decorative. 
+
+
+![Folk art](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9nefwlvygt9huo6an8y8.png)
+
 
 
 ## Impressionism
