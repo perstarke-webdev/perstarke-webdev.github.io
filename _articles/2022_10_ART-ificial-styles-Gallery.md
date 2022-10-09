@@ -82,6 +82,13 @@ Comics is an art style used to express ideas with images combined with text.
 ![Comic Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r93mong6zx25osalavo.png)
 
 
+## Contemporary Art
+Contemporary art is the art of today, produced in the second half of the 20th century or in the 21st century. Contemporary artists work in a globally influenced, culturally diverse, and technologically advancing world.
+(quoted from Wikipedia)
+
+
+![Contemporary Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t4ygnloffbfbzu09a7pp.png)
+
 
 ## Dadaism
 Dadaism was an art movement of the European avant-garde in the early 20th century, starting in Zürich, Switzerland. New York Dada began 1915, and after 1920 Dada flourished in Paris.
@@ -193,6 +200,14 @@ Pop art is an art movement that emerged in the United Kingdom and the United Sta
 
 ![Pop-Art Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uas3sdnqwc8qjvb6hwm3.png)
 
+## Postmodern Art
+Postmodern art is an art movement that seeks to contradict some aspects of modernism. 
+
+![Postmodern Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hrpx8nv7ugw751t70585.png)
+
+
+
+
 
 ## Renaissance
 Renaissance art (1350 - 1620) is the painting, sculpture, and decorative style of the period of European history, which emerged as a distinct style in Italy.
@@ -231,6 +246,11 @@ Alternative terms are "post-graffiti", "neo-graffiti" and "guerrilla art".
 
 
 ![Street Art](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sship43r7d8gfksa4oi3.png)
+
+## Stuckism
+Stuckism is an international art movement founded in 1999 by Billy Childish and Charles Thomson to promote figurative painting instead of conceptual art.
+
+![Stuckism](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dcwf44dshfndxk9z1y5l.png)
 
 
 
