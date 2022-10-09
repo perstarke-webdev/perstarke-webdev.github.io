@@ -139,6 +139,11 @@ Impressionism was a 19th-century art movement using relatively small brush strok
 
 ![Impressionism](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkfosf3l8rjagbcsxvx4.png)
 
+## Islamic art
+Islamic art has been characterized by the absence of figures and extensive use of calligraphic, geometric and abstract floral patterns.
+
+
+![islamic art Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6jst490s8y79vzoyooot.png)
 
 
 
