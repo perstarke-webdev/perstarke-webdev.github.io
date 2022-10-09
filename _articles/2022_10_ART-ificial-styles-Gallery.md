@@ -239,6 +239,12 @@ Romanticism (also known Romantic era) was an artistic movement that originated i
 
 ![Romantic Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8eyccem9z0m6sx46piu9.png)
 
+## Sketchnote
+Sketchnoting, also referred to as visual notetaking, is the creative and highly graphic process through which someone can record thoughts by using illustrations, symbols, structures, and texts.
+
+
+![Sketchnote Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2ohp8ljt47as8k39q8v.png)
+
 
 
 ## Soviet Art
