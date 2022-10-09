@@ -208,6 +208,12 @@ Neo-Impressionism is a term coined by French art critic Félix Fénéon in 1886 
 
 ![Neo-Impressionistic Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zbgnlfcto2a50lfnmld.png)
 
+## Neon Art
+A somewhat self-explanatory art form.
+
+
+![Neon Art Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e7sj07on0mewttr2ncht.png)
+
 
 
 ## One-Liner
