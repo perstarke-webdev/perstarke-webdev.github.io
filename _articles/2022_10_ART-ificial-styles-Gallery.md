@@ -67,6 +67,13 @@ Art Nouveau is an international style of art, architecture and the decorative ar
 
 ![Art nouveau](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l59xdupcyitflltwq6d7.png)
 
+## Avant-Garde
+The avant-garde is a style that is experimental, radical, or unorthodox with respect to art, culture, or society.
+
+
+![Avant-Garde](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/noeai2fk4hi3bz0xzw7n.png)
+
+
 ## Bauhaus
 The Staatliches Bauhaus (German for 'building house'), was a German art school operational between 1919 and 1933, that combined crafts with fine arts. The school became famous for its approach to design, which attempted to unify the principles of mass production with individual artistic vision.
 
