@@ -321,7 +321,9 @@ The term ukiyo-e (浮世絵) translates as "picture of the floating world".
 ## Vaporwave
 Vaporwave is emerged in the early 2010s, defined partly by slowed-down, chopped and screwed samples of smooth jazz, elevator, R&B, and lounge music from the 1980s and 1990s. Vaporwave paintings incorporate early Internet imagery, late 1990s web design, glitch art, anime, 3D-rendered objects and others.
 
-![Vaporwave Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkk4vehwdpsgjbhy78af.png)
+
+![Vaporwave Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vul56oki9932gk4toggr.png)
+
 
 
 
@@ -344,7 +346,9 @@ See their [terms of service](https://midjourney.gitbook.io/docs/terms-of-service
 
 > Subject to the above license, you own all Assets you create with the Services. This does not apply if you fall under the exceptions below.
 
-These exceptions are unpaid members and large coorperations.
+These exceptions are unpaid members and large cooperations.
 
+## Acknowledgements
 
+Thanx to Simon for the improved version of the _vaporwave_ Yoda. 
 
