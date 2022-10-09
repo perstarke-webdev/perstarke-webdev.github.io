@@ -67,6 +67,11 @@ Art Nouveau is an international style of art, architecture and the decorative ar
 
 ![Art nouveau](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l59xdupcyitflltwq6d7.png)
 
+## Bauhaus
+The Staatliches Bauhaus (German for 'building house'), was a German art school operational between 1919 and 1933, that combined crafts with fine arts. The school became famous for its approach to design, which attempted to unify the principles of mass production with individual artistic vision.
+
+![Bauhaus Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4vi2qx5ccn4j749lzs5.png)
+
 
 
 ## Baroque
