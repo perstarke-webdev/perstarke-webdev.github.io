@@ -1,12 +1,57 @@
 
----
-name: "Yoda, explaining art styles by example"
-date2: 2022-10
-tag: Kunst KI
-author: Dr. Gernot Starke
-paper: dev.to
-link: 
----
+## Contents
+
+- [Introduction](#introduction)
+- [Art Styles](#art-styles)
+  - [Abstract Art](#abstract-art)
+  - [Acacemic Art](#acacemic-art)
+  - [African](#african)
+  - [Aquarelle](#aquarelle)
+  - [Art Deco](#art-deco)
+  - [Art Nouveau](#art-nouveau)
+  - [Avant-Garde](#avant-garde)
+  - [Bauhaus](#bauhaus)
+  - [Baroque](#baroque)
+  - [Colour field](#colour-field)
+  - [Comic](#comic)
+  - [Contemporary Art](#contemporary-art)
+  - [Dadaism](#dadaism)
+  - [Etching](#etching)
+  - [Expressionism](#expressionism)
+  - [Fauvism](#fauvism)
+  - [Folk art](#folk-art)
+  - [Futurism](#futurism)
+  - [Graffiti](#graffiti)
+  - [Impressionism](#impressionism)
+  - [Islamic art](#islamic-art)
+  - [Japonism](#japonism)
+  - [Cubism (or Kubism)](#cubism-or-kubism)
+  - [Modern Art](#modern-art)
+  - [Naive Art](#naive-art)
+  - [Neoclassicism (Neo-classicism)](#neoclassicism-neo-classicism)
+  - [Neo-Impressionism](#neo-impressionism)
+  - [Neon Art](#neon-art)
+  - [One-Liner](#one-liner)
+  - [Pencil drawing](#pencil-drawing)
+  - [Pointilism](#pointilism)
+  - [Pop Art](#pop-art)
+  - [Postmodern Art](#postmodern-art)
+  - [Renaissance](#renaissance)
+  - [Rococo](#rococo)
+  - [Romanticism](#romanticism)
+  - [Sketchnote](#sketchnote)
+  - [Soviet Art](#soviet-art)
+  - [Street Art](#street-art)
+  - [Stuckism](#stuckism)
+  - [Surrealism](#surrealism)
+  - [Symbolism](#symbolism)
+  - [Ukio-e](#ukio-e)
+  - [Vaporwave](#vaporwave)
+  - [Zen](#zen)
+- [Appendix](#appendix)
+  - [Copyrights on these images](#copyrights-on-these-images)
+  - [Acknowledgements](#acknowledgements)
+
 
 This article gives an overview of art styles (more precisely: painting styles), based upon computer-generated images.
 It demonstrates a few capabilities of current AI-based generation systems, namely:
@@ -15,6 +60,7 @@ It demonstrates a few capabilities of current AI-based generation systems, namel
 - [midjourney](https://midjourney.com)
 - [Craiyon](https://www.craiyon.com/)
 
+# Introduction
 For reasons only understood by some dark force, I decided to use the popular Yoda figure as the recurring subject.
 
 In case you want to 
@@ -24,6 +70,8 @@ In case you want to
    - this [artland article](https://magazine.artland.com/art-movements-and-styles/#minimalism)
   
 And now, without further ado, let's dive into art styles. As I got completely overwhelmed by the vast number of different styles I encountered when I started researching for this post, I decided to sort them alphabetically, instead of historically.
+
+# Art Styles
 
 ## Abstract Art
 Abstract art does not attempt to represent an accurate depiction of a real entity, but instead uses shapes, colours and forms.
@@ -114,7 +162,7 @@ Contemporary art is the art of today, produced in the second half of the 20th ce
 
 
 ## Dadaism
-Dadaism was an art movement of the European avant-garde in the early 20th century, starting in Zürich, Switzerland. New York Dada began 1915, and after 1920 Dada flourished in Paris.
+Dadaism was an art movement of the European avant-garde in the early 20th century, starting in Zürich, Switzerland. New York Dada began 1915, and after 1920 Dada flourished in Paris. Dada artists expressed nonsense, irrationality, and anti-bourgeois protest in their works. 
 
 ![Dadaism Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3m0hkndhk6dqlwnq4vzq.png)
 
@@ -151,6 +199,13 @@ Futurism (Italian: Futurismo) was an artistic movement from Italy in the early 2
 
 
 ![Futurism Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xau00q2yg2qzq40ds5a.png)
+
+## Graffiti
+Graffiti is art that is painted or drawn on a walls or other surfaces, often without permission and within public view. Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times.
+
+See also [street art](#street-art)
+![Graffiti Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rey8e0v0q84v8q4hyook.png)
+
 
 
 ## Impressionism
@@ -286,7 +341,7 @@ Soviet art is a visual style that came up after the October Socialist Revolution
 
 
 
-## Street-Art
+## Street Art
 Street art is visual art created in public locations for open visibility. 
 Alternative terms are "post-graffiti", "neo-graffiti" and "guerrilla art".
 
@@ -329,6 +384,12 @@ Vaporwave is emerged in the early 2010s, defined partly by slowed-down, chopped 
 
 
 ![Vaporwave Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vul56oki9932gk4toggr.png)
+
+## Zen
+Zen art is known for elegant simplicity, often in black ink on white paper or silk.
+
+
+![Zen Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uylxsclqu73u6bzqgr05.png)
 
 
 
