@@ -1,6 +1,9 @@
-
+- Update Oct 9th: added Zen
+- Update Oct 10th: added Graffiti
+- Update Oct 11th: added Glitch art (thx to AntonR)
+- Update Oct 12th: added Mosaic
+- 
 ## Contents
-
 - [Introduction](#introduction)
 - [Art Styles](#art-styles)
   - [Abstract Art](#abstract-art)
@@ -21,12 +24,14 @@
   - [Fauvism](#fauvism)
   - [Folk art](#folk-art)
   - [Futurism](#futurism)
+  - [Glitch](#glitch)
   - [Graffiti](#graffiti)
   - [Impressionism](#impressionism)
   - [Islamic art](#islamic-art)
   - [Japonism](#japonism)
   - [Cubism (or Kubism)](#cubism-or-kubism)
   - [Modern Art](#modern-art)
+  - [Mosaic Art](#mosaic-art)
   - [Naive Art](#naive-art)
   - [Neoclassicism (Neo-classicism)](#neoclassicism-neo-classicism)
   - [Neo-Impressionism](#neo-impressionism)
@@ -51,6 +56,7 @@
 - [Appendix](#appendix)
   - [Copyrights on these images](#copyrights-on-these-images)
   - [Acknowledgements](#acknowledgements)
+
 
 
 This article gives an overview of art styles (more precisely: painting styles), based upon computer-generated images.
@@ -147,10 +153,14 @@ Color field painting is a style of abstract painting that emerged in New York Ci
 
 
 ## Comic
-Comics is an art style used to express ideas with images combined with text.
+Comic is an art style used to express ideas with images combined with text.
 
 
 ![Comic Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r93mong6zx25osalavo.png)
+
+
+![Comic Yoda with Donald Duck](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/06q4z0p75jk6e0t8s4py.png)
+
 
 
 ## Contemporary Art
@@ -200,6 +210,14 @@ Futurism (Italian: Futurismo) was an artistic movement from Italy in the early 2
 
 ![Futurism Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xau00q2yg2qzq40ds5a.png)
 
+## Glitch 
+Glitch art uses digital or analog errors for art purposes by either corrupting digital data or manipulating electronic devices.
+
+
+![Glitch art Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bmw23p2y5rdyq7816kx1.png)
+
+
+
 ## Graffiti
 Graffiti is art that is painted or drawn on a walls or other surfaces, often without permission and within public view. Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times.
 
@@ -241,6 +259,12 @@ Modern art includes work produced during the period from the 1860s to the 1970s,
 
 
 ![Modern Art Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m0912orl8t5kwkx87rpn.png)
+
+## Mosaic Art
+A mosaic is an image made of small regular or irregular pieces of colored stone, glass or ceramic.
+
+
+![Mosaic Yoda](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zgqdm51787wbxb6l6y2l.png)
 
 
 ## Naive Art
@@ -417,5 +441,5 @@ These exceptions are unpaid members and large cooperations.
 
 ## Acknowledgements
 
-Thanx to Simon for the improved version of the _vaporwave_ Yoda. 
-
+- Thanx to Simon for the improved version of the _vaporwave_ Yoda. 
+- Thanx to Anton R. for pointing me to Glitch art.
