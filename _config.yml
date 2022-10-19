@@ -1,8 +1,8 @@
 # Jekyll technical configuration!
 #
 
-theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
+github: metadata
 
 search             : false
 search_full_content: false
@@ -25,6 +25,7 @@ permalink       : none
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
+
 # Social Sharing
 twitter:
   username               : gernotstarke
@@ -37,15 +38,13 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
+  provider               : false
+  
 
 # Site Author
 author:
   name             : "Dr. Gernot Starke"
-  avatar           :  /images/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  /images/gernot-starke-2022.webp # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         : "Köln"
   email            : gs@gernotstarke.de

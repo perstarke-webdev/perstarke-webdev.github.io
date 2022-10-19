@@ -7,7 +7,6 @@ LABEL vendor="Gernot Starke"
 COPY Gemfile .
 
 RUN apk update && \
-    apk add ncurses && \
     bundle install
 
 
