@@ -14,6 +14,19 @@ sidebar:
   nav: "books"
 ---
 
+## 2022
+
+**November 2022: arc42 in Aktion, 2. Auflage**<br>
+![](/images/books/arc42-in-Aktion-2.jpg){: .align-right}
+
+(noch mehr) Praktische Tipps zur Architekturdokumentation, von Gernot Starke und Peter Hruschka. Carl-Hanser Verlag, 2022.
+
+Das _missing manual_ zu arc42, was wir schon vor Jahren hätten schreiben sollen: pragmatische Tipps, angefangen bei allgemeinen Grundlagen technischer Doku bis hin zu Ratschlägen für alle Teile von arc42.
+
+Gegenüber der ersten Auflage ist ein zweites, umfangreiches Beispiel hinzugekommen, aus dem Bereich _real-time & embedded systems_. Weiterhin haben wir bei den Werkzeugen nachgelegt, die Tipps ergänzt und insgesamt einiges aufgeräumt.
+
+Es gibt dazu eine [kostenfreie Leseprobe vom Verlag](https://files.hanser.de/Files/Article/ARTK_LPR_9783446463806_0001.pdf).
+
 ## 2021
 
 **November 2021: Meta-Primer**<br>
@@ -243,8 +256,7 @@ Praktische Tipps zur Architekturdokumentation, von Gernot Starke und Peter Hrusc
 
 Das _missing manual_ zu arc42, was wir schon vor Jahren hätten schreiben sollen: pragmatische Tipps, angefangen bei allgemeinen Grundlagen technischer Doku bis hin zu Ratschlägen für alle Teile von arc42.
 
-Unser Fokus hier liegt auf _Sparsamkeit_ und _Pragmatismus_: Wir zeigen, wie Sie
-mit moderatem bis kleinem Aufwand nützliche Dokumentation erstellen und pflegen können.
+Unser Fokus hier liegt auf _Sparsamkeit_ und _Pragmatismus_: Wir zeigen, wie Sie mit moderatem bis kleinem Aufwand nützliche Dokumentation erstellen und pflegen können.
 
 <hr/>
 
