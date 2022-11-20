@@ -82,6 +82,8 @@ articles:
 books:
   - title: Jahre
     children:
+      - title: "2022"
+        url: /buecher#2022
       - title: "2021"
         url: /buecher#2021
       - title: "2020"
