@@ -7,7 +7,8 @@ header:
 ---
 
 
-* <a href="xmxaxixlxtxo:xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxe" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam gesichert)</a>
+* Alte Adresse (noch gültig)<a href="xmxaxixlxtxo:xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxe" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam gesichert)</a>
+* Neue Adresse<a href="ymyayiylytyoy:ygyeyrynyoytysytyayrykyey@ymailbox.org" onmouseover="this.href=this.href.replace(/y/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam gesichert)</a>
 
 * [<i class="fab fa-fw fa-twitter-square"></i>@gernotstarke](https://twitter.com/gernotstarke)
 
