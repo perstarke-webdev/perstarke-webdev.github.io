@@ -6,6 +6,7 @@ author: Martina Meng, Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/hybrid-workshop-setup/
 ---
+![](/images/articles/hybridtraining.png)
 In hybriden Workshops können Menschen online und vor Ort zusammenarbeiten,
 sowohl in Schulungen als auch bei anderen Arten von Meetings.
 In diesem Post zeigen wir euch, wie ihr solche hybriden Workshops oder Trainings durchführen könnt.
