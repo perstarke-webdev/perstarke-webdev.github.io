@@ -10,64 +10,21 @@ sidebar:
   nav: "articles"
 ---
 
-{% assign articles = site.articles | sort: 'tag' %}
+{% assign articles_by_tag = site.articles | sort: 'tag' | group_by: 'tag' %}
 
-{% for article in articles %}
-
-  {% assign articleTag = article.tag %}
-
-  {% if tag != articleTag %}
-    {% if articleTag == "Architektur" %}
-      <a ID = "architektur"> </a>
-    {% endif %}
-    {% if articleTag == "Architekturbewertung" %}
-      <a ID = "architekturbewertung"> </a>
-    {% endif %}
-    {% if articleTag == "Docs as Code" %}
-      <a ID = "docsAsCode"> </a>
-    {% endif %}
-    {% if articleTag == "Fortbildung" %}
-      <a ID = "fortbildung"> </a>
-    {% endif %}
-    {% if articleTag == "Hybridworkshop" %}
-    <a ID = "Hybridworkshop"> </a>
-    {% endif %}
-    {% if articleTag == "Knigge" %}
-      <a ID = "knigge"> </a>
-    {% endif %}
-    {% if articleTag == "Meteor" %}
-      <a ID = "meteor"> </a>
-    {% endif %}
-    {% if articleTag == "Qualität" %}
-      <a ID = "qualität"> </a>
-    {% endif %}
-    {% if articleTag == "Req4Arcs" %}
-      <a ID = "req4arcs"> </a>
-    {% endif %}
-    {% if articleTag == "VENOM" %}
-      <a ID = "venom"> </a>
-    {% endif %}
-    {% if articleTag == "Legacy" %}
-      <a ID = "legacy"> </a>
-    {% endif %}
-    {% if articleTag == "aim42" %}
-      <a ID = "aim42"> </a>
-    {% endif %}
-    {% if articleTag == "arc42" %}
-      <a ID = "arc42"> </a>
-    {% endif %}
-
-    <h1 style="text-decoration:underline;"> {{articleTag}} </h1>
-  {% endif %}
-
+{% for tag in articles_by_tag %}
+<h2>{{ tag.name | capitalize }}</h2>
+<a ID="{{ tag.name }}" > </a>
+<ul>
+  {% assign items = tag.items | sort: 'date2' | reverse %}
+  {% for item in items %}
   <h3>
-    <a href="{{ article.url }}">
-      {{ article.name }}
+    <a href="{{ item.url }}">
+      {{ item.name }}
     </a>
   </h3>
-  <h4> {{article.author}}</h4>
-  <p>{{ article.content | markdownify }}</p>
-
-  {% assign tag = article.tag%}
-
+  <h4> {{item.author}}</h4>
+  <p>{{ item.content | markdownify }}</p>
+  {% endfor %}
+</ul>
 {% endfor %}
