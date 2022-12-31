@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Antimuster: Der Prozessprediger"
-date2: 2012-11
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

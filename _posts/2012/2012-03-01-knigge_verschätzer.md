@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Der Verschätzer"
-date2: 2012-03
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

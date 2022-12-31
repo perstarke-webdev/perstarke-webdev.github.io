@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Entwurf von Softwarearchitekturen"
-date2: 2012-08
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
