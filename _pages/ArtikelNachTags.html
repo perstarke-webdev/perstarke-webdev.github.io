@@ -10,21 +10,3 @@ sidebar:
   nav: "articles"
 ---
 
-{% assign articles_by_tag = site.articles | sort: 'tag' | group_by: 'tag' %}
-
-{% for tag in articles_by_tag %}
-<h2>{{ tag.name | capitalize }}</h2>
-<a ID="{{ tag.name }}" > </a>
-<ul>
-  {% assign items = tag.items | sort: 'date2' | reverse %}
-  {% for item in items %}
-  <h3>
-    <a href="{{ item.url }}">
-      {{ item.name }}
-    </a>
-  </h3>
-  <h4> {{item.author}}</h4>
-  <p>{{ item.content | markdownify }}</p>
-  {% endfor %}
-</ul>
-{% endfor %}
