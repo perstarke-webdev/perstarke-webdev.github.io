@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Der Schmutzfink"
-date2: 2014-05
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
@@ -10,4 +9,3 @@ Diese Folge unserer Kolumne handelt von Schmutzfinken, einer Spezies, die so alt
 Sie besitzen einen überaus starken Überlebenswillen und lassen sich auch durch Technologiewechsel nicht aus 
 ihrem Konzept bringen. Im Gegenteil: Mit jeder neuen Technologie, Programmiersprache oder Framework entdecken 
 Schmutzfinken neue und kreative Möglichkeiten, ihrer Passion zu frönen.
-

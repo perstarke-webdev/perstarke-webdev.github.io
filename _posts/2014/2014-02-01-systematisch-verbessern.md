@@ -1,6 +1,5 @@
 ---
 name: "Software systematisch verbessern - Evolution, Änderung und Wartung, aber richtig!"
-date2: 2014-02
 tag: aim42
 author: Dr. Gernot Starke
 paper: BT-Magazin

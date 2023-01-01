@@ -1,6 +1,5 @@
 ---
 name: "Zertifizierung für Fortgeschrittene - ISAQB CPSA-A (Advanced)"
-date2: 2014-09
 tag: Fortbildung
 author: Phillip Ghadir, Dr. Gernot Starke
 paper: Javamagazin
