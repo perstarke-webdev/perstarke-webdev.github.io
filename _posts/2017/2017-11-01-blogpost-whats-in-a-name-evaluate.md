@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Evaluate"
-date2: 2017-11
 tag: Architekturbewertung
 author: Gernot Starke
 paper: INNOQ Blog

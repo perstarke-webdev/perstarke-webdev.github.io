@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Des Doktors neue Kleider"
-date2: 2017-12
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin

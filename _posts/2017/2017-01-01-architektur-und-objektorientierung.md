@@ -1,6 +1,5 @@
 ---
 name: "Architektur und Objektorientierung"
-date2: 2017-01
 tag: Architektur
 author: Dr. Gernot Starke
 paper: OBJEKTspektrum
