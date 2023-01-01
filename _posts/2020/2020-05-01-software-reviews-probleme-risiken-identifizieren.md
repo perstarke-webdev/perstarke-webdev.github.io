@@ -1,6 +1,5 @@
 ---
 name: "The Art of Software Reviews - Probleme und Risiken zielsicher identifizieren"
-date2: 2020-05
 tag: Architekturbewertung
 author: Dr. Gernot Starke
 paper: "iX Developer 2020 - moderne Softwarearchitekturen"

@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: Setup für Online Trainings"
-date2: 2020-04
 tag: Fortbildung
 author: Gernot Starke
 paper: INNOQ Blog
