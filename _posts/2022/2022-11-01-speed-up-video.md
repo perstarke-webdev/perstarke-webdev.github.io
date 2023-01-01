@@ -1,7 +1,6 @@
 ---
 name: "Speed up your video"
-date2: 2022-11
-tag: video tools shell
+tags: video tools shell
 author: Dr. Gernot Starke
 paper: dev.to 
 link: https://dev.to/gernotstarke/speed-up-your-video-1npb

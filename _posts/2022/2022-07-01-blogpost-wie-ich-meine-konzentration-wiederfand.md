@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: Wie ich meine Konzentration wiederfand"
-date2: 2022-07
 tag: Persönlich
 author: Dr. Gernot Starke
 paper: INNOQ Blog

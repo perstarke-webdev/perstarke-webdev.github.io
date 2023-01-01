@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: Principles of technical documentation"
-date2: 2022-01
 tag: Architektur
 author: Dr. Gernot Starke
 paper: INNOQ Blog

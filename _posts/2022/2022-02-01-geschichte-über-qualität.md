@@ -1,7 +1,6 @@
 ---
 name: "Eine kleine Geschichte über Qualität"
-date2: 2022-02
-tag: Qualität Architektur
+tags: Qualität Architektur
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/articles/2022/02/kleine-geschichte-zu-qualitaet/

@@ -1,6 +1,5 @@
 ---
 name: "Im Stich gelassen - systematisch zu besseren Anforderungen"
-date2: 2022-01
 tag: Architektur
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

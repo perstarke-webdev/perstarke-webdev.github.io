@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: How I regained concentration and focus"
-date2: 2022-08
 tag: Produktivität
 author: Dr. Gernot Starke
 paper: INNOQ Blog

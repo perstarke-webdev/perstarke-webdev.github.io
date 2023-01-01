@@ -1,6 +1,5 @@
 ---
 name: "Enable ssh access to multipass vms"
-date2: 2022-08
 tag: vms
 author: Gernot Starke
 paper: dev.to

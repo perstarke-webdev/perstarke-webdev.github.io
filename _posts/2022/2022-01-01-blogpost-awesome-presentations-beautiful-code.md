@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: Awesome presentations deserve beautiful code"
-date2: 2022-01
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog
