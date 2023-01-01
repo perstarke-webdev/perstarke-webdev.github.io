@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Reactive"
-date2: 2015-05
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog
