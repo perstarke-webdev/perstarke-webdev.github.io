@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Build-Magie"
-date2: 2018-06
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin

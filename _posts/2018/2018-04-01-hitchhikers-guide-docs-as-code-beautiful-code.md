@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Beautiful Code"
-date2: 2018-04
 tag: Docs as Code
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
