@@ -1,6 +1,5 @@
 ---
 name: "What is Software Architecture?"
-date2: 2021-03
 tag: Architektur
 author: Gernot Starke
 paper: Van Haren Publishing

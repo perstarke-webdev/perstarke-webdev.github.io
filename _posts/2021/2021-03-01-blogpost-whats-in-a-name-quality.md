@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Quality"
-date2: 2021-03
 tag: Qualität
 author: Gernot Starke
 paper: INNOQ Blog

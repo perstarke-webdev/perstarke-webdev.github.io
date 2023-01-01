@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: Setup für Hybrid-Workshops"
-date2: 2021-12
 tag: Hybridworkshop
 author: Martina Meng, Gernot Starke
 paper: INNOQ Blog

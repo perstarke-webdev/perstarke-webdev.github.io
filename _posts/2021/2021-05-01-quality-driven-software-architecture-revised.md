@@ -1,6 +1,5 @@
 ---
 name: "Quality Driven Software Architecture - Revised"
-date2: 2021-05
 tag: Qualität
 author: Gernot Starke
 paper: INNOQ Magazin

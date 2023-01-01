@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: The (new) Software Architecture Foundation Curriculum"
-date2: 2021-04
 tag: Fortbildung
 author: Gernot Starke
 paper: INNOQ Blog

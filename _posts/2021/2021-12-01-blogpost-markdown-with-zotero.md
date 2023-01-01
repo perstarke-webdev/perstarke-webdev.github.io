@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: Authoring Markdown with Zotero - My Workflow"
-date2: 2021-12
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog

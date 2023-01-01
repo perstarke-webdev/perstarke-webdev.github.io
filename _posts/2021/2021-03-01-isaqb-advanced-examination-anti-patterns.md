@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: ISAQB Advanced Level examination anti-patterns"
-date2: 2021-03
 tag: Fortbildung
 author: Gerrit Beine, Gernot Starke
 paper: INNOQ Blog

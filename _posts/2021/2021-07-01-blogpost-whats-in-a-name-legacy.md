@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Legacy"
-date2: 2021-07
 tag: Legacy
 author: Gernot Starke
 paper: INNOQ Blog
