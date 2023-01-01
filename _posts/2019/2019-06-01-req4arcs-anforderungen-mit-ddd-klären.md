@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Req4Arcs - Anforderungen mit DDD klären"
-date2: 2019-06
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

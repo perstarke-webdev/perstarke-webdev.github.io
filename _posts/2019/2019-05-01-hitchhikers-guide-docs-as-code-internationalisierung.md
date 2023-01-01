@@ -1,6 +1,5 @@
 ---
 name: "Docs as Code: Internationalisierung von Dokumenten - i18n-light mit AsciiDoc & Co."
-date2: 2019-05
 tag: Docs as Code
 author: Dr. Gernot Starke
 paper: Javaspektrum

@@ -1,6 +1,5 @@
 ---
 name: "Kolumne: Req4Arcs - Ausführbare Spezifikationen (und eine Portion BDD)"
-date2: 2019-10
 tag: Req4Arcs
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin

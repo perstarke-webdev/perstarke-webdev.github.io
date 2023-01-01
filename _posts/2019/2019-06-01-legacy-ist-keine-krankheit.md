@@ -1,6 +1,5 @@
 ---
 name: "Legacy ist keine Krankheit - Vermächtnis in kleinen Schritten kontinuierlich fortentwickeln"
-date2: 2019-06
 tag: Legacy
 author: Dr. Gernot Starke
 paper: Objektspektrum
