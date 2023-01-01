@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Bimodale IT"
-date2: 2016-07
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog

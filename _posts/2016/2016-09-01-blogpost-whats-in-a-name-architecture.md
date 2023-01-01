@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Architecture"
-date2: 2016-09
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog

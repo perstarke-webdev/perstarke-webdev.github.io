@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Transparency"
-date2: 2016-05
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog
