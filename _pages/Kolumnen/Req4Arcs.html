@@ -17,7 +17,9 @@ sidebar:
       <h1>{{ article.date | slice: 0,7 }}</h1>
     {% endif %}
     <h2>
-      <a href="{{ article.url }}">
+      <a href="{{ article.url }}"
+         rel="noopener noreferrer nofollow"
+         target="_blank">
         {{ article.name }}
       </a>
     </h2>

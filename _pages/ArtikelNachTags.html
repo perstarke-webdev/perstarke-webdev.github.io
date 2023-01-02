@@ -49,7 +49,9 @@ sidebar:
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
       <h4>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{post.name}}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}"
+           rel="noopener noreferrer nofollow"
+           target="_blank">{{post.name}}</a>
       </h4>
     </article>
     {% endfor %}
