@@ -12,17 +12,23 @@ sidebar:
 
 {% assign sorted_tags = site.tags | sort %}
 
+<style>
+  a:hover {
+    transform: scale(1.15);
+  }
+</style>
+
 {% for tag in sorted_tags %}
 {% capture tag_name %}{{ tag | first }}{% endcapture %}
 <a style="background-color: SkyBlue;
    color: MidnightBlue;
    padding: 5px 10px;
-   border-radius: 20px;
+   border-radius: 15px;
    text-align: center;
-   text-decoration: underline;
+   text-decoration: none;
    display: inline-block;
-   margin-top: 2px;
-   margin-bottom: 2px"
+   margin-top: 3px;
+   margin-bottom: 3px"
    href="{{site.baseurl}}/artikelNachTags/#{{tag_name|slugize}}">{{tag_name}}</a>
 {% endfor %}
 
