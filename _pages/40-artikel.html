@@ -15,14 +15,14 @@ sidebar:
   nav: "articles"
 ---
 
-{% assign articles = site.articles | sort: 'date2' | reverse %}
+{% assign articles = site.posts | sort: 'date' | reverse %}
 
 {% assign date = 0 %}
 {% assign year = 0 %}
 
 {% for article in articles %}
 
-  {% assign articleYear = article.date2 | slice: 0, 4 %}
+  {% assign articleYear = article.date | slice: 0, 4 %}
 
   {% if year != articleYear %}
     {% if articleYear == "2024" %}
@@ -68,8 +68,8 @@ sidebar:
     <h1 style="text-decoration:underline;"> {{articleYear}} </h1>
   {% endif %}
 
-  {% if date != article.date2 %}
-    <h2>{{ article.date2 }}</h2>
+  {% if date != article.date %}
+    <h2>{{ article.date | slice: 0,7 }}</h2>
   {% endif %}
 
   <h3>
@@ -80,7 +80,7 @@ sidebar:
   <h4> {{article.author}}</h4>
   <p>{{ article.content | markdownify }}</p>
 
-  {% assign date = article.date2 %}
+  {% assign date = article.date %}
   {% assign year = articleYear%}
 
 {% endfor %}
