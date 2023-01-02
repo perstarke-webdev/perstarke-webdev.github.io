@@ -166,17 +166,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: "article"
       author_profile: true
       read_time: false
       comments: false
       share: true
       related: true
-  - scope:
-      path: ""
-      type: "articles"
-    values:
-      layout: "article"
 
 
 
