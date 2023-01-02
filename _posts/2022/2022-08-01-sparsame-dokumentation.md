@@ -1,6 +1,6 @@
 ---
 name: "Sparsame Dokumentation"
-tags: Architektur Dokumentation arc42
+tags: Architektur Dokumentation Arc42
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: 

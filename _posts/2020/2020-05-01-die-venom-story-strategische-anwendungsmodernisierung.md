@@ -1,6 +1,6 @@
 ---
 name: "Die VENOM Story: Strategische Anwendungsmodernisierung mit Split+Extract-Strategien"
-tag: VENOM
+tags: Venom Improve Aim42
 author: Dr. Gernot Starke
 paper: Objektspektrum
 link: https://www.innoq.com/de/articles/2020/11/strategische-anwendungsmodernisierung-mit-split-extract-strategien/

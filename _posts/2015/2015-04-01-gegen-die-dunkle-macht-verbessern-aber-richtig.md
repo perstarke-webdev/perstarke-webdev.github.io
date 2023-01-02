@@ -1,6 +1,6 @@
 ---
 name: "Gegen die dunkle Macht - Verbessern, aber richtig!"
-tag: aim42
+tag: Aim42
 author: Dr. Carola Lilienthal, Peter Hruschka, Dr. Gernot Starke
 paper: BT-Magazin, ebenso erschienen im Javamagazin 2015-08
 link: https://kiosk.entwickler.de/java-magazin/java-magazin-8-2015/gegen-die-dunkle-macht/

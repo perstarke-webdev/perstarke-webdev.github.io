@@ -1,6 +1,6 @@
 ---
 name: "Documenting software architecture with arc42"
-tag: arc42
+tag: Arc42
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/en/blog/brief-introduction-to-arc42/ 

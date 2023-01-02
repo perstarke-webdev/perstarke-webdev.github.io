@@ -1,6 +1,6 @@
 ---
 name: "Evolution statt Verschlimmbesserung - mit aim42 Architektur systematisch verbessern"
-tag: aim42
+tag: Aim42
 author: Dr. Gernot Starke
 paper: OBJECTspektrum
 link: https://www.innoq.com/de/articles/2018/01/evolution-statt-verschlimmbesserung/

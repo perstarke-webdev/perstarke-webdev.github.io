@@ -1,6 +1,6 @@
 ---
 name: "Enable ssh access to multipass vms"
-tag: vms
+tag: Vms
 author: Gernot Starke
 paper: dev.to
 link: https://dev.to/arc42/enable-ssh-access-to-multipass-vms-36p7
