@@ -53,6 +53,9 @@ sidebar:
            rel="noopener noreferrer nofollow"
            target="_blank">{{post.name}}</a>
       </h4>
+      <h4> {{post.author}}</h4>
+      <p>{{ post.excerpt | markdownify }}</p>
+      <hr>
     </article>
     {% endfor %}
   </div>
