@@ -4,11 +4,13 @@ tags: Qualität Architektur
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/articles/2022/02/kleine-geschichte-zu-qualitaet/
+excerpt_separator: <!--more-->
 ---
 
 Du denkst Dir nichts Böses, da bittet Dich Tante Lucy um einen kleinen Gefallen… und Du musst Dich entscheiden, wie Du das angehen sollst. Aber als Belohnung winkt ihr leckerer Erdbeerkuchen, außerdem sind wir doch alle Herausforderungen gewöhnt, oder? 
 
 Ähnlichkeiten zu konkreten IT-Systemen und Softwareprojekten wären zufällig, Analogien zu unserer Branche jedoch beabsichtigt
+<!--more-->
 Du stehst in der Küche
 
 …und schneidest Gemüse, da reißt Dein Telefons Dich unsanft aus Deinen Träumen an den baldigen Urlaub.

@@ -4,6 +4,7 @@ tag: Persönlich
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/wie-ich-meine-konzentration-wiederfand/
+excerpt_separator: <!--more-->
 ---
 
 Jahrelang habe ich mit Begeisterung Content produziert, in Form von Büchern, Artikeln, Blogposts, Vorträgen – im Durchschnitt anderthalb Buchauflagen und fünf Artikel pro Jahr. Seit ca. 2020 ist meine Produktivität krass gesunken – was mich total frustriert hat. Äußere Ursachen gab’s keine – also keine Ausreden. Um aus der Misere einen Ausweg zu finden, habe ich mal meine eigene Arbeitsweise auf den Prüfstand gestellt – und einen massiven Verlust an Konzentrationsfähigkeit diagnostiziert. 
@@ -17,3 +18,5 @@ Und dann sind zwei Blitze nahezu gleichzeitig eingeschlagen: Ein Buch und ein Bl
 Im Artikel erkläre ich, wie ich dieser Konzentrationsfalle entwichen bin...
 
 ![Smartphone neu konfiguriert](/images/articles/home-lock.png)
+
+<!--more-->
