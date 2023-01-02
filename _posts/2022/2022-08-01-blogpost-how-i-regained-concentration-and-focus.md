@@ -4,6 +4,7 @@ tag: Produktivität
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/
+excerpt_separator: <!--more-->
 ---
 
 No sooner had I started a task the next thing I knew I was doing something else. I distracted myself by checking my email inbox every so often, and I was addicted to checking what was going on in the world on various news websites – constantly interrupting the original task. You’re perfectly right – this sounds completely insane. Somehow these bad habits had sneaked silently into my life.
@@ -21,6 +22,7 @@ The article explains how I escaped this trap.
 
 The article was also published on [dev.to](https://dev.to/arc42/how-to-regain-concentration-and-focus-32b9).
 
+<!--more-->
 
 ### Fun fact (aka Eigenlob)
 

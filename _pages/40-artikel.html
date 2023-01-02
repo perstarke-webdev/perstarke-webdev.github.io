@@ -80,7 +80,8 @@ sidebar:
     </a>
   </h3>
   <h4> {{article.author}}</h4>
-  <p>{{ article.content | markdownify }}</p>
+  <p>{{ article.excerpt | markdownify }}</p>
+<hr>
 
   {% assign date = article.date %}
   {% assign year = articleYear%}
