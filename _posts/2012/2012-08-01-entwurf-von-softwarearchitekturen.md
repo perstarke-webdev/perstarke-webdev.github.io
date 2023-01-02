@@ -3,7 +3,7 @@ name: "Kolumne: Knigge für Softwarearchitekten - Entwurf von Softwarearchitektu
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
-link: https://jaxenter.de/entwurf-von-softwarearchitekturen-4692
+link: https://entwickler.de/software-architektur/entwurf-von-softwarearchitekturen
 ---
 
 In den letzten Folgen haben wir begonnen, Sie mit dem Lehrplan des iSAQB e.V. bekannt zu machen. 

@@ -3,7 +3,7 @@ name: "Kolumne: Knigge für Softwarearchitekten - Die Kommunikatorin"
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
-link: https://www.softwareknigge.de/20-kommunikatorin
+link: https://entwickler.de/software-architektur/die-kommunikatorin
 ---
 In den letzten Folgen hatten wir begonnen, Sie mit dem Lehrplan des iSAQB e.V. bekannt zu machen.
 Eine wichtige Aufgabe auf Ihrem Weg zum produktiven Architekten ist ein solides Verständnis, wie Sie

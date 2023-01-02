@@ -3,7 +3,7 @@ name: "Kolumne: Knigge für Softwarearchitekten - Die ständig Lernenden"
 tag: Knigge
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
-link: https://jaxenter.de/die-standig-lernenden-5025
+link: https://entwickler.de/java/die-standig-lernenden
 ---
 Willkommen zu einer neuen Serie unserer Kolumne rund um Verhaltensmuster von Softwarearchitekten. 
 In den bisherigen Folgen hatten wir Sie mit guten und schlechten Verhaltensweisen traktiert. 
