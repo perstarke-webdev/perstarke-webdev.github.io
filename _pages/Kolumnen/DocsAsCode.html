@@ -5,13 +5,13 @@ permalink: /docsAsCode/
 header:
   overlay_image: /images/header/site-header-flat.png
 ---
-{% assign articles = site.articles | sort: 'date2' | reverse %}
+{% assign articles = site.posts | sort: 'date' | reverse %}
 {% assign date = 0 %}
 {% for article in articles %}
   {% assign beginning = article.name | slice: 0, 43 %}
   {% if beginning == "Kolumne: Hitchhiker's Guide to Docs as Code" %}
-    {% if date != article.date2 %}
-      <h1>{{ article.date2 }}</h1>
+    {% if date != article.date %}
+      <h1>{{ article.date | slice: 0,7 }}</h1>
     {% endif %}
     <h2>
       <a href="{{ article.url }}">

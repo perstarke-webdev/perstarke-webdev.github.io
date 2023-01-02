@@ -41,7 +41,7 @@ articles:
   - title: Kolumnen
     children:
       - title: "Req4Arcs"
-        url: /rec4arcs
+        url: /req4arcs
       - title: "Knigge"
         url: /knigge
       - title: "Docs as Code"
