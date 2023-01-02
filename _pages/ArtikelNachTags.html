@@ -14,8 +14,19 @@ sidebar:
 
 {% for tag in sorted_tags %}
 {% capture tag_name %}{{ tag | first }}{% endcapture %}
-<a style=“line-height: 150%“ href="{{site.baseurl}}/artikelNachTags/#{{tag_name|slugize}}">{{tag_name}}</a>
+<a style="background-color: SkyBlue;
+   color: MidnightBlue;
+   padding: 5px 10px;
+   border-radius: 25px;
+   text-align: center;
+   text-decoration: underline;
+   display: inline-block;
+   margin-top: 2px;
+   margin-bottom: 2px"
+   href="{{site.baseurl}}/artikelNachTags/#{{tag_name|slugize}}">{{tag_name}}</a>
 {% endfor %}
+
+<hr style="border-top: 2px solid grey">
 
 <div id="archives">
   {% for tag in sorted_tags %}
