@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Req4Arcs - Qualität fällt nicht vom Himmel"
-tag: Req4Arcs
+tags: Req4Arcs Requirements Architektur Qualität
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/req4arcs-qualitaet-faellt-nicht-vom-himmel-86493

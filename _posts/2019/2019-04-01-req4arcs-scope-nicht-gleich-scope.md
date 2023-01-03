@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Req4Arcs - Scope ist nicht gleich Scope"
-tag: Req4Arcs
+tags: Req4Arcs Requirements Architektur
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/kolumne-req4arcs-scope-82057

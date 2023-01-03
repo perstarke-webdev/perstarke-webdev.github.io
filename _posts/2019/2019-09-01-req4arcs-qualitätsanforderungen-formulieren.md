@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Req4Arcs - Qualitätsanforderungen konkret formulieren"
-tag: Req4Arcs
+tags: Req4Arcs Requirements Architektur Qualität
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/stakeholder-qualitaetsanforderungen-konkret-formulieren-86582

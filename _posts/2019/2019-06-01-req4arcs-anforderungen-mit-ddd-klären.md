@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Req4Arcs - Anforderungen mit DDD klären"
-tag: Req4Arcs
+tags: Req4Arcs Requirements Architektur
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/kolumne-req4arcs-anforderungen-ddd-83967

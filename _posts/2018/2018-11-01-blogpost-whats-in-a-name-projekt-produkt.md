@@ -1,6 +1,5 @@
 ---
 name: "Blog-Post: What's in a name: Projekt (und Produkt)"
-date2: 2018-11
 tag: Architektur
 author: Gernot Starke
 paper: INNOQ Blog

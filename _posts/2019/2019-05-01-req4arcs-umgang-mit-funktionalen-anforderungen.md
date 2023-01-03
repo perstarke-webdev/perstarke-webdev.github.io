@@ -1,6 +1,6 @@
 ---
 name: 'Kolumne: Req4Arcs - Vom Umgang mit funktionalen Anforderungen'
-tag: Req4Arcs
+tags: Req4Arcs Requirements Architektur
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/kolumne-funktionale-anforderungen-req4arc-83196
