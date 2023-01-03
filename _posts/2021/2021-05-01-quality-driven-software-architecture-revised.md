@@ -1,6 +1,6 @@
 ---
 name: "Quality Driven Software Architecture - Revised"
-tag: Qualität Architektur
+tags: Qualität Architektur
 author: Gernot Starke
 paper: INNOQ Magazin
 link: https://www.innoq.com/en/articles/2021/08/quality-driven-software-architecture-revised/
