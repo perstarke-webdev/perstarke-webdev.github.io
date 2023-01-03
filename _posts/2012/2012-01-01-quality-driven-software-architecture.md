@@ -1,6 +1,6 @@
 ---
 name: "Quality Driven Software Architecture - mit Fokus auf Qualität bessere Software schaffen"
-tag: Qualität
+tags: Qualität Architektur
 author: Dr. Gernot Starke
 paper: BT-Magazin
 link: https://www.innoq.com/de/articles/2012/04/quality-driven-software-architecture/

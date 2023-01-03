@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die Kommunikatorin"
-tag: Knigge
+tags: Knigge Fortbildung Kommunikation
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://entwickler.de/software-architektur/die-kommunikatorin

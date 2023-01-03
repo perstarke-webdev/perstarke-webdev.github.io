@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Der Zehnkämpfer"
-tag: Knigge
+tags: Knigge Fortbildung
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://entwickler.de/software-architektur/der-zehnkampfer-001
