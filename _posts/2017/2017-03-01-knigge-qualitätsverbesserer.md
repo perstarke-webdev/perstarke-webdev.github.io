@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die Qualitätsverbesserer"
-tag: Knigge
+tags: Knigge Qualität Architekturbewertung
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/knigge-softwarearchitekten-qualitaetsverbesserer-53107

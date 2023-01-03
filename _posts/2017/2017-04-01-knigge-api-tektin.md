@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die API-tektin"
-tag: Knigge
+tags: Knigge API Architektur
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/knigge-softwarearchitekten-api-55316
