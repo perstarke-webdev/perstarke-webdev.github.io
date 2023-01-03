@@ -4,21 +4,27 @@ layout: single
 permalink: /knigge/
 header:
   overlay_image: /images/header/site-header-flat.png
+
+sidebar:
+  nav: "articles"
 ---
-{% assign articles = site.articles | sort: 'date2' | reverse %}
+{% assign articles = site.posts | sort: 'date' | reverse %}
 {% assign date = 0 %}
 {% for article in articles %}
   {% assign beginning = article.name | slice: 0, 15 %}
   {% if beginning == "Kolumne: Knigge" %}
-    {% if date != article.date2 %}
-      <h1>{{ article.date2 }}</h1>
+    {% if date != article.date %}
+      <h1>{{ article.date | slice: 0,7 }}</h1>
     {% endif %}
     <h2>
-      <a href="{{ article.url }}">
+      <a href="{{ article.url }}"
+         rel="noopener noreferrer nofollow"
+         target="_blank">
         {{ article.name }}
       </a>
     </h2>
-    <p>{{ article.content | markdownify }}</p>
+    <p>{{ article.excerpt | markdownify }}</p>
+<hr>
     {% assign date = article.date2 %}
   {% endif %}
 {% endfor %}

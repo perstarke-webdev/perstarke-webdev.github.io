@@ -9,7 +9,7 @@ layout: splash
 
 <hr>
 
-<p> Erschienen {{ page.date2  | slice: 5, 7 }}-{{ page.date2  | slice: 0, 4 }} im {{page.paper}} </p>
+<p> Erschienen {{ page.date | date: '%m-%Y'}} im {{page.paper}} </p>
 <p> <b> Autor(en): </b> {{page.author}} </p>
 </center>
 
@@ -69,3 +69,31 @@ layout: splash
 </center>
 {% endif %}
 
+{% assign sorted_tags = page.tags | sort %}
+
+<style>
+  a:hover {
+    transform: scale(1.15);
+  }
+</style>
+
+<hr>
+
+<center>
+    <b> Tags: </b>
+</center>
+
+<center>
+{% for tag in sorted_tags %}
+<a style="background-color: SkyBlue;
+   color: MidnightBlue;
+   padding: 5px 10px;
+   border-radius: 15px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin-top: 3px;
+   margin-bottom: 3px"
+   href="{{site.baseurl}}/artikelNachTags/#{{tag|slugize}}">{{tag}}</a>
+{% endfor %}
+</center>

@@ -41,41 +41,18 @@ articles:
   - title: Kolumnen
     children:
       - title: "Req4Arcs"
-        url: /rec4arcs
+        url: /req4arcs
       - title: "Knigge"
         url: /knigge
       - title: "Docs as Code"
         url: /docsascode
       - title: "Blogpost-Reihe: What's in a name"
         url: /whatsinaname
-  - title: Tags
-    children:
-      - title: "Architektur"
-        url: /artikelNachTags#architektur
-      - title: "Architekturbewertung"
-        url: /artikelNachTags#architekturbewertung
-      - title: "Docs as Code"
-        url: /artikelNachTags#docsAsCode
-      - title: "Fortbildung"
-        url: /artikelNachTags#fortbildung
-      - title: "Hybridworkshop"
-        url: /artikelNachTags#Hybridworkshop
-      - title: "Knigge"
-        url: /artikelNachTags#knigge
-      - title: "Legacy"
-        url: /artikelNachTags#legacy
-      - title: "Meteor"
-        url: /artikelNachTags#meteor
-      - title: "Qualität"
-        url: /artikelNachTags#qualität
-      - title: "Req4Arcs"
-        url: /artikelNachTags#req4arcs
-      - title: "Venom"
-        url: /artikelNachTags#venom
-      - title: "aim42"
-        url: /artikelNachTags#aim42
-      - title: "arc42"
-        url: /artikelNachTags#arc42
+      - title: "QDSA: Quality-Driven"
+        url: /qdsa
+  - title: Artikel nach Tags
+    url: /artikelNachTags
+
 
 
 
