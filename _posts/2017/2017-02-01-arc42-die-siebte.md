@@ -1,6 +1,6 @@
 ---
 name: "Die Antwort auf alle Fragen: arc42 - die Siebte"
-tag: Arc42
+tag: arc42
 author: Dr. Gernot Starke
 paper: Javaspektrum
 link: false

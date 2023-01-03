@@ -1,6 +1,6 @@
 ---
 name: "Blog-Post: Arc42 - die Siebte"
-tag: Arc42
+tag: arc42
 author: Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/arc42-die-siebte/
