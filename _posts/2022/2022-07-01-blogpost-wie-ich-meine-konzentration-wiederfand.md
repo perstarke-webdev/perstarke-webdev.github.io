@@ -1,6 +1,6 @@
 ---
 name: "Blog-Post: Wie ich meine Konzentration wiederfand"
-tag: Persönlich
+tags: Persönlich Produktivität
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/wie-ich-meine-konzentration-wiederfand/

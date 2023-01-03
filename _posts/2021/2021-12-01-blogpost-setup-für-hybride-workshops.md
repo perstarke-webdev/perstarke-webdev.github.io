@@ -1,6 +1,6 @@
 ---
 name: "Blog-Post: Setup für Hybrid-Workshops"
-tag: Fortbildung Online-Training
+tags: Fortbildung Online-Training
 author: Martina Meng, Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/hybrid-workshop-setup/

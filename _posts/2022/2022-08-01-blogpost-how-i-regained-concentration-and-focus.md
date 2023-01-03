@@ -1,6 +1,6 @@
 ---
 name: "Blog-Post: How I regained concentration and focus"
-tag: Produktivität
+tags: Persönlich Produktivität
 author: Dr. Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/

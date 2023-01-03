@@ -1,6 +1,6 @@
 ---
 name: "Im Stich gelassen - systematisch zu besseren Anforderungen"
-tag: Architektur
+tags: Architektur Requirements
 author: Dr. Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://entwickler.de/software-architektur/im-stich-gelassen
