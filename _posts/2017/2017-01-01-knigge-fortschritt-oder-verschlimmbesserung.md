@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Fortschritt oder Verschlimmbesserung?"
-tags: Knigge Aim42 Improve
+tags: Knigge aim42 Improve
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/knigge-softwarearchitekten-fortschritt-verschlimmbesserung-51954

@@ -1,6 +1,6 @@
 ---
 name: "Software systematisch verbessern - Evolution, Änderung und Wartung, aber richtig!"
-tag: Aim42
+tag: aim42
 author: Dr. Gernot Starke
 paper: BT-Magazin
 link: https://www.innoq.com/de/articles/2014/07/software-systematisch-verbessern/
