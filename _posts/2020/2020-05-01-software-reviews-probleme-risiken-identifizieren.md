@@ -1,6 +1,6 @@
 ---
 name: "The Art of Software Reviews - Probleme und Risiken zielsicher identifizieren"
-tag: Architekturbewertung Aim42 Improve
+tags: Architekturbewertung Aim42 Improve
 author: Dr. Gernot Starke
 paper: "iX Developer 2020 - moderne Softwarearchitekturen"
 link: https://www.heise.de/ratgeber/The-Art-of-Software-Reviews-Probleme-und-Risiken-zielsicher-identifizieren-4990332.html
