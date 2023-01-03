@@ -1,6 +1,6 @@
 ---
 name: "Blog-Post: What's in a name: Bimodale IT"
-tag: Architektur
+tags: Architektur Bimodale-IT
 author: Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/whats-in-a-name-bimodal/

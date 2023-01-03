@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Bimodale IT"
-tag: Knigge
+tags: Knigge Bimodale-IT
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/knigge-bimodale-it-48295

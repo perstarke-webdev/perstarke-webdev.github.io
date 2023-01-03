@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Schlechte Requirements? Handeln statt Jammern!"
-tag: Knigge
+tags: Knigge Requirements
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/knigge-fuer-softwarearchitekten-schlechte-requirements-handeln-statt-jammern-49991 
