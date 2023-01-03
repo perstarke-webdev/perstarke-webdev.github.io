@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Der Fahnder Teil 1"
-tag: Knigge
+tags: Knigge Fehlersuche
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://entwickler.de/agile/kolumne-knigge-fur-softwarearchitekten-009

@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Ändern als Normalfall"
-tag: Knigge
+tags: Knigge Fehlersuche
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://entwickler.de/software-architektur/knigge-fur-softwarearchitekten-andern-als-normalfall
