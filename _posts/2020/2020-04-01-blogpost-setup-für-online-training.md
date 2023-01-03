@@ -1,6 +1,6 @@
 ---
 name: "Blog-Post: Setup für Online Trainings"
-tag: Fortbildung
+tags: Fortbildung Online-Training
 author: Gernot Starke
 paper: INNOQ Blog
 link: https://www.innoq.com/de/blog/online-training-setup/
