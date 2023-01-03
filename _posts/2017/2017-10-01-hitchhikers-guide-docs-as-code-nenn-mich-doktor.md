@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Nenn' mich einfach Doktor"
-tag: Docs as Code
+tags: Docs-as-Code Dokumentation
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/docs-as-code-asciidoctor-62432

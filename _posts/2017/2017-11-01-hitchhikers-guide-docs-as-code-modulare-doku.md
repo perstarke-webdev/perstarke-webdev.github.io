@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Modulare Dokumentationen erstellen"
-tag: Docs as Code
+tags: Docs-as-Code Dokumentation
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/documentation-modularisierung-63743

@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Websites mit Asciidoctor"
-tag: Docs as Code
+tags: Docs-as-Code Dokumentation
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/hitchhikers-guide-docs-code-asciidoctor-jekyll-73753

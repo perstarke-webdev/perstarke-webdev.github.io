@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - Diagramme, jetzt wird modelliert"
-tag: Docs as Code
+tags: Docs-as-Code Dokumentation
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/docs-to-code-doctoolchain-67524

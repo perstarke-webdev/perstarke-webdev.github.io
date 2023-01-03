@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Hitchhiker's Guide to Docs as Code - PDF-Output"
-tag: Docs as Code
+tags: Docs-as-Code Dokumentation
 author: Ralf D. Müller, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/hitchhikers-guide-docs-code-pdf-output-72950
