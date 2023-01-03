@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Die Systematischverbesserin"
-tag: Knigge
+tags: Knigge Improve
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/die-systematischverbesserin-knigge-fur-softwarearchitekten-482

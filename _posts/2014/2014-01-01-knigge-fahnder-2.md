@@ -1,6 +1,6 @@
 ---
 name: "Kolumne: Knigge für Softwarearchitekten - Der Fahnder Teil 2: Spuren verfolgen"
-tag: Knigge
+tags: Knigge Fehlersuche
 author: Peter Hruschka, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/knigge-fur-softwarearchitekten-spuren-verfolgen-1531
