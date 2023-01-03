@@ -1,6 +1,6 @@
 ---
 name: "Gut genug? - Softwarearchitekturen bewerten"
-tag: Architekturbewertung
+tags: Architektur Architekturbewertung
 author: Stefan Toth, Phillip Ghadir, Dr. Gernot Starke
 paper: Javamagazin
 link: https://jaxenter.de/softwarearchitektur-bewerten-aber-wie-16288

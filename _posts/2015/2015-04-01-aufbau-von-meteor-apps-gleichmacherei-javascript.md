@@ -1,6 +1,6 @@
 ---
 name: "Aufbau von Meteor-Apps - Gleichmacherei in JavaScript"
-tags: Meteor  JavaScript
+tags: Meteor JavaScript
 author: Dr. Gernot Starke
 paper: Javaspektrum
 link: 
