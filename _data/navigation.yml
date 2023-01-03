@@ -48,6 +48,8 @@ articles:
         url: /docsascode
       - title: "Blogpost-Reihe: What's in a name"
         url: /whatsinaname
+      - title: "QDSA: Quality-Driven"
+        url: /qdsa
   - title: Artikel nach Tags
     url: /artikelNachTags
 
