@@ -136,7 +136,7 @@ plugins:
   - jekyll-numbered-headings
   - jekyll-analytics
     Plausible:
-      domain: 'example.com'
+      domain: 'gernotstarke.com'
       source: 'https://plausible.io/js/script.js'
 
 # mimic GitHub Pages with --safe
