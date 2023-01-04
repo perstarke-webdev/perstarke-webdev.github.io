@@ -134,6 +134,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-numbered-headings
+  - jekyll-analytics
+    Plausible:
+      domain: 'example.com'
+      source: 'https://plausible.io/js/script.js'
 
 # mimic GitHub Pages with --safe
 whitelist:
