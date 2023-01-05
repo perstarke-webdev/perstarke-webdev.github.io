@@ -6,12 +6,10 @@ share: false
 ---
 
 #### Anbieter und Verantwortliche Person
-
 Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 
 
 #### Kontakt
-
 Telefon: +49 177 728 2570<br>
 e-Mail: gs_at_gernotstarke.de
 <br>
@@ -42,27 +40,25 @@ Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder 
 Diese Site enthält keine Kommentarfunktion, Nutzer können daher keine Beiträge hinterlassen.
 
 #### Analyse, Tracking und Cookies
-Dieses Angebot benutzt KEINE Tracking Werkzeuge (wie beispielsweise
-  Google-Analytics), und verwendet keine Cookies.
+Diese Seite verwendet [plausible.io](https://plausible.io), um Zugriffszahlen zu ermitteln. Dieser Dienst setzt KEINE COOKIES.
+Auch sonst verwendet diese Site keine Cookies.
 
 #### Haftung für Links
-
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
 
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen. Urheberrecht
+Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen. 
 
+### Urheberrecht
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 #### Datenschutzerklärung für die Nutzung von Twitter
-
 Auf unseren Seiten wird auf Funktionen des Dienstes Twitter weitergeleitet. Diese Funktionen werden angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter http://twitter.com/privacy.
 
 Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter http://twitter.com/account/settings ändern.
 
 #### Datenschutzerklärung für die Nutzung von FontAwesome
-
 Auf unseren Seiten verwenden wir grafische Symbole von FontAwesome,
 einem Visualisierungsdienst der Firma Font Awesome, Inc. Dieser Dienst
 erlaubt die Darstellung diverser Icon-Symbole auf unseren Seiten.
@@ -70,9 +66,6 @@ erlaubt die Darstellung diverser Icon-Symbole auf unseren Seiten.
 FontAwesome nutzt anonyme Zugriffsdaten, die in deren
 [privacy policy](https://fontawesome.com/privacy) spezifiziert sind.
 <br/>
-
-#### Web Analytics
-Diese Seite verwendet [plausible.io](https://plausible.io), um Zugriffszahlen zu ermitteln. Dieser Dienst setzt KEINE COOKIES.
 
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
