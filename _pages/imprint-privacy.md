@@ -71,6 +71,9 @@ FontAwesome nutzt anonyme Zugriffsdaten, die in deren
 [privacy policy](https://fontawesome.com/privacy) spezifiziert sind.
 <br/>
 
+#### Web Analytics
+Diese Seite verwendet [plausible.io](https://plausible.io), um Zugriffszahlen zu ermitteln. Dieser Dienst setzt KEINE COOKIES.
+
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
 
