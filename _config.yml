@@ -146,6 +146,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-numbered-headings
+  - jekyll-analytics
   
 
 
