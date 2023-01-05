@@ -134,12 +134,19 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-numbered-headings
+  - jekyll-analytics
+
+jekyll_analytics:
+  Plausible:
+    domain: 'www.gernotstarke.de'
+    source: 'https://plausible.io/js/script.js'
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-numbered-headings
+  - jekyll-analytics
   
 
 
