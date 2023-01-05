@@ -1,5 +1,5 @@
 ---
-name: "Art(-ificial) styles, explained by Yoda"
+name: "Machine-Generated Images - with Yoda"
 tags: Art Yoda AI
 author: Dr. Gernot Starke
 link: https://dev.to/gernotstarke/machine-generated-images-with-yoda-248d
