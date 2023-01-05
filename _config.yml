@@ -138,7 +138,7 @@ plugins:
 
 jekyll_analytics:
   Plausible:
-    domain: 'gernotstarke.com'
+    domain: 'www.gernotstarke.de'
     source: 'https://plausible.io/js/script.js'
 
 # mimic GitHub Pages with --safe
