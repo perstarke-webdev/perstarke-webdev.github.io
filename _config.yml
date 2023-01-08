@@ -4,8 +4,8 @@
 remote_theme: mmistakes/minimal-mistakes
 github: metadata
 
-search             : false
-search_full_content: false
+search             : true
+search_full_content: true
 
 # Site Settings
 locale          : "de"
