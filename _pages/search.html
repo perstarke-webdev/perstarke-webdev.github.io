@@ -5,7 +5,7 @@ permalink: /search
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-  <input type="text" id="search-input" placeholder="search...">
+  <input type="text" id="search-input" placeholder="Suche...">
   <ul id="results-container"></ul>
 </div>
 
@@ -17,6 +17,7 @@ permalink: /search
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
+  noResultsText: ("Keine Ergebnisse!"),
   json: '/search.json'
 })
 </script>
