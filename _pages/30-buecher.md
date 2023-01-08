@@ -196,7 +196,8 @@ als Farbe an.
 **2017: ESA, 8. Auflage**
 
 ![](/images/books/esa8-cover.png){: .align-right}
-8., überarbeitete Auflage. 11/2017 453 Seiten. Flexibler Einband.
+8., überarbeitete Auflage. 11/2017
+453 Seiten.	Flexibler Einband.
 
 Die 8. Auflage von "Effektive Softwarearchitekturen" - wieder mit vielen
 Verbesserungen und Neuerungen (beispielsweise Microservices) - dafür habe
