@@ -12,6 +12,8 @@ main:
     url: /contact  
   - title: "Über mich"
     url: /about
+  - title: Suche
+    url: /search
 
 articles:
   - title: Jahre

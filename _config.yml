@@ -4,9 +4,6 @@
 remote_theme: mmistakes/minimal-mistakes
 github: metadata
 
-search             : true
-search_full_content: true
-
 # Site Settings
 locale          : "de"
 title           : "Dr. Gernot Starke, INNOQ Fellow"

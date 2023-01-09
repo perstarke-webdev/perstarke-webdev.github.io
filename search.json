@@ -1,0 +1,54 @@
+---
+layout: none
+---
+
+[
+
+  {% for post in site.posts %}
+  {
+
+    "title"    : "{{ post.name | escape }}",
+    "excerpt"  : "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+    "url"      : "{{ site.baseurl }}{{ post.url }}",
+    "date"     : "{{ post.date }}"
+
+
+  } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+,
+
+  {% for page in site.pages %}
+  {
+
+    {% if page.title != nil %}
+    {% if page.title != "Artikel" %}
+    {% if page.title != "Sorry..." %}
+    {% if page.title != "Artikel nach Tags" %}
+    {% if page.title != "Kolumne - Hitchhiker’s Guide to Docs as Code" %}
+    {% if page.title != "Kolumne - Knigge für Softwarearchitekten" %}
+    {% if page.title != "Kolumne - QDSA: Quality-Driven" %}
+    {% if page.title != "Blogpost-Reihe: What's in a name" %}
+    {% if page.title != "Kolumne - Req4Arcs" %}
+
+
+      "title"    : "{{ page.title | escape }}",
+      "content"  : {{ page.content | strip_html | strip_newlines | jsonify }},
+      "url"      : "{{ site.baseurl }}{{ page.url }}",
+      "date"     : "{{ page.date }}"
+
+
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endif %}
+
+    } {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+
+]
