@@ -1,0 +1,37 @@
+/* special styles for Gernotstarke website */
+
+
+
+/* Underline years (on articles page) */
+
+h1.year {
+    text-decoration:underline
+}
+
+
+
+/* Tags and hover for tags */
+
+a.hov:hover {
+    transform: scale(1.15);
+    text-decoration: none!important;
+}
+
+a.hov {
+    background-color: SkyBlue;
+    color: MidnightBlue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 3px;
+    margin-bottom: 3px
+}
+
+/* hr for article tag separation line */
+
+hr.art-sep {
+    border-top: 2px solid grey
+}
+
