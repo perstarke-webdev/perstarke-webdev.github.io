@@ -29,7 +29,7 @@ training:
     excerpt: "Grundlagen von Softwarearchitektur. Ich bin [iSAQB](https://isaqb.org) lizenzierter Trainer, und habe in den letzten Jahren mehr als 1000 Personen erfolgreich auf die iSAQB Zertifizierung vorbereitet."
 
   - title: "Advanced"
-    excerpt: "Praxisnahe Weiterbildung für Menschen mit IT-Erfahrung. iSAQB Lizenz für verschiedene Module im Rahmen von CPSA-Advanced (IMPROVE, ADOK, Req4Arc)"
+    excerpt: "Praxisnahe Weiterbildung für Menschen mit IT-Erfahrung. iSAQB Lizenz für verschiedene Module im Rahmen von CPSA-Advanced (IMPROVE, ADOC, Req4Arc)"
 
 
   - title: "Individuell"
@@ -42,7 +42,7 @@ training:
 
 Gerne begrüße ich Sie in einem meiner praxisorientierten
   und kurzweiligen Trainings, die ich gemeinsam
-  mit [**arc42**](https://arc42.de/termine) und [**INNOQ**](https://innoq.com) veranstalte.
+  mit [**arc42**](https://www.arc42.de/termine) und [**INNOQ**](https://www.innoq.com) veranstalte.
 {: .text-center}
 
 
@@ -54,14 +54,14 @@ Gerne begrüße ich Sie in einem meiner praxisorientierten
 # Foundation
 {% include feature_row id="foundation" type="left" %}
 
-![https://esabuch.de](/images/books/esa8-cover.png){: .align-right}
+![https://esabuch.de](/images/books/esa9-cover.png){: .align-right}
 Als Mitgründer des [iSAQB e.V.](https://isaqb.org) arbeite ich seit 2008 an der
 Definition und Weiterentwicklung der Foundation-Ausbildung. Ich leite im iSAQB
 die Arbeitsgruppe _Foundation and Examination_.
 
 
 Mein Buch "Effektive Softwarearchitekturen - ein praktischer Leitfaden" (mittlerweile in der achten Auflage verfügbar) gilt seit Jahre als das Standardwerk zum Thema im deutschen Sprachraum. Viele
-Schulungsanbieter und Hochschulen verwenden es als Grundlage und/oder Ergänzung der Ausbildung. Mehr Details dazu finden Sie auf [esabuch.de](http://esabuch.de).
+Schulungsanbieter und Hochschulen verwenden es als Grundlage und/oder Ergänzung der Ausbildung. Mehr Details dazu finden Sie auf [esabuch.de](https://esabuch.de).
 
 <hr>
 
