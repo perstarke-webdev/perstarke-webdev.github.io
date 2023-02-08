@@ -68,8 +68,9 @@ sidebar:
     <h1 class="year"> {{articleYear}} </h1>
   {% endif %}
 
-  {% if date != article.date %}
-    <h2>{{ article.date | slice: 0,7 }}</h2>
+  {% assign art_date = article.date | slice: 0,7%}
+  {% if date != art_date %}
+    <h2>{{ art_date }}</h2>
   {% endif %}
 
   <h3>
@@ -83,7 +84,7 @@ sidebar:
   <p>{{ article.excerpt | markdownify }}</p>
 <hr>
 
-  {% assign date = article.date %}
+  {% assign date = art_date %}
   {% assign year = articleYear%}
 
 {% endfor %}
