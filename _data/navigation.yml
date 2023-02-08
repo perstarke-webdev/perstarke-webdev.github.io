@@ -18,6 +18,8 @@ main:
 articles:
   - title: Jahre
     children:
+      - title: "2023"
+        url: /artikel#2023
       - title: "2022"
         url: /artikel#2022
       - title: "2021"
