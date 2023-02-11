@@ -6,13 +6,13 @@ github: metadata
 
 # Site Settings
 locale          : "de"
-title           : "Dr. Gernot Starke, INNOQ Fellow"
+title           : "Per Starke Web Development"
 title_separator : "-"
 name            : ""
-description     : "Softwarearchitektur - aber richtig."
-url             : "https://www.gernotstarke.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description     : "Web Development for you"
+url             : "https://www.perstarke-webdev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
-repository      : "gernotstarke/gernotstarke.de-site" # GitHub username/repo-name
+repository      : "Per-Starke/perstarke-webdev-site.de" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs     : false # true, false (default)
 words_per_minute : 200
@@ -24,8 +24,6 @@ bing_site_verification   :
 alexa_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : gernotstarke
   # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -40,15 +38,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Gernot Starke"
-  avatar           :  /images/gernot-starke-2022.webp # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Per Starke"
+  avatar           :  /images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         : "Köln"
-  email            : gs@gernotstarke.de
-  uri              : https://gernotstarke.de
-  github           : gernotstarke
+  email            : per@starke-team.de
+  uri              :
+  github           : Per-Starke
   stack_overflow   :
-  twitter          : gernotstarke
+  twitter          :
   xing             : 
 
 # Reading Files
