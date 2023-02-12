@@ -1,5 +1,5 @@
 ---
-title: Per Starke - Web Development
+title: Per Starke - Webpage Development
 layout: single
 permalink: /
 header:
