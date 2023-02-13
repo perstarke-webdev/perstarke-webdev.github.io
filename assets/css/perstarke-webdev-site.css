@@ -3,12 +3,21 @@
 
 /* define colors */
 :root {
-  --lightblack-background: rgba(0, 0, 0, 0.4)
+  --lightgrey-background: rgba(0, 0, 0, 0.15);
+  --darker-lightgrey-background: rgba(0, 0, 0, 0.3);
 }
 
 
-div.references{
-    background-color: var(--lightblack-background);
+div.references_bright{
+    background-color: var(--lightgrey-background);
+    border-radius: 10px;
     padding-left: 10px;
-    padding-top: 10px;
+    padding-right: 10px;
+}
+
+div.references_dark{
+    background-color: var(--darker-lightgrey-background);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
