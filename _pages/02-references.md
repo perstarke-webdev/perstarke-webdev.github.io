@@ -70,7 +70,7 @@ gernotstarke_de:
   btn_class: "btn--primary"
   excerpt: "Die private Webseite von Dr. Gernot Starke. <br>
             [INNOQ-Fellow.](https://www.innoq.com/de/staff/gernot-starke/) Coach und Consultant für Softwareprojekte, berät Organisationen aus unterschiedlichen Branchen, mit Fokus Informationssysteme. <br>
-            (Mit-)gründer von [arc42](https://www.arc42.de/), Gründer von [aim42](https://www.aim42.org/), Gründungsmitglied des [iSAQB e.V](https://www.isaqb.org/).. <br> <br>
+            (Mit-)gründer von [arc42](https://www.arc42.de/), Gründer von [aim42](https://www.aim42.org/), Gründungsmitglied des [iSAQB e.V](https://www.isaqb.org/)... <br> <br>
              Hier habe ich beim Aufbau der Webseite, vor allem der 'Artikel' Unterseite, geholfen, und helfe dabei, alles aktuell zu halten."
 
 ---
