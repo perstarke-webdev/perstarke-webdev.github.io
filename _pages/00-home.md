@@ -20,7 +20,7 @@ hinzufügen, das Layout ändern oder veralteten Content löschen kannst.
 Wenn du weder Lust hast, bei großen Web-Development Agenturen dafür ein Vermögen auszugeben, 
 noch Interesse daran, das Ganze in einem komplizierten Baukasten-System aufwendig selber zusammenzubauen,
 dann bist du bei mir richtig :)  
-Egal ob für dich *persönlich*, für ein *Event*, für dein *Business*...   
+Egal ob für dich *persönlich*, für ein *Event*, für dein *Business*, für einen *Blog*...   
 Ich erstelle dir deine Webseite, zu günstigen Preisen, mit unkomplizierter Kommunikation, und bin auch nach
 Fertigstellung immer weiter erreichbar für Änderungen oder Nachfragen! 
 
