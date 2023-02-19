@@ -130,6 +130,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-numbered-headings
   - jekyll-include-cache
+  - jemoji
 
 
 # mimic GitHub Pages with --safe

@@ -277,6 +277,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-include-cache
   jekyll-sitemap
+  jemoji
   tzinfo-data
   webrick
 
