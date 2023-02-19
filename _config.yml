@@ -10,13 +10,12 @@ title           : "Per Starke Web Development"
 title_separator : "-"
 name            : ""
 description     : "Web Development for you"
-url             : "https://www.perstarke-webdev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl         : ""  # the subpath of your site, e.g. "/blog"
+url             : "https://www.per-starke.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl         : "/perstarke-webdev-site.de"  # the subpath of your site, e.g. "/blog"
 repository      : "Per-Starke/perstarke-webdev-site.de" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs     : false # true, false (default)
 words_per_minute : 200
-permalink       : none
 
 # SEO Related
 google_site_verification :
