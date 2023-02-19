@@ -2,7 +2,6 @@
 layout: single
 title: Impressum und Datenschutz
 permalink: /imprint
-share: false
 ---
 
 #### Anbieter und Verantwortliche Person
