@@ -1,5 +1,5 @@
 # perstarke-webdev.github.io-site
-Repository for my website "perstarke-webdev-github.io"
+Repository for my website "perstarke-webdev.github.io"
 
 ## Credits
 
