@@ -159,21 +159,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
-      layout: "article"
+      layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: true
-      related: true
-
-
-
-# Collections, for articles
-collections:
-  articles:
-    output: true
