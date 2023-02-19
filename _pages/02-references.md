@@ -73,6 +73,13 @@ gernotstarke_de:
             (Mit-)gründer von [arc42](https://www.arc42.de/), Gründer von [aim42](https://www.aim42.org/), Gründungsmitglied des [iSAQB e.V](https://www.isaqb.org/)... <br> <br>
              Hier habe ich beim Aufbau der Webseite, vor allem der 'Artikel' Unterseite, geholfen, und helfe dabei, alles aktuell zu halten."
 
+squatmax:
+- title: "PowerBase Squat Maxout Anmeldung"
+  image_path: /images/references/powerbase.png
+  url: "https://anmeldung-squatmax.netlify.app/"
+  btn_label: "Zur Webseite"
+  btn_class: "btn--inverse"
+  excerpt: "Die von mir erstellte Anmelde-Seite für den ersten Squat-Only Powerlifting Wettkampf, das PowerBase Squat Maxout!"
 ---
 
 <div class="references_bright">
@@ -101,4 +108,8 @@ gernotstarke_de:
 
 <div class="references_bright">
 {% include feature_row id="gernotstarke_de" type="left" %}
+</div>
+
+<div class="references_dark">
+{% include feature_row id="squatmax" type="right" %}
 </div>
