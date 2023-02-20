@@ -9,7 +9,7 @@ header:
 excerpt: "**Ich entwickle Deine Webseite - <br> praktisch & übersichtlich**"
 ---
 
-### Ein vernünftiger Internetauftritt ist heutzutage quasi unverzichtbar.  
+### Ein vernünftiger Internetauftritt ist heutzutage unverzichtbar.  
 
 Webseiten müssen dabei nicht kompliziert und "fancy" sein, sondern sollen vor allem auf **übersichtliche** 
 und **praktische** Weise zeigen, worum es geht!  
