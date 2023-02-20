@@ -22,3 +22,11 @@ div.references_dark{
     padding-left: 10px;
     padding-right: 10px;
 }
+
+hr.big-sep {
+    border-top: 5px dashed grey
+}
+
+small.price {
+    color: grey
+}
