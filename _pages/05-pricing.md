@@ -19,7 +19,7 @@ Eine Webseite vom gleichen Aufbau wie diese hier, mit von Dir vorgefertigten Bil
 <small>
 Bilder müssen rechtlich von Dir verwendet werden dürfen.  
 Du kannst mir direkt Bilder zukommen lassen, oder z.B. bei [unsplash](https://unsplash.com/) Bilder heraussuchen und mir den Link schicken. <br>
-Wenn Du keine Bilder raussuchen oder Texte vorfertigen möchtest, kann ich das natürlich auch <small> (gegen einen Aufpreis) </small> übernehmen
+Wenn Du keine Bilder raussuchen oder Texte vorfertigen möchtest, kann ich das natürlich auch <small> (gegen einen Aufpreis) </small> übernehmen.
 </small>
 
 #### Weitere Unterseiten (+25€)
@@ -35,11 +35,11 @@ Ein nach Deinen Wünschen gestalteter Blog auf Deiner Homepage, inklusive
 
 #### Event-Seite mit Anmeldung (+50€)
 Eine Anmelde-Seite für Dein Event, gestaltet frei nach Deinen Wünschen, wie zum Beispiel die [Anmelde-Seite
-für das PowerBase Squat Maxout](https://anmeldung-squatmax.netlify.app/anmeldung)
+für das PowerBase Squat Maxout](https://anmeldung-squatmax.netlify.app/anmeldung).
 
 #### Besucherzahlen-Tracking (30€)
 Wenn Du Interesse daran hast, wie viele Leute Deine Webseite besuchen, woher die meisten Aufrufe kommen etc., 
-dann kann ich Dir *cookie-freies* und *privatsphären-freundliches* Tracking mit [Plausible](https://plausible.io/) einbauen
+dann kann ich Dir *cookie-freies* und *privatsphären-freundliches* Tracking mit [Plausible](https://plausible.io/) einbauen.
 
 #### Weitere Wünsche? Frag mich einfach!
 **[Kontaktiere mich](/contact)**
