@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Preise / Angebot
-permalink: /pricing
+title: Leistungen
+permalink: /services
 header:
     overlay_image: /images/splash/webdev.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -26,7 +26,7 @@ Wenn Du keine Bilder raussuchen oder Texte vorfertigen möchtest, kann ich das n
 So viele weitere Unterseiten wie Du möchtest.  
 25€ pro Seite für die ersten zwei weiteren Unterseiten, ab dann nach Absprache.
 
-#### Blog (50-100€)
+#### Blog (+50-100€)
 Ein nach Deinen Wünschen gestalteter Blog auf Deiner Homepage, inklusive
 * Gewünschter Sortierung Deiner Blog-Posts
   * Inklusive Tags
