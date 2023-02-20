@@ -22,7 +22,7 @@ webdev:
   btn_label: "Referenzen"
   btn_class: "btn--primary"
   excerpt: "Ich durfte schon viel Erfahrung im Web Development Bereich sammeln. Unter [Referenzen](/references)
-            findest du einige Webseiten, die ich gestaltet oder bei denen ich mitgewirkt habe."
+            findest Du einige Webseiten, die ich gestaltet oder bei denen ich mitgewirkt habe."
 
 kdk:
 - title: "Powerlifter & Metal-Fan"

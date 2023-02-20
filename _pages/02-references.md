@@ -14,8 +14,7 @@ arc42_de:
   url: "https://www.arc42.de/"
   btn_label: "Zur Webseite"
   btn_class: "btn--primary"
-  excerpt: "arc42 ist das bewährte, pragmatische und praktische Template zur Dokumentation von Softwarearchitektur. <br> <br>
-              Ich habe bei der Gestaltung der Webseite mitgewirkt und helfe bei der Instandhaltung."
+  excerpt: "arc42 ist das bewährte, pragmatische und praktische Template zur Dokumentation von Softwarearchitektur."
 
 arc42_org:
 - title: "arc42.org - successful software architecture"
@@ -23,8 +22,7 @@ arc42_org:
   url: "https://www.arc42.org/"
   btn_label: "Zur Webseite"
   btn_class: "btn--inverse"
-  excerpt: "Die englischsprachige Version der arc42-Webseite. <br> <br>
-            Hier habe ich ebenfalls bei der Gestaltung geholfen und bin aktiv bei der Instandhaltung beteiligt."
+  excerpt: "Die englischsprachige Version der arc42-Webseite."
 
 b_agile_de:
 - title: "b-agile - Ihr Weg zur Agilität"
@@ -41,8 +39,7 @@ arc42_faq:
   url: "https://faq.arc42.org/home/"
   btn_label: "Zur Webseite"
   btn_class: "btn--inverse"
-  excerpt: "Die FAQ-Seite von arc42 - 135 Fragen und Antworten über das Architektur-Dokumentations-Template. <br> <br>
-            Bei dieser Seite helfe ich bei Änderungen im Design und Inhalt."
+  excerpt: "Die FAQ-Seite von arc42 - 135 Fragen und Antworten über das Architektur-Dokumentations-Template."
 
 arc42_quality:
 - title: "quality.arc42.org"
@@ -50,8 +47,7 @@ arc42_quality:
   url: "https://quality.arc42.org/"
   btn_label: "Zur Webseite"
   btn_class: "btn--primary"
-  excerpt: "Diese Webseite hilft beim Verstehen und Definieren von 'Qualität' und Qualitätsanforderungen von Informatiksystemen. <br> <br>
-            Hier habe ich geholfen bei designtechnischen und inhaltliche Erweiterungen sowie beim Verwenden von Tags zur besseren Übersicht."
+  excerpt: "Diese Webseite hilft beim Verstehen und Definieren von 'Qualität' und Qualitätsanforderungen von Informatiksystemen."
 
 arc42_docs:
 - title: "docs.arc42.org"
@@ -59,8 +55,7 @@ arc42_docs:
   url: "https://docs.arc42.org/"
   btn_label: "Zur Webseite"
   btn_class: "btn--inverse"
-  excerpt: "Tipps und Beispiele zur Verwendung des arc42 Templates. <br> <br>
-            Bei dieser Seite helfe ich bei Änderungen im Design und Inhalt."
+  excerpt: "Tipps und Beispiele zur Verwendung des arc42 Templates."
 
 gernotstarke_de:
 - title: "gernotstarke.de"
@@ -70,8 +65,7 @@ gernotstarke_de:
   btn_class: "btn--primary"
   excerpt: "Die private Webseite von Dr. Gernot Starke. <br>
             [INNOQ-Fellow.](https://www.innoq.com/de/staff/gernot-starke/) Coach und Consultant für Softwareprojekte, berät Organisationen aus unterschiedlichen Branchen, mit Fokus Informationssysteme. <br>
-            (Mit-)gründer von [arc42](https://www.arc42.de/), Gründer von [aim42](https://www.aim42.org/), Gründungsmitglied des [iSAQB e.V](https://www.isaqb.org/)... <br> <br>
-             Hier habe ich beim Aufbau der Webseite, vor allem der 'Artikel' Unterseite, geholfen, und helfe dabei, alles aktuell zu halten."
+            (Mit-)gründer von [arc42](https://www.arc42.de/), Gründer von [aim42](https://www.aim42.org/), Gründungsmitglied des [iSAQB e.V](https://www.isaqb.org/)..."
 
 squatmax:
 - title: "PowerBase Squat Maxout Anmeldung"
@@ -79,7 +73,7 @@ squatmax:
   url: "https://anmeldung-squatmax.netlify.app/"
   btn_label: "Zur Webseite"
   btn_class: "btn--inverse"
-  excerpt: "Die von mir erstellte Anmelde-Seite für den ersten Squat-Only Powerlifting Wettkampf, das PowerBase Squat Maxout!"
+  excerpt: "Die Anmelde-Seite für den ersten Squat-Only Powerlifting Wettkampf, das PowerBase Squat Maxout!"
 ---
 
 <div class="references_bright">
