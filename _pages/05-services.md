@@ -17,12 +17,6 @@ Eine Webseite vom gleichen Aufbau wie diese hier, mit von Dir vorgefertigten Bil
 * Optimiert für sowohl Computer und Tablet als auch für Handy
 * URL deiner Wahl <small markdown="1"> *(z.B. "www.deine-webseite.de")* </small>
 
-<small>
-Bilder müssen rechtlich von Dir verwendet werden dürfen.  
-Du kannst mir direkt Bilder zukommen lassen, oder z.B. bei [unsplash](https://unsplash.com/) Bilder heraussuchen und mir den Link schicken. <br>
-Wenn Du keine Bilder heraussuchen oder Texte vorfertigen möchtest, kann ich das natürlich auch <small> (gegen einen Aufpreis) </small> übernehmen.
-</small>
-
 <hr class="big-sep">
 
 #### Weitere Unterseiten <i class="fa-solid fa-file"></i><small class="price"> (+25€) </small>
