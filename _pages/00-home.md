@@ -1,5 +1,5 @@
 ---
-title: Per Starke - Webpage Development
+title: Per Starke - Web Development
 layout: splash
 permalink: /
 header:

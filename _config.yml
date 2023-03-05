@@ -9,7 +9,7 @@ locale          : "de"
 title           : "Per Starke Web Development"
 title_separator : "-"
 name            : ""
-description     : "Webpage Development for you"
+description     : "Web Development for you"
 url             : "https://perstarke-webdev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
 repository      : "perstarke-webdev/perstarke-webdev.github.io" # GitHub username/repo-name
