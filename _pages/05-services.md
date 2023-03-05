@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Leistungen
 permalink: /services
 header:
@@ -9,13 +9,16 @@ header:
 ---
 
 # Standard-Homepage <small> <i class="fa-solid fa-display"></i> <small class="price"> (150€) </small> </small>
-Eine Webseite vom gleichen Aufbau wie diese hier, mit von Dir vorgefertigten Bildern und Texten:
+Eine Webseite vom gleichen Aufbau wie diese hier - du lieferst die Texte (und auf Wunsch Bilder), ich die fertige Seite!
+* Deine Design-Wünsche
 * Home-Seite
 * bis zu zwei Unterseiten
 * Zusätzlich Kontakt-Seite & Impressum/Datenschutz.
-* Navigationsleiste & Footer-Leiste
 * Optimiert für sowohl Computer und Tablet als auch für Handy
-* URL deiner Wahl <small markdown="1"> *(z.B. "www.deine-webseite.de")* </small>
+* URL deiner Wahl <small markdown="1"> *(z.B. "www.deine-webseite.de")* <small> <br> (dafür können ggfs. kleine jährliche Gebühren auftreten) </small></small>
+* Navigationsleiste & Fußzeile
+* Favicon <small markdown="1"> *(Logo/Bild, welches im Tab neben dem Namen deiner Seite gezeigt wird* </small>
+* Gesamte Webseite optimiert für minimalen Energiebedarf - *green and sustainable IT*
 
 <hr class="big-sep">
 
@@ -26,7 +29,7 @@ So viele weitere Unterseiten wie Du möchtest.
 #### Blog <i class="fa-regular fa-pen-to-square"></i> <small class="price"> (+50-100€) </small>
 Ein nach Deinen Wünschen gestalteter Blog auf Deiner Homepage, inklusive
 * Gewünschter Sortierung Deiner Blog-Posts
-  * Inklusive Tags
+  * Inklusive Kategorien / Tags
 * All Deiner bisherigen Posts
 * Erklärung für das Hinzufügen und Gestalten weiterer Posts
 
@@ -37,6 +40,7 @@ für das PowerBase Squat Maxout](https://anmeldung-squatmax.netlify.app/anmeldun
 #### Besucherzahlen-Tracking <i class="fa-solid fa-chart-simple"></i> <small class="price"> (+30€) </small>
 Wenn Du Interesse daran hast, wie viele Leute Deine Webseite besuchen, woher die meisten Aufrufe kommen etc., 
 dann kann ich Dir *cookie-freies* und *privatsphären-freundliches* Tracking mit [Plausible](https://plausible.io/) einbauen.
+<small markdown="1"> Siehe als Beispiel [status.arc42.org](https://status.arc42.org/)</small>
 
 #### Weitere Wünsche? Frag mich einfach!
 **[Kontaktiere mich](/contact)**
