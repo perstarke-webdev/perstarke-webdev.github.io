@@ -14,10 +14,10 @@ Eine Webseite vom gleichen Aufbau wie diese hier - du lieferst die Texte (und au
 * Home-Seite
 * bis zu zwei Unterseiten
 * Zusätzlich Kontakt-Seite & Impressum/Datenschutz.
-* Optimiert für sowohl Computer und Tablet als auch für Handy
+* Optimiert für sowohl Computer und Tablet als auch für Handy <small markdown="1"> [Hier gibt es Beispiel-Bilder](/gallery#mobile-ansicht-vs-desktop-ansicht) </small>
 * URL deiner Wahl <small markdown="1"> *(z.B. "www.deine-webseite.de")* <small> <br> (dafür können ggfs. kleine jährliche Gebühren auftreten) </small></small>
-* Navigationsleiste & Fußzeile
-* Favicon <small markdown="1"> *(Logo/Bild, welches im Tab neben dem Namen deiner Seite gezeigt wird* </small>
+* [Navigationsleiste](/gallery#navigationsleiste) & [Fußzeile](/gallery#fußzeile)
+* [Favicon](/gallery#favicon) <small markdown="1"> *(Logo/Bild, welches im Tab neben dem Namen deiner Seite gezeigt wird* </small>
 * Gesamte Webseite optimiert für minimalen Energiebedarf - *green and sustainable IT*
 
 <hr class="big-sep">
@@ -30,7 +30,7 @@ So viele weitere Unterseiten wie Du möchtest.
 Ein nach Deinen Wünschen gestalteter Blog auf Deiner Homepage, inklusive
 * Gewünschter Sortierung Deiner Blog-Posts
   * Inklusive Kategorien / Tags
-* All Deiner bisherigen Posts
+* All Deiner bisherigen Posts <small><small> Ggfs. höherer Preis bei >10 bisherigen Posts </small></small>
 * Erklärung für das Hinzufügen und Gestalten weiterer Posts
 
 #### Event-Seite mit Anmeldung <i class="fa-solid fa-calendar-days"></i> <small class="price"> (+50€) </small>

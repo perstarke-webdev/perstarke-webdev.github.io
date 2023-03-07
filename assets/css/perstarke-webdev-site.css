@@ -30,3 +30,32 @@ hr.big-sep {
 small.price {
     color: grey
 }
+
+/* Two boxes next to each other, with responsive design, for gallery */
+div.grid-container {
+  display: grid;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+}
+
+@media (min-width: 800px) {
+  div.small-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+.light_blue {
+    background-color: CornflowerBlue
+}
+
+div.box {
+  margin: 20px;
+  padding: 20px;
+}
+
+img.max300 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgba(0,0,0,0);
+    width: 50%;
+    max-width:300px;
+}
