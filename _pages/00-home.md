@@ -11,8 +11,8 @@ excerpt: "**Ich entwickle Deine Webseite - <br> praktisch & übersichtlich**"
 
 ### Ein vernünftiger Internetauftritt ist heutzutage unverzichtbar.  
 
-Webseiten müssen dabei nicht kompliziert und "fancy" sein, sondern sollen vor allem auf **übersichtliche** 
-und **praktische** Weise zeigen, worum es geht!  
+Webseiten sollen vor allem auf **übersichtliche** und **praktische** Weise zeigen, worum es geht, anstatt 
+kompliziert und "fancy" zu sein!  
 Im Idealfall ist Deine Seite außerdem leicht **änder- und erweiterbar**, sodass Du jederzeit Informationen 
 hinzufügen, das Layout ändern oder veralteten Content löschen kannst.  
 
