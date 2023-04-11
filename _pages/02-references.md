@@ -74,6 +74,14 @@ squatmax:
   btn_label: "Zur Webseite"
   btn_class: "btn--inverse"
   excerpt: "Die Anmelde-Seite für den ersten Squat-Only Powerlifting Wettkampf, das PowerBase Squat Maxout!"
+  
+req42:
+- title: "Req42 - Agiles Requirements Management"
+  image_path: /images/references/req42-logo.webp
+  url: "https://req42.de/"  
+  btn_label: "Zur Webseite"
+  btn_class: "btn--primary"
+  excerpt: "Die deutsch- und die englischsprachige Seite für das Requirements Management Framework req42"
 ---
 
 <div class="references_bright">
@@ -106,4 +114,8 @@ squatmax:
 
 <div class="references_dark">
 {% include feature_row id="squatmax" type="right" %}
+</div>
+
+<div class="references_bright">
+{% include feature_row id="req42" type="left" %}
 </div>
