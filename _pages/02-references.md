@@ -74,7 +74,7 @@ squatmax:
   btn_label: "Zur Webseite"
   btn_class: "btn--inverse"
   excerpt: "Die Anmelde-Seite für den ersten Squat-Only Powerlifting Wettkampf, das PowerBase Squat Maxout!"
-  
+    
 req42:
 - title: "Req42 - Agiles Requirements Management"
   image_path: /images/references/req42-logo.webp
