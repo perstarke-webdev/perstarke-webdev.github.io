@@ -26,7 +26,7 @@ webdev:
 
 kdk:
 - title: "Powerlifter & Metal-Fan"
-  image_path: /images/about/kdk.png
+  image_path: /images/about/kdk.webp
   excerpt: "Ich bin leidenschaftlicher Wettkampf-Kraftsportler mit einem Faible für Metal-Musik :musical_note:"
 ---
 
