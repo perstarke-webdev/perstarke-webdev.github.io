@@ -6,9 +6,15 @@
   --lightgrey-background: rgba(255, 255, 255, 0.15);
   --darker-lightgrey-background: rgba(255, 255, 255, 0.05);
   --default-skin-color: #00adb5;
-  --light-skin-color: color-mix(in srgb, #00adb5, rgb(255,255,255) );
+  --light-skin-color: color-mix(in srgb, #00adb5, rgb(255,255,255));
 }
 
+div.about-box {
+    margin: 30px;
+    padding: 20px;
+    background-color: rgba(0, 173, 181, 0.1);
+    border-radius: 5px;
+}
 
 span.big-colorful-header {
     font-size: 1.3em;
@@ -17,7 +23,7 @@ span.big-colorful-header {
     border-bottom: 1px solid var(--default-skin-color);
 }
 
-colorful-header {
+.colorful-header {
     color: var(--default-skin-color);
 }
 
