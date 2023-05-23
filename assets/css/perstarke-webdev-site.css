@@ -6,6 +6,7 @@
   --lightgrey-background: rgba(0, 0, 0, 0.15);
   --darker-lightgrey-background: rgba(0, 0, 0, 0.8);
   --default-skin-color: #00adb5;
+  --light-skin-color: color-mix(in srgb, #00adb5, rgb(255,255,255) );
 }
 
 
@@ -16,8 +17,22 @@ span.big-colorful-header {
     border-bottom: 1px solid var(--default-skin-color);
 }
 
+colorful-header {
+    color: var(--default-skin-color);
+}
+
+.italic {
+    font-style: italic;
+}
+
 h3.with-bottom-margin {
     margin-bottom: 15px;
+}
+
+span.side-header {
+    color: var(--light-skin-color);
+    font-size: 0.7em;
+    display: inline-block;
 }
 
 div.references_bright{
