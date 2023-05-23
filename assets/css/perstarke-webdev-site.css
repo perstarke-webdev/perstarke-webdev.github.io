@@ -5,8 +5,20 @@
 :root {
   --lightgrey-background: rgba(0, 0, 0, 0.15);
   --darker-lightgrey-background: rgba(0, 0, 0, 0.8);
+  --default-skin-color: #00adb5;
 }
 
+
+span.big-colorful-header {
+    font-size: 1.3em;
+    color: var(--default-skin-color);
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--default-skin-color);
+}
+
+h3.with-bottom-margin {
+    margin-bottom: 15px;
+}
 
 div.references_bright{
     background-color: var(--lightgrey-background);
@@ -43,7 +55,7 @@ div.grid-container {
 }
 
 .light_blue {
-    background-color: #00adb5;
+    background-color: var(--default-skin-color);
 }
 
 div.box {
