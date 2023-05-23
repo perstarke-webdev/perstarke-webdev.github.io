@@ -3,8 +3,8 @@
 
 /* define colors */
 :root {
-  --lightgrey-background: rgba(0, 0, 0, 0.15);
-  --darker-lightgrey-background: rgba(0, 0, 0, 0.8);
+  --lightgrey-background: rgba(255, 255, 255, 0.15);
+  --darker-lightgrey-background: rgba(255, 255, 255, 0.05);
   --default-skin-color: #00adb5;
   --light-skin-color: color-mix(in srgb, #00adb5, rgb(255,255,255) );
 }
