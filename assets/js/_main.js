@@ -143,6 +143,12 @@ $(function() {
 var zero = document.getElementById('ref-zero');
 var one = document.getElementById('ref-one');
 var two = document.getElementById('ref-two');
+var three = document.getElementById('ref-three');
+var four = document.getElementById('ref-four');
+var five = document.getElementById('ref-five');
+var six = document.getElementById('ref-six');
+var seven = document.getElementById('ref-seven');
+var eight = document.getElementById('ref-eight');
 
 
 // Fade about-image out on scroll
@@ -173,7 +179,7 @@ function fadeOutOnScroll(element) {
 function isInViewport(element) {
     const rect = element.getBoundingClientRect();
     return (
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) + 100
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) + 50
     );
 }
 
@@ -184,7 +190,7 @@ function fadeInOnScroll(element){
 
 	if (isInViewport(element) === true) {
 	    element.classList.add("fade-in");
-	}
+	    }
 }
 
 
@@ -192,9 +198,15 @@ function fadeInOnScroll(element){
 // Combine elements and functions
 
 function scrollHandler() {
+
     fadeInOnScroll(one);
     fadeInOnScroll(two);
-    fadeOutOnScroll(zero);
+    fadeInOnScroll(three);
+    fadeInOnScroll(four);
+    fadeInOnScroll(five);
+    fadeInOnScroll(six);
+    fadeInOnScroll(seven);
+    fadeInOnScroll(eight);
 }
 
 window.addEventListener('scroll', scrollHandler);
