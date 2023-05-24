@@ -4,3 +4,4 @@ _site/
 .jekyll-cache
 images/.DS_Store
 .DS_Store
+node_modules
