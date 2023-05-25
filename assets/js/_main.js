@@ -151,63 +151,30 @@ var seven = document.getElementById('ref-seven');
 var eight = document.getElementById('ref-eight');
 
 
-// Fade about-image out on scroll
-
-
-function fadeOutOnScroll(element) {
-	if (!element) {
-		return;
-	}
-
-	var distanceToTop = window.pageYOffset + element.getBoundingClientRect().top;
-	var elementHeight = element.offsetHeight;
-	var scrollTop = document.documentElement.scrollTop;
-
-	var opacity = 1;
-
-	if (scrollTop > distanceToTop) {
-		opacity = 1 - (scrollTop - distanceToTop) / elementHeight;
-	}
-
-	if (opacity >= 0) {
-		element.style.opacity = opacity;
-	}
-}
-
 // Fade in elements on scroll
 
-function isInViewport(element) {
-    const rect = element.getBoundingClientRect();
-    return (
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) + 50
-    );
+function handleIntersection(entries, observer) {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      // Das Element ist im sichtbaren Bereich
+      entry.target.classList.add('fade-in');
+    }
+  });
 }
 
-function fadeInOnScroll(element){
-	if (!element) {
-		return;
-	}
+const options = {
+  root: null,
+  rootMargin: '0px',
+  threshold: 0.5
+};
 
-	if (isInViewport(element) === true) {
-	    element.classList.add("fade-in");
-	    }
-}
-
-
-
-// Combine elements and functions
-
-function scrollHandler() {
-
-    fadeInOnScroll(one);
-    fadeInOnScroll(two);
-    fadeInOnScroll(three);
-    fadeInOnScroll(four);
-    fadeInOnScroll(five);
-    fadeInOnScroll(six);
-    fadeInOnScroll(seven);
-    fadeInOnScroll(eight);
-}
-
-window.addEventListener('scroll', scrollHandler);
+const observer = new IntersectionObserver(handleIntersection, options);
+observer.observe(one);
+observer.observe(two);
+observer.observe(three);
+observer.observe(four);
+observer.observe(five);
+observer.observe(six);
+observer.observe(seven);
+observer.observe(eight);
 
