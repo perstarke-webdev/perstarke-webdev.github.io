@@ -34,8 +34,12 @@ span.big-colorful-header {
     border-bottom: 1px solid var(--default-skin-color);
 }
 
-.colorful-header {
+.colorful {
     color: var(--default-skin-color);
+}
+
+.light-color {
+    color: var(--light-skin-color);
 }
 
 .italic {
