@@ -16,6 +16,10 @@
     display: initial;
 }
 
+/**
+Some basic design stuff
+*/
+
 div.about-box {
     margin: 30px;
     padding: 20px;
@@ -113,4 +117,37 @@ Fade in elements on scroll
 
 .fade-in {
   opacity: 100%;
+}
+
+/**
+underline links on hover
+*/
+
+a.underline-hover-effect:hover{
+text-decoration: none !important;
+}
+
+.underline-hover-effect{
+    display: inline-block;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.underline-hover-effect::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 1px;
+    bottom: -2px;
+    left: 0;
+    background-color: white;
+    transform-origin: bottom right;
+    transition: transform 0.25s;
+    transition-delay: 0.1s;
+}
+
+.underline-hover-effect:hover::after{
+    transform: scaleX(1);
+    transform-origin: bottom left;
 }
