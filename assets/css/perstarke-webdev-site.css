@@ -6,7 +6,7 @@
   --lightgrey-background: rgba(255, 255, 255, 0.15);
   --darker-lightgrey-background: rgba(255, 255, 255, 0.05);
   --default-skin-color: #00adb5;
-  --light-skin-color: color-mix(in srgb, #00adb5, rgb(255,255,255));
+  --light-skin-color: #8efaff;
 }
 
 .instagram:before {
@@ -30,8 +30,13 @@ div.about-box {
 span.big-colorful-header {
     font-size: 1.3em;
     color: var(--default-skin-color);
-    padding-bottom: 2px;
-    border-bottom: 1px solid var(--default-skin-color);
+}
+
+@media (min-width: 700px) {
+    span.big-colorful-header {
+        padding-bottom: 2px;
+        border-bottom: 1px solid var(--default-skin-color);
+    }
 }
 
 .colorful {
